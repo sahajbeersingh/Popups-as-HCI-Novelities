@@ -1,0 +1,3000 @@
+Type,Size,Trigger,Design,Has_CTA,Position,Content_Type,Category
+Banner,Medium,Timer,Flat,No,Bottom Left,Discount,Less Well-Defined
+Dialog,Medium,Exit Intent,Soft,Yes,Bottom Right,Alert,Well-Defined
+Dialog,Large,Exit Intent,Clean,Yes,Full Page,Alert,Well-Defined
+Exit Popup,Small,Hover,Aggressive,Yes,Top,Help,Ambiguous
+Slide-in,Medium,On Load,Flat,No,Bottom Left,Discount,Less Well-Defined
+Floating Box,Small,Hover,Intrusive,No,Top,Survey,Ambiguous
+Banner,Medium,On Load,Bold,Yes,Top,Ad,Well-Defined
+Floating Box,Thin,Hover,Intrusive,No,Top,Survey,Ambiguous
+Dialog,Medium,On Load,Simple,No,Bottom,Discount,Less Well-Defined
+Exit Popup,Small,Timer,Aggressive,Yes,Center,Survey,Ambiguous
+Exit Popup,Thin,Page Load,Aggressive,Yes,Center,Ad,Less Well-Defined
+Notification Bar,Small,Timer,Bold,No,Bottom Left,Newsletter,Less Well-Defined
+Slide-in,Medium,Hover,Basic,Yes,Top Right,Ad,Ambiguous
+Floating Box,Thin,Hover,Basic,No,Top Right,Survey,Ambiguous
+Exit Popup,Medium,Page Load,Intrusive,No,Center,Ad,Ambiguous
+Notification Bar,Medium,Hover,Simple,Yes,Top Left,Newsletter,Less Well-Defined
+Exit Popup,Small,Timer,Intrusive,Yes,Center,Help,Ambiguous
+Banner,Medium,On Load,Bold,No,Bottom Left,Discount,Less Well-Defined
+Notification Bar,Small,On Load,Clean,Yes,Top Left,Help,Less Well-Defined
+Dialog,Small,Timer,Simple,Yes,Bottom,Discount,Less Well-Defined
+Dialog,Large,Exit Intent,Clean,No,Full Page,Ad,Well-Defined
+Modal,Large,Exit Intent,Soft,Yes,Full Page,Alert,Well-Defined
+Fullscreen,Medium,Scroll,Modern,No,Full Page,Ad,Well-Defined
+Fullscreen,Large,On Load,Soft,Yes,Center,Recommendation,Well-Defined
+Modal,Large,Exit Intent,Clean,No,Full Page,Alert,Well-Defined
+Modal,Medium,Click,Soft,Yes,Bottom Right,Offer,Well-Defined
+Banner,Medium,On Load,Bold,Yes,Top Left,Discount,Less Well-Defined
+Tooltip,Thin,Hover,Basic,No,Top Right,Survey,Well-Defined
+Slide-in,Small,Timer,Simple,Yes,Top Left,Newsletter,Less Well-Defined
+Exit Popup,Thin,Hover,Aggressive,Yes,Top Right,Reminder,Ambiguous
+Exit Popup,Thin,Hover,Intrusive,No,Top,Help,Ambiguous
+Notification Bar,Small,On Load,Flat,Yes,Bottom Left,Newsletter,Less Well-Defined
+Exit Popup,Small,Hover,Aggressive,Yes,Top Right,Survey,Ambiguous
+Banner,Medium,Click,Soft,Yes,Top,Ad,Well-Defined
+Floating Box,Medium,Page Load,Basic,No,Top,Help,Ambiguous
+Fullscreen,Large,On Load,Soft,Yes,Top,Recommendation,Well-Defined
+Dialog,Medium,On Load,Soft,Yes,Bottom Right,Ad,Well-Defined
+Fullscreen,Large,Scroll,Clean,Yes,Bottom Right,Offer,Well-Defined
+Fullscreen,Large,Scroll,Clean,No,Center,Alert,Well-Defined
+Tooltip,Thin,Hover,Basic,Yes,Center,Help,Well-Defined
+Notification Bar,Small,On Load,Simple,No,Top Left,Offer,Less Well-Defined
+Dialog,Large,Click,Clean,No,Full Page,Alert,Well-Defined
+Dialog,Large,On Load,Clean,No,Full Page,Recommendation,Well-Defined
+Modal,Medium,Click,Clean,No,Center,Ad,Well-Defined
+Notification Bar,Small,On Load,Bold,No,Bottom Left,Discount,Less Well-Defined
+Tooltip,Thin,Page Load,Flat,Yes,Top Right,Ad,Less Well-Defined
+Notification Bar,Medium,Timer,Bold,No,Top Left,Offer,Less Well-Defined
+Slide-in,Small,Timer,Flat,Yes,Bottom Left,Discount,Less Well-Defined
+Dialog,Large,On Load,Soft,No,Bottom Right,Ad,Well-Defined
+Dialog,Large,Scroll,Soft,Yes,Center,Ad,Well-Defined
+Floating Box,Small,Hover,Flat,No,Top,Ad,Ambiguous
+Floating Box,Medium,Page Load,Aggressive,No,Top Right,Reminder,Ambiguous
+Fullscreen,Large,Scroll,Bold,No,Full Page,Ad,Well-Defined
+Exit Popup,Thin,Page Load,Intrusive,Yes,Top,Survey,Ambiguous
+Dialog,Large,Exit Intent,Bold,No,Top,Offer,Well-Defined
+Dialog,Small,Timer,Clean,Yes,Bottom,Help,Less Well-Defined
+Notification Bar,Medium,Timer,Bold,No,Top Left,Newsletter,Less Well-Defined
+Fullscreen,Medium,On Load,Soft,No,Center,Offer,Well-Defined
+Banner,Small,Timer,Bold,Yes,Bottom Left,Discount,Less Well-Defined
+Slide-in,Medium,Timer,Flat,Yes,Top Right,Reminder,Ambiguous
+Tooltip,Small,Timer,Basic,Yes,Center,Reminder,Ambiguous
+Modal,Large,Click,Modern,No,Center,Ad,Well-Defined
+Banner,Medium,On Load,Clean,Yes,Full Page,Offer,Well-Defined
+Exit Popup,Small,Hover,Basic,Yes,Top,Help,Ambiguous
+Notification Bar,Small,On Load,Flat,Yes,Bottom Left,Newsletter,Less Well-Defined
+Tooltip,Thin,Page Load,Aggressive,Yes,Top,Reminder,Ambiguous
+Slide-in,Small,Timer,Bold,No,Bottom,Discount,Less Well-Defined
+Slide-in,Thin,Timer,Aggressive,Yes,Top,Reminder,Ambiguous
+Notification Bar,Small,Hover,Bold,Yes,Top Left,Offer,Less Well-Defined
+Modal,Large,Exit Intent,Soft,Yes,Center,Ad,Well-Defined
+Notification Bar,Medium,On Load,Bold,No,Bottom Left,Offer,Less Well-Defined
+Banner,Medium,Scroll,Bold,No,Bottom Right,Ad,Well-Defined
+Dialog,Large,On Load,Bold,Yes,Center,Alert,Well-Defined
+Tooltip,Thin,Page Load,Intrusive,Yes,Center,Help,Well-Defined
+Slide-in,Small,Timer,Bold,No,Bottom Left,Offer,Less Well-Defined
+Floating Box,Small,Hover,Flat,No,Top Right,Reminder,Ambiguous
+Notification Bar,Medium,Hover,Simple,No,Top Left,Discount,Less Well-Defined
+Floating Box,Thin,Hover,Basic,Yes,Top Right,Survey,Ambiguous
+Slide-in,Medium,Timer,Intrusive,Yes,Center,Help,Ambiguous
+Tooltip,Small,Page Load,Flat,Yes,Top,Ad,Ambiguous
+Banner,Medium,On Load,Bold,Yes,Top Left,Offer,Less Well-Defined
+Slide-in,Medium,On Load,Bold,Yes,Bottom Left,Offer,Less Well-Defined
+Slide-in,Medium,Timer,Flat,No,Center,Help,Ambiguous
+Exit Popup,Medium,Page Load,Aggressive,Yes,Top,Help,Ambiguous
+Tooltip,Small,Hover,Aggressive,No,Top,Reminder,Ambiguous
+Dialog,Large,Scroll,Clean,Yes,Center,Ad,Well-Defined
+Fullscreen,Medium,Click,Soft,Yes,Full Page,Ad,Less Well-Defined
+Fullscreen,Large,On Load,Modern,Yes,Top,Ad,Well-Defined
+Banner,Small,On Load,Simple,No,Top Left,Newsletter,Less Well-Defined
+Slide-in,Medium,Page Load,Basic,No,Top,Ad,Ambiguous
+Notification Bar,Small,On Load,Simple,Yes,Top Left,Newsletter,Less Well-Defined
+Slide-in,Small,Hover,Flat,Yes,Bottom Left,Discount,Less Well-Defined
+Modal,Large,Click,Clean,Yes,Center,Recommendation,Well-Defined
+Banner,Medium,Hover,Simple,Yes,Top Left,Help,Less Well-Defined
+Exit Popup,Thin,Page Load,Intrusive,Yes,Top Right,Survey,Ambiguous
+Notification Bar,Small,Timer,Bold,No,Bottom Left,Discount,Less Well-Defined
+Floating Box,Medium,Timer,Intrusive,No,Top,Ad,Ambiguous
+Slide-in,Small,On Load,Bold,Yes,Top Left,Newsletter,Less Well-Defined
+Notification Bar,Small,Hover,Clean,Yes,Bottom Left,Discount,Less Well-Defined
+Slide-in,Medium,Page Load,Intrusive,Yes,Top Right,Ad,Ambiguous
+Dialog,Large,Click,Modern,Yes,Top,Offer,Well-Defined
+Tooltip,Small,Timer,Aggressive,Yes,Top Right,Survey,Ambiguous
+Dialog,Medium,Scroll,Clean,Yes,Full Page,Recommendation,Well-Defined
+Notification Bar,Medium,On Load,Simple,No,Top Left,Newsletter,Less Well-Defined
+Fullscreen,Medium,Click,Soft,Yes,Center,Ad,Well-Defined
+Fullscreen,Large,Click,Clean,No,Center,Recommendation,Well-Defined
+Modal,Large,Click,Clean,No,Bottom Right,Recommendation,Well-Defined
+Banner,Small,Hover,Clean,No,Bottom Left,Help,Less Well-Defined
+Fullscreen,Medium,Exit Intent,Clean,No,Full Page,Alert,Well-Defined
+Fullscreen,Large,On Load,Clean,Yes,Bottom Right,Recommendation,Well-Defined
+Exit Popup,Thin,Hover,Intrusive,No,Center,Reminder,Ambiguous
+Exit Popup,Small,Hover,Aggressive,Yes,Top,Survey,Ambiguous
+Banner,Medium,Scroll,Soft,No,Bottom Right,Alert,Well-Defined
+Floating Box,Small,Hover,Basic,No,Top,Help,Ambiguous
+Dialog,Medium,Exit Intent,Bold,Yes,Center,Alert,Well-Defined
+Dialog,Large,Click,Modern,Yes,Full Page,Alert,Well-Defined
+Notification Bar,Medium,Hover,Simple,Yes,Bottom Left,Discount,Less Well-Defined
+Slide-in,Medium,Timer,Bold,No,Bottom Left,Offer,Less Well-Defined
+Tooltip,Thin,Page Load,Basic,No,Center,Reminder,Ambiguous
+Banner,Medium,On Load,Flat,Yes,Top Left,Discount,Less Well-Defined
+Slide-in,Small,On Load,Simple,No,Top Left,Newsletter,Less Well-Defined
+Banner,Medium,On Load,Bold,Yes,Top Left,Offer,Less Well-Defined
+Exit Popup,Thin,Page Load,Flat,No,Top Right,Survey,Ambiguous
+Slide-in,Medium,Page Load,Flat,No,Center,Help,Ambiguous
+Modal,Large,Exit Intent,Soft,Yes,Full Page,Alert,Well-Defined
+Floating Box,Thin,Hover,Basic,Yes,Top,Reminder,Ambiguous
+Fullscreen,Medium,Click,Bold,No,Center,Ad,Well-Defined
+Tooltip,Medium,Page Load,Flat,Yes,Center,Survey,Ambiguous
+Floating Box,Medium,Timer,Flat,Yes,Top Right,Ad,Ambiguous
+Dialog,Medium,On Load,Clean,No,Bottom,Discount,Less Well-Defined
+Banner,Small,On Load,Simple,No,Bottom Left,Help,Less Well-Defined
+Modal,Large,Click,Modern,Yes,Full Page,Recommendation,Ambiguous
+Notification Bar,Small,Hover,Simple,Yes,Top Left,Newsletter,Less Well-Defined
+Notification Bar,Medium,Hover,Flat,Yes,Bottom Left,Help,Less Well-Defined
+Fullscreen,Medium,Click,Clean,No,Top,Alert,Less Well-Defined
+Banner,Medium,Hover,Clean,Yes,Bottom Left,Help,Less Well-Defined
+Slide-in,Medium,On Load,Bold,No,Bottom Left,Offer,Less Well-Defined
+Dialog,Medium,On Load,Flat,Yes,Top Left,Offer,Less Well-Defined
+Modal,Medium,Scroll,Modern,No,Center,Recommendation,Well-Defined
+Floating Box,Small,Page Load,Basic,Yes,Top Right,Help,Ambiguous
+Tooltip,Medium,Hover,Flat,No,Top,Survey,Ambiguous
+Banner,Large,Exit Intent,Soft,No,Top,Recommendation,Less Well-Defined
+Banner,Medium,On Load,Soft,Yes,Full Page,Offer,Ambiguous
+Fullscreen,Medium,On Load,Clean,No,Full Page,Ad,Well-Defined
+Tooltip,Thin,Hover,Basic,Yes,Top Right,Survey,Ambiguous
+Dialog,Large,Scroll,Clean,No,Bottom Right,Ad,Well-Defined
+Slide-in,Medium,Page Load,Intrusive,No,Center,Survey,Ambiguous
+Banner,Medium,Exit Intent,Clean,No,Bottom Right,Ad,Ambiguous
+Dialog,Small,Hover,Flat,Yes,Bottom Left,Discount,Less Well-Defined
+Exit Popup,Small,Page Load,Intrusive,Yes,Top,Help,Ambiguous
+Slide-in,Medium,On Load,Bold,Yes,Bottom Left,Discount,Less Well-Defined
+Slide-in,Small,Timer,Flat,Yes,Bottom Left,Help,Less Well-Defined
+Dialog,Medium,Timer,Clean,No,Top Left,Discount,Less Well-Defined
+Banner,Medium,Scroll,Modern,Yes,Top,Alert,Well-Defined
+Exit Popup,Thin,Hover,Intrusive,No,Top,Survey,Ambiguous
+Banner,Medium,Hover,Simple,Yes,Bottom,Offer,Less Well-Defined
+Dialog,Medium,Timer,Bold,Yes,Top Left,Offer,Less Well-Defined
+Notification Bar,Small,Hover,Clean,No,Bottom Left,Discount,Less Well-Defined
+Banner,Small,Hover,Clean,No,Bottom Left,Discount,Less Well-Defined
+Tooltip,Small,Hover,Intrusive,Yes,Top,Reminder,Ambiguous
+Exit Popup,Thin,Page Load,Intrusive,Yes,Top Right,Reminder,Ambiguous
+Modal,Large,Exit Intent,Soft,No,Center,Recommendation,Well-Defined
+Tooltip,Small,Page Load,Basic,No,Top Right,Help,Ambiguous
+Slide-in,Medium,Timer,Clean,Yes,Top Left,Discount,Ambiguous
+Notification Bar,Small,On Load,Flat,Yes,Bottom,Newsletter,Less Well-Defined
+Floating Box,Medium,Timer,Basic,No,Center,Help,Ambiguous
+Dialog,Large,Exit Intent,Bold,No,Bottom Right,Recommendation,Well-Defined
+Notification Bar,Medium,Hover,Flat,No,Top Left,Discount,Less Well-Defined
+Fullscreen,Large,Exit Intent,Clean,No,Bottom Right,Recommendation,Well-Defined
+Dialog,Medium,Hover,Clean,Yes,Bottom,Offer,Less Well-Defined
+Exit Popup,Small,Page Load,Basic,No,Top,Survey,Well-Defined
+Tooltip,Thin,Hover,Aggressive,No,Top,Help,Ambiguous
+Exit Popup,Medium,Hover,Aggressive,Yes,Top Right,Ad,Ambiguous
+Banner,Medium,Exit Intent,Modern,No,Center,Ad,Ambiguous
+Slide-in,Small,On Load,Flat,Yes,Top Left,Discount,Less Well-Defined
+Dialog,Medium,Exit Intent,Modern,Yes,Bottom Right,Offer,Well-Defined
+Dialog,Medium,Exit Intent,Clean,No,Full Page,Alert,Well-Defined
+Exit Popup,Thin,Hover,Basic,Yes,Top,Help,Ambiguous
+Fullscreen,Large,Click,Modern,No,Center,Alert,Well-Defined
+Banner,Medium,On Load,Flat,Yes,Bottom Left,Offer,Less Well-Defined
+Fullscreen,Large,Exit Intent,Modern,No,Bottom Right,Offer,Well-Defined
+Tooltip,Thin,Timer,Flat,No,Top Right,Survey,Ambiguous
+Dialog,Medium,On Load,Flat,Yes,Bottom Left,Discount,Ambiguous
+Dialog,Large,Scroll,Modern,Yes,Bottom Right,Alert,Well-Defined
+Banner,Small,Timer,Simple,Yes,Bottom Left,Offer,Less Well-Defined
+Dialog,Medium,Timer,Bold,No,Top Left,Newsletter,Less Well-Defined
+Slide-in,Thin,Timer,Flat,Yes,Center,Reminder,Ambiguous
+Banner,Large,Scroll,Bold,No,Bottom Right,Offer,Well-Defined
+Fullscreen,Large,Scroll,Clean,Yes,Full Page,Recommendation,Well-Defined
+Slide-in,Medium,Hover,Aggressive,Yes,Top,Survey,Ambiguous
+Banner,Small,Hover,Flat,Yes,Bottom Left,Newsletter,Less Well-Defined
+Modal,Medium,Click,Clean,No,Full Page,Ad,Well-Defined
+Modal,Large,Scroll,Soft,Yes,Center,Ad,Well-Defined
+Fullscreen,Medium,Exit Intent,Clean,No,Bottom Right,Ad,Well-Defined
+Tooltip,Thin,Timer,Intrusive,No,Top,Survey,Ambiguous
+Notification Bar,Medium,On Load,Flat,Yes,Top Left,Newsletter,Less Well-Defined
+Tooltip,Small,Hover,Aggressive,Yes,Top Right,Survey,Ambiguous
+Exit Popup,Medium,Hover,Flat,Yes,Top Right,Survey,Ambiguous
+Dialog,Large,Click,Modern,No,Top,Ad,Well-Defined
+Banner,Small,Timer,Simple,Yes,Bottom Left,Discount,Less Well-Defined
+Exit Popup,Small,Hover,Aggressive,Yes,Top Right,Reminder,Ambiguous
+Floating Box,Thin,Page Load,Intrusive,No,Center,Help,Ambiguous
+Tooltip,Thin,Hover,Basic,No,Top Right,Help,Ambiguous
+Floating Box,Small,Page Load,Aggressive,Yes,Top Right,Reminder,Ambiguous
+Modal,Large,Click,Soft,No,Center,Recommendation,Well-Defined
+Modal,Large,Click,Modern,Yes,Full Page,Recommendation,Well-Defined
+Notification Bar,Medium,On Load,Flat,No,Bottom Left,Discount,Less Well-Defined
+Slide-in,Thin,Timer,Flat,No,Top,Ad,Ambiguous
+Slide-in,Medium,On Load,Bold,Yes,Bottom Left,Offer,Less Well-Defined
+Tooltip,Thin,Page Load,Basic,No,Top Right,Help,Ambiguous
+Dialog,Medium,Exit Intent,Clean,Yes,Full Page,Ad,Well-Defined
+Floating Box,Thin,Hover,Aggressive,No,Top,Help,Ambiguous
+Slide-in,Medium,Timer,Flat,No,Bottom Left,Offer,Less Well-Defined
+Dialog,Large,Click,Bold,Yes,Bottom Right,Offer,Well-Defined
+Slide-in,Medium,Page Load,Intrusive,No,Center,Survey,Well-Defined
+Fullscreen,Large,Exit Intent,Clean,Yes,Center,Recommendation,Well-Defined
+Tooltip,Small,Page Load,Aggressive,Yes,Top Right,Reminder,Ambiguous
+Banner,Small,Timer,Flat,No,Bottom,Newsletter,Less Well-Defined
+Floating Box,Thin,Hover,Basic,No,Center,Reminder,Ambiguous
+Banner,Small,On Load,Bold,No,Top Left,Discount,Less Well-Defined
+Exit Popup,Small,Hover,Intrusive,Yes,Top Right,Ad,Ambiguous
+Slide-in,Thin,Timer,Flat,Yes,Top Right,Help,Ambiguous
+Banner,Small,Timer,Bold,No,Top Left,Offer,Less Well-Defined
+Modal,Medium,Click,Bold,No,Top,Recommendation,Well-Defined
+Dialog,Large,Scroll,Modern,No,Full Page,Alert,Well-Defined
+Exit Popup,Thin,Page Load,Basic,Yes,Top,Survey,Ambiguous
+Dialog,Medium,Exit Intent,Modern,Yes,Bottom Right,Ad,Well-Defined
+Dialog,Small,Hover,Flat,Yes,Bottom,Discount,Less Well-Defined
+Banner,Medium,Exit Intent,Soft,Yes,Center,Offer,Well-Defined
+Banner,Large,Scroll,Clean,No,Center,Offer,Well-Defined
+Slide-in,Medium,Timer,Clean,No,Top Left,Help,Less Well-Defined
+Tooltip,Thin,Page Load,Aggressive,Yes,Top,Help,Ambiguous
+Tooltip,Thin,Hover,Intrusive,Yes,Top,Reminder,Ambiguous
+Floating Box,Small,Timer,Aggressive,Yes,Top Right,Ad,Ambiguous
+Modal,Large,Exit Intent,Soft,No,Center,Ad,Well-Defined
+Fullscreen,Medium,On Load,Modern,Yes,Bottom Right,Offer,Well-Defined
+Fullscreen,Large,Scroll,Modern,No,Center,Ad,Well-Defined
+Banner,Small,Hover,Bold,Yes,Top Left,Help,Ambiguous
+Modal,Medium,Scroll,Bold,Yes,Full Page,Offer,Well-Defined
+Exit Popup,Medium,Page Load,Flat,No,Top Right,Survey,Ambiguous
+Banner,Large,Click,Clean,No,Full Page,Ad,Well-Defined
+Dialog,Large,Exit Intent,Bold,Yes,Center,Recommendation,Well-Defined
+Exit Popup,Small,Hover,Aggressive,No,Top Right,Survey,Ambiguous
+Tooltip,Small,Page Load,Intrusive,Yes,Center,Ad,Ambiguous
+Fullscreen,Large,Exit Intent,Modern,Yes,Bottom Right,Ad,Well-Defined
+Slide-in,Small,On Load,Simple,Yes,Bottom Left,Discount,Less Well-Defined
+Dialog,Large,Click,Clean,Yes,Center,Alert,Well-Defined
+Banner,Medium,Exit Intent,Modern,Yes,Top,Ad,Well-Defined
+Notification Bar,Medium,On Load,Flat,No,Top Left,Newsletter,Less Well-Defined
+Exit Popup,Medium,Hover,Flat,Yes,Center,Help,Ambiguous
+Tooltip,Thin,Timer,Basic,No,Top Right,Survey,Ambiguous
+Floating Box,Thin,Hover,Intrusive,No,Top Right,Help,Ambiguous
+Fullscreen,Large,Click,Modern,Yes,Bottom Right,Recommendation,Well-Defined
+Slide-in,Small,Hover,Bold,Yes,Bottom,Discount,Less Well-Defined
+Fullscreen,Large,Click,Modern,No,Bottom Right,Ad,Well-Defined
+Banner,Medium,On Load,Flat,Yes,Top Left,Offer,Less Well-Defined
+Notification Bar,Small,On Load,Flat,No,Bottom Left,Offer,Less Well-Defined
+Tooltip,Small,Page Load,Flat,No,Center,Help,Less Well-Defined
+Tooltip,Small,Hover,Intrusive,No,Top,Survey,Ambiguous
+Dialog,Medium,Timer,Bold,No,Bottom Left,Offer,Less Well-Defined
+Exit Popup,Small,Page Load,Intrusive,No,Center,Reminder,Ambiguous
+Banner,Medium,On Load,Clean,No,Center,Alert,Well-Defined
+Notification Bar,Small,Timer,Simple,No,Bottom Left,Offer,Less Well-Defined
+Modal,Large,Click,Modern,No,Center,Alert,Well-Defined
+Slide-in,Small,On Load,Simple,No,Bottom Left,Offer,Less Well-Defined
+Slide-in,Small,Hover,Simple,Yes,Bottom,Help,Ambiguous
+Fullscreen,Medium,Click,Bold,No,Top,Alert,Well-Defined
+Modal,Medium,Exit Intent,Modern,No,Center,Recommendation,Well-Defined
+Slide-in,Medium,Page Load,Aggressive,Yes,Top Right,Ad,Ambiguous
+Modal,Large,Exit Intent,Clean,Yes,Bottom Right,Alert,Well-Defined
+Slide-in,Small,Timer,Bold,No,Top Left,Newsletter,Less Well-Defined
+Fullscreen,Medium,Click,Clean,No,Top,Recommendation,Well-Defined
+Exit Popup,Small,Page Load,Flat,No,Top,Reminder,Ambiguous
+Notification Bar,Medium,Timer,Bold,Yes,Bottom Left,Offer,Less Well-Defined
+Slide-in,Medium,Hover,Flat,Yes,Center,Reminder,Ambiguous
+Modal,Medium,Exit Intent,Soft,No,Bottom Right,Alert,Well-Defined
+Slide-in,Thin,Timer,Basic,Yes,Top Right,Survey,Ambiguous
+Exit Popup,Small,Page Load,Basic,Yes,Top,Help,Ambiguous
+Tooltip,Small,Hover,Intrusive,No,Center,Reminder,Ambiguous
+Floating Box,Medium,Page Load,Flat,No,Top,Ad,Ambiguous
+Slide-in,Medium,On Load,Simple,No,Top Left,Offer,Less Well-Defined
+Slide-in,Small,Page Load,Basic,Yes,Top,Survey,Ambiguous
+Dialog,Large,On Load,Bold,Yes,Center,Recommendation,Well-Defined
+Tooltip,Thin,Timer,Flat,Yes,Top,Reminder,Ambiguous
+Tooltip,Medium,Timer,Flat,Yes,Top Right,Help,Less Well-Defined
+Slide-in,Medium,On Load,Simple,Yes,Bottom Left,Newsletter,Less Well-Defined
+Dialog,Small,Timer,Flat,Yes,Bottom Left,Newsletter,Less Well-Defined
+Floating Box,Medium,Hover,Flat,No,Top,Help,Ambiguous
+Banner,Medium,Timer,Bold,Yes,Bottom Left,Offer,Less Well-Defined
+Floating Box,Small,Page Load,Basic,Yes,Center,Reminder,Ambiguous
+Tooltip,Thin,Hover,Basic,No,Top Right,Reminder,Ambiguous
+Modal,Medium,Exit Intent,Clean,No,Top,Offer,Well-Defined
+Modal,Large,Scroll,Modern,No,Full Page,Recommendation,Well-Defined
+Modal,Large,Scroll,Clean,Yes,Center,Alert,Well-Defined
+Dialog,Small,On Load,Simple,Yes,Bottom,Help,Less Well-Defined
+Dialog,Large,Exit Intent,Soft,Yes,Center,Recommendation,Well-Defined
+Slide-in,Thin,Page Load,Aggressive,Yes,Top,Help,Well-Defined
+Floating Box,Small,Timer,Intrusive,No,Top Right,Reminder,Less Well-Defined
+Fullscreen,Large,Scroll,Bold,Yes,Full Page,Alert,Well-Defined
+Exit Popup,Thin,Hover,Basic,Yes,Top Right,Survey,Ambiguous
+Fullscreen,Large,Scroll,Modern,No,Center,Ad,Well-Defined
+Notification Bar,Small,Hover,Flat,Yes,Bottom Left,Newsletter,Less Well-Defined
+Exit Popup,Thin,Hover,Basic,No,Top Right,Survey,Ambiguous
+Notification Bar,Small,Timer,Flat,No,Bottom Left,Help,Less Well-Defined
+Slide-in,Small,On Load,Bold,No,Bottom Left,Newsletter,Less Well-Defined
+Dialog,Large,Scroll,Bold,No,Top,Recommendation,Well-Defined
+Notification Bar,Medium,Timer,Clean,Yes,Bottom,Help,Less Well-Defined
+Tooltip,Thin,Timer,Aggressive,No,Top,Reminder,Ambiguous
+Exit Popup,Medium,Hover,Flat,Yes,Center,Ad,Ambiguous
+Floating Box,Small,Page Load,Intrusive,No,Top Right,Reminder,Ambiguous
+Slide-in,Small,Hover,Flat,Yes,Top,Reminder,Ambiguous
+Tooltip,Medium,Hover,Basic,Yes,Top Right,Survey,Ambiguous
+Banner,Small,Timer,Flat,No,Top Left,Newsletter,Less Well-Defined
+Dialog,Large,Exit Intent,Clean,Yes,Bottom Right,Recommendation,Well-Defined
+Slide-in,Medium,Hover,Clean,Yes,Bottom,Help,Less Well-Defined
+Notification Bar,Small,Timer,Clean,No,Bottom,Newsletter,Less Well-Defined
+Modal,Medium,Scroll,Modern,No,Bottom Right,Ad,Well-Defined
+Fullscreen,Medium,On Load,Bold,Yes,Full Page,Recommendation,Well-Defined
+Banner,Medium,On Load,Simple,Yes,Top Left,Offer,Less Well-Defined
+Slide-in,Medium,Hover,Clean,No,Bottom Left,Newsletter,Less Well-Defined
+Exit Popup,Thin,Page Load,Intrusive,No,Top Right,Help,Ambiguous
+Fullscreen,Medium,Scroll,Bold,Yes,Bottom Right,Alert,Well-Defined
+Modal,Medium,Click,Clean,Yes,Full Page,Alert,Well-Defined
+Dialog,Small,On Load,Clean,Yes,Bottom Left,Discount,Less Well-Defined
+Slide-in,Small,On Load,Simple,Yes,Top Left,Newsletter,Less Well-Defined
+Notification Bar,Medium,Hover,Flat,No,Bottom,Help,Less Well-Defined
+Dialog,Small,Hover,Bold,No,Top Left,Help,Less Well-Defined
+Dialog,Medium,Scroll,Modern,No,Center,Alert,Well-Defined
+Exit Popup,Thin,Timer,Aggressive,Yes,Center,Reminder,Ambiguous
+Dialog,Large,Click,Bold,No,Full Page,Recommendation,Well-Defined
+Fullscreen,Large,Exit Intent,Modern,Yes,Top,Ad,Well-Defined
+Banner,Small,Timer,Flat,No,Bottom Left,Discount,Less Well-Defined
+Tooltip,Thin,Page Load,Aggressive,No,Top Right,Survey,Ambiguous
+Dialog,Small,Timer,Bold,Yes,Bottom,Help,Less Well-Defined
+Modal,Large,Click,Modern,Yes,Full Page,Ad,Well-Defined
+Notification Bar,Small,Hover,Flat,No,Top Left,Discount,Less Well-Defined
+Dialog,Medium,Exit Intent,Clean,Yes,Full Page,Ad,Well-Defined
+Fullscreen,Large,Exit Intent,Modern,Yes,Center,Ad,Well-Defined
+Banner,Large,On Load,Soft,No,Bottom Right,Recommendation,Well-Defined
+Fullscreen,Large,Exit Intent,Clean,No,Center,Recommendation,Well-Defined
+Notification Bar,Medium,Timer,Bold,No,Bottom Left,Offer,Less Well-Defined
+Banner,Small,Timer,Bold,No,Top Left,Discount,Less Well-Defined
+Exit Popup,Thin,Page Load,Basic,No,Top Right,Survey,Ambiguous
+Modal,Medium,Click,Bold,No,Center,Ad,Well-Defined
+Exit Popup,Small,Hover,Aggressive,No,Top,Survey,Ambiguous
+Modal,Large,Scroll,Clean,Yes,Full Page,Recommendation,Well-Defined
+Slide-in,Thin,Timer,Aggressive,No,Center,Ad,Ambiguous
+Modal,Large,Click,Clean,No,Bottom Right,Ad,Well-Defined
+Exit Popup,Thin,Timer,Basic,No,Center,Survey,Ambiguous
+Slide-in,Medium,On Load,Simple,No,Top Left,Discount,Less Well-Defined
+Banner,Medium,Timer,Bold,No,Top Left,Newsletter,Less Well-Defined
+Dialog,Medium,Click,Clean,No,Bottom Right,Alert,Well-Defined
+Slide-in,Small,Hover,Basic,No,Center,Ad,Ambiguous
+Banner,Large,Scroll,Modern,Yes,Center,Offer,Well-Defined
+Floating Box,Medium,Hover,Basic,No,Top Right,Ad,Ambiguous
+Tooltip,Thin,Hover,Flat,Yes,Center,Survey,Ambiguous
+Modal,Medium,Exit Intent,Soft,No,Center,Alert,Well-Defined
+Fullscreen,Medium,Exit Intent,Bold,Yes,Center,Alert,Less Well-Defined
+Floating Box,Small,Timer,Basic,No,Center,Help,Ambiguous
+Dialog,Medium,Click,Bold,Yes,Full Page,Offer,Well-Defined
+Modal,Large,Scroll,Modern,Yes,Center,Ad,Well-Defined
+Slide-in,Small,Timer,Intrusive,Yes,Top Right,Help,Ambiguous
+Slide-in,Small,On Load,Bold,Yes,Top Left,Newsletter,Less Well-Defined
+Notification Bar,Medium,Timer,Simple,No,Top Left,Offer,Less Well-Defined
+Tooltip,Small,Timer,Basic,Yes,Center,Reminder,Ambiguous
+Modal,Large,Exit Intent,Clean,Yes,Center,Offer,Well-Defined
+Dialog,Medium,Scroll,Soft,Yes,Center,Ad,Well-Defined
+Fullscreen,Large,Click,Clean,Yes,Full Page,Ad,Well-Defined
+Modal,Large,Exit Intent,Bold,No,Top,Ad,Well-Defined
+Notification Bar,Small,Hover,Bold,No,Bottom Left,Help,Less Well-Defined
+Fullscreen,Medium,Exit Intent,Modern,No,Bottom Right,Alert,Well-Defined
+Modal,Medium,On Load,Soft,No,Center,Alert,Well-Defined
+Exit Popup,Medium,Timer,Aggressive,Yes,Center,Survey,Ambiguous
+Dialog,Medium,Scroll,Clean,No,Center,Alert,Well-Defined
+Notification Bar,Small,On Load,Bold,No,Bottom Left,Discount,Less Well-Defined
+Exit Popup,Thin,Hover,Aggressive,Yes,Top,Survey,Ambiguous
+Tooltip,Small,Page Load,Basic,No,Top Right,Survey,Ambiguous
+Fullscreen,Medium,On Load,Modern,Yes,Bottom Right,Recommendation,Well-Defined
+Notification Bar,Small,Timer,Bold,No,Bottom Left,Newsletter,Less Well-Defined
+Dialog,Small,Hover,Bold,Yes,Bottom Left,Newsletter,Well-Defined
+Banner,Medium,Scroll,Bold,No,Bottom Right,Alert,Well-Defined
+Tooltip,Medium,Hover,Basic,No,Top,Survey,Ambiguous
+Slide-in,Small,Hover,Basic,No,Top Right,Reminder,Less Well-Defined
+Dialog,Large,On Load,Clean,Yes,Full Page,Ad,Well-Defined
+Slide-in,Small,On Load,Bold,No,Bottom,Offer,Less Well-Defined
+Dialog,Medium,Exit Intent,Modern,Yes,Bottom Right,Recommendation,Well-Defined
+Floating Box,Medium,Hover,Intrusive,No,Top,Reminder,Ambiguous
+Slide-in,Medium,Timer,Intrusive,Yes,Top Right,Reminder,Ambiguous
+Banner,Small,On Load,Bold,No,Top Left,Newsletter,Less Well-Defined
+Exit Popup,Small,Timer,Aggressive,Yes,Center,Reminder,Ambiguous
+Banner,Medium,Hover,Simple,No,Top Left,Help,Less Well-Defined
+Banner,Medium,Click,Soft,No,Full Page,Offer,Well-Defined
+Modal,Large,Scroll,Bold,No,Top,Ad,Well-Defined
+Banner,Small,On Load,Simple,No,Bottom Left,Help,Less Well-Defined
+Floating Box,Thin,Page Load,Intrusive,Yes,Center,Help,Ambiguous
+Tooltip,Small,Timer,Aggressive,No,Top,Ad,Ambiguous
+Tooltip,Medium,Hover,Flat,No,Top,Ad,Ambiguous
+Modal,Large,Click,Modern,Yes,Full Page,Ad,Well-Defined
+Modal,Medium,Exit Intent,Soft,No,Full Page,Alert,Well-Defined
+Tooltip,Small,Hover,Intrusive,No,Top,Reminder,Ambiguous
+Banner,Medium,Timer,Clean,Yes,Bottom,Discount,Less Well-Defined
+Slide-in,Small,Timer,Bold,No,Bottom Left,Newsletter,Less Well-Defined
+Slide-in,Medium,On Load,Bold,No,Top Left,Offer,Less Well-Defined
+Banner,Medium,On Load,Clean,No,Full Page,Alert,Well-Defined
+Floating Box,Small,Page Load,Intrusive,Yes,Top,Reminder,Ambiguous
+Slide-in,Medium,Page Load,Intrusive,Yes,Top,Survey,Ambiguous
+Banner,Small,Timer,Bold,No,Top Left,Offer,Less Well-Defined
+Notification Bar,Small,On Load,Bold,Yes,Bottom Left,Offer,Less Well-Defined
+Fullscreen,Large,Scroll,Clean,Yes,Full Page,Alert,Well-Defined
+Dialog,Large,Click,Bold,No,Full Page,Recommendation,Well-Defined
+Slide-in,Medium,On Load,Simple,Yes,Top Left,Offer,Less Well-Defined
+Notification Bar,Small,On Load,Bold,Yes,Top Left,Discount,Less Well-Defined
+Banner,Small,On Load,Clean,No,Top Left,Offer,Less Well-Defined
+Exit Popup,Thin,Hover,Aggressive,Yes,Top Right,Help,Ambiguous
+Banner,Medium,Hover,Bold,No,Bottom Left,Newsletter,Less Well-Defined
+Exit Popup,Thin,Page Load,Basic,Yes,Center,Survey,Ambiguous
+Dialog,Small,Hover,Clean,No,Bottom,Help,Less Well-Defined
+Fullscreen,Medium,Scroll,Clean,Yes,Top,Offer,Well-Defined
+Modal,Large,Exit Intent,Clean,No,Bottom Right,Alert,Well-Defined
+Notification Bar,Small,Timer,Bold,Yes,Bottom Left,Help,Less Well-Defined
+Banner,Medium,On Load,Flat,Yes,Bottom Left,Discount,Less Well-Defined
+Slide-in,Small,Timer,Bold,Yes,Bottom Left,Offer,Less Well-Defined
+Slide-in,Small,On Load,Bold,No,Bottom Left,Newsletter,Less Well-Defined
+Banner,Small,Timer,Simple,No,Top Left,Offer,Less Well-Defined
+Dialog,Large,Exit Intent,Soft,Yes,Full Page,Ad,Well-Defined
+Fullscreen,Medium,Click,Clean,No,Bottom Right,Recommendation,Well-Defined
+Slide-in,Medium,Hover,Basic,No,Top,Ad,Ambiguous
+Slide-in,Medium,Timer,Simple,No,Bottom Left,Help,Less Well-Defined
+Exit Popup,Thin,Timer,Intrusive,Yes,Top Right,Survey,Ambiguous
+Notification Bar,Medium,Timer,Clean,Yes,Top Left,Discount,Less Well-Defined
+Dialog,Large,Scroll,Clean,No,Top,Recommendation,Well-Defined
+Tooltip,Thin,Page Load,Basic,Yes,Top Right,Help,Ambiguous
+Slide-in,Medium,Hover,Flat,No,Bottom,Help,Less Well-Defined
+Dialog,Small,Hover,Clean,No,Top Left,Help,Less Well-Defined
+Slide-in,Small,Page Load,Aggressive,No,Top Right,Ad,Ambiguous
+Dialog,Small,Hover,Simple,Yes,Bottom Left,Offer,Less Well-Defined
+Tooltip,Small,Page Load,Aggressive,No,Top,Help,Ambiguous
+Slide-in,Small,On Load,Simple,Yes,Top Left,Offer,Less Well-Defined
+Fullscreen,Large,Click,Bold,Yes,Full Page,Alert,Less Well-Defined
+Notification Bar,Medium,Timer,Simple,Yes,Top Left,Discount,Less Well-Defined
+Banner,Large,Exit Intent,Soft,No,Full Page,Offer,Well-Defined
+Floating Box,Small,Page Load,Aggressive,Yes,Center,Ad,Ambiguous
+Tooltip,Small,Hover,Intrusive,Yes,Top,Help,Ambiguous
+Slide-in,Medium,Hover,Clean,No,Bottom,Help,Less Well-Defined
+Notification Bar,Small,Timer,Flat,Yes,Top Left,Help,Less Well-Defined
+Slide-in,Small,Hover,Clean,No,Bottom Left,Discount,Less Well-Defined
+Notification Bar,Medium,Timer,Simple,Yes,Bottom Left,Offer,Less Well-Defined
+Exit Popup,Small,Page Load,Intrusive,Yes,Top Right,Reminder,Ambiguous
+Exit Popup,Small,Page Load,Basic,No,Top Right,Survey,Ambiguous
+Slide-in,Small,On Load,Bold,No,Top Left,Newsletter,Less Well-Defined
+Banner,Small,Timer,Bold,Yes,Top Left,Offer,Less Well-Defined
+Banner,Medium,Click,Clean,No,Top,Ad,Less Well-Defined
+Slide-in,Small,Timer,Flat,No,Bottom Left,Newsletter,Less Well-Defined
+Slide-in,Medium,Timer,Bold,Yes,Bottom Left,Newsletter,Less Well-Defined
+Dialog,Small,On Load,Bold,No,Top Left,Newsletter,Less Well-Defined
+Notification Bar,Medium,On Load,Bold,Yes,Top Left,Offer,Less Well-Defined
+Slide-in,Medium,On Load,Bold,No,Top Left,Newsletter,Less Well-Defined
+Dialog,Medium,Scroll,Soft,Yes,Bottom Right,Alert,Well-Defined
+Slide-in,Small,Timer,Flat,No,Top Left,Newsletter,Less Well-Defined
+Banner,Medium,Scroll,Modern,Yes,Center,Recommendation,Well-Defined
+Fullscreen,Large,Exit Intent,Clean,Yes,Bottom Right,Alert,Well-Defined
+Dialog,Large,Scroll,Modern,Yes,Bottom Right,Alert,Well-Defined
+Floating Box,Medium,Hover,Basic,Yes,Top,Reminder,Ambiguous
+Dialog,Medium,Timer,Clean,Yes,Bottom Left,Help,Less Well-Defined
+Banner,Small,On Load,Flat,Yes,Bottom Left,Offer,Less Well-Defined
+Banner,Medium,Timer,Bold,Yes,Bottom,Discount,Less Well-Defined
+Notification Bar,Medium,On Load,Flat,Yes,Bottom Left,Offer,Less Well-Defined
+Exit Popup,Thin,Timer,Aggressive,No,Top,Ad,Ambiguous
+Exit Popup,Small,Hover,Basic,Yes,Top,Reminder,Ambiguous
+Modal,Large,On Load,Clean,No,Top,Recommendation,Well-Defined
+Dialog,Medium,On Load,Soft,No,Full Page,Recommendation,Well-Defined
+Dialog,Medium,On Load,Soft,Yes,Center,Alert,Well-Defined
+Slide-in,Thin,Timer,Basic,Yes,Top,Ad,Ambiguous
+Banner,Medium,Timer,Clean,Yes,Bottom,Offer,Less Well-Defined
+Banner,Small,Timer,Simple,No,Bottom,Discount,Less Well-Defined
+Dialog,Medium,Click,Clean,Yes,Bottom Right,Ad,Well-Defined
+Notification Bar,Medium,On Load,Bold,No,Bottom Left,Discount,Less Well-Defined
+Floating Box,Small,Page Load,Aggressive,No,Top,Help,Ambiguous
+Banner,Small,On Load,Simple,Yes,Top Left,Discount,Less Well-Defined
+Slide-in,Small,Hover,Simple,Yes,Bottom,Help,Less Well-Defined
+Banner,Medium,Scroll,Bold,No,Top,Alert,Well-Defined
+Banner,Small,On Load,Simple,No,Bottom Left,Discount,Less Well-Defined
+Dialog,Small,On Load,Flat,Yes,Top Left,Offer,Less Well-Defined
+Modal,Large,Exit Intent,Clean,Yes,Center,Recommendation,Well-Defined
+Modal,Large,Scroll,Soft,No,Bottom Right,Recommendation,Well-Defined
+Notification Bar,Small,Timer,Simple,Yes,Top Left,Discount,Less Well-Defined
+Modal,Large,On Load,Clean,No,Bottom Right,Offer,Well-Defined
+Banner,Small,On Load,Simple,Yes,Top Left,Help,Less Well-Defined
+Modal,Medium,On Load,Soft,Yes,Full Page,Recommendation,Ambiguous
+Dialog,Medium,Timer,Simple,No,Bottom,Help,Less Well-Defined
+Modal,Medium,Click,Soft,No,Full Page,Alert,Well-Defined
+Notification Bar,Small,Hover,Simple,Yes,Bottom,Discount,Less Well-Defined
+Slide-in,Thin,Page Load,Aggressive,Yes,Top Right,Ad,Ambiguous
+Notification Bar,Medium,On Load,Simple,No,Bottom Left,Offer,Less Well-Defined
+Notification Bar,Medium,Timer,Bold,Yes,Bottom Left,Offer,Less Well-Defined
+Modal,Medium,Scroll,Modern,No,Center,Ad,Well-Defined
+Modal,Large,Scroll,Soft,Yes,Top,Offer,Well-Defined
+Tooltip,Small,Page Load,Intrusive,Yes,Top,Reminder,Ambiguous
+Floating Box,Medium,Hover,Intrusive,No,Top,Survey,Ambiguous
+Tooltip,Thin,Page Load,Aggressive,Yes,Top Right,Ad,Ambiguous
+Banner,Medium,On Load,Simple,No,Bottom Left,Offer,Less Well-Defined
+Dialog,Large,Exit Intent,Soft,Yes,Center,Recommendation,Well-Defined
+Slide-in,Medium,Page Load,Intrusive,Yes,Top Right,Survey,Ambiguous
+Banner,Medium,Timer,Clean,No,Top Left,Discount,Less Well-Defined
+Exit Popup,Thin,Page Load,Aggressive,Yes,Top,Survey,Ambiguous
+Banner,Medium,Exit Intent,Modern,No,Bottom Right,Recommendation,Well-Defined
+Fullscreen,Medium,Exit Intent,Soft,No,Center,Ad,Well-Defined
+Banner,Medium,Timer,Flat,Yes,Bottom Left,Discount,Less Well-Defined
+Tooltip,Medium,Hover,Flat,No,Top,Reminder,Ambiguous
+Tooltip,Thin,Page Load,Intrusive,No,Top,Survey,Ambiguous
+Dialog,Large,Click,Bold,No,Top,Ad,Well-Defined
+Banner,Medium,On Load,Bold,Yes,Bottom Left,Newsletter,Less Well-Defined
+Banner,Small,On Load,Flat,No,Top Left,Offer,Less Well-Defined
+Dialog,Large,Scroll,Soft,No,Full Page,Ad,Well-Defined
+Modal,Large,Click,Clean,No,Center,Recommendation,Well-Defined
+Dialog,Medium,Exit Intent,Clean,Yes,Center,Ad,Well-Defined
+Tooltip,Thin,Page Load,Basic,No,Center,Survey,Ambiguous
+Modal,Large,Click,Clean,No,Bottom Right,Ad,Well-Defined
+Dialog,Medium,On Load,Flat,No,Top Left,Offer,Less Well-Defined
+Floating Box,Thin,Timer,Aggressive,No,Top Right,Ad,Ambiguous
+Slide-in,Small,On Load,Bold,No,Top Left,Discount,Less Well-Defined
+Banner,Medium,Click,Bold,No,Center,Alert,Well-Defined
+Tooltip,Small,Hover,Basic,Yes,Top,Survey,Ambiguous
+Fullscreen,Medium,Click,Clean,No,Top,Ad,Well-Defined
+Slide-in,Medium,Timer,Flat,No,Bottom Left,Newsletter,Less Well-Defined
+Tooltip,Small,Hover,Aggressive,No,Top,Survey,Ambiguous
+Floating Box,Thin,Page Load,Aggressive,Yes,Center,Survey,Ambiguous
+Modal,Large,Click,Bold,Yes,Bottom Right,Alert,Well-Defined
+Slide-in,Medium,Timer,Simple,Yes,Bottom,Discount,Less Well-Defined
+Modal,Medium,Click,Soft,No,Bottom Right,Ad,Well-Defined
+Fullscreen,Medium,Exit Intent,Soft,Yes,Full Page,Alert,Well-Defined
+Slide-in,Thin,Hover,Intrusive,No,Center,Reminder,Ambiguous
+Notification Bar,Medium,On Load,Bold,Yes,Bottom Left,Discount,Less Well-Defined
+Floating Box,Thin,Page Load,Flat,Yes,Top,Ad,Ambiguous
+Fullscreen,Medium,Exit Intent,Clean,No,Bottom Right,Ad,Well-Defined
+Notification Bar,Small,Timer,Simple,No,Bottom Left,Offer,Less Well-Defined
+Banner,Medium,Hover,Clean,Yes,Bottom Left,Help,Well-Defined
+Notification Bar,Medium,On Load,Bold,Yes,Bottom Left,Newsletter,Less Well-Defined
+Floating Box,Small,Hover,Flat,No,Top,Survey,Ambiguous
+Banner,Small,On Load,Simple,Yes,Top Left,Offer,Less Well-Defined
+Slide-in,Small,Timer,Clean,Yes,Bottom Left,Help,Ambiguous
+Fullscreen,Large,Click,Soft,No,Center,Ad,Well-Defined
+Floating Box,Small,Page Load,Intrusive,No,Top Right,Help,Ambiguous
+Banner,Medium,Click,Soft,Yes,Full Page,Recommendation,Well-Defined
+Dialog,Large,Exit Intent,Soft,No,Bottom Right,Recommendation,Less Well-Defined
+Slide-in,Thin,Page Load,Intrusive,Yes,Top Right,Help,Ambiguous
+Dialog,Medium,Scroll,Soft,Yes,Top,Offer,Less Well-Defined
+Banner,Small,Timer,Bold,Yes,Top Left,Discount,Less Well-Defined
+Dialog,Large,Exit Intent,Soft,Yes,Bottom Right,Recommendation,Well-Defined
+Floating Box,Thin,Hover,Aggressive,Yes,Top,Survey,Ambiguous
+Slide-in,Thin,Hover,Flat,No,Top Right,Help,Ambiguous
+Exit Popup,Thin,Hover,Aggressive,No,Top,Reminder,Ambiguous
+Floating Box,Small,Hover,Aggressive,No,Top Right,Help,Ambiguous
+Dialog,Medium,Scroll,Clean,Yes,Center,Alert,Well-Defined
+Fullscreen,Large,On Load,Bold,Yes,Top,Recommendation,Well-Defined
+Banner,Large,On Load,Bold,Yes,Center,Offer,Well-Defined
+Banner,Medium,Timer,Flat,Yes,Bottom,Discount,Less Well-Defined
+Dialog,Large,Click,Modern,Yes,Top,Alert,Well-Defined
+Modal,Medium,Exit Intent,Modern,No,Top,Recommendation,Well-Defined
+Notification Bar,Small,On Load,Bold,No,Top Left,Offer,Less Well-Defined
+Banner,Small,Hover,Clean,No,Bottom,Discount,Less Well-Defined
+Banner,Medium,Exit Intent,Modern,Yes,Top,Alert,Ambiguous
+Tooltip,Thin,Hover,Aggressive,Yes,Top,Ad,Ambiguous
+Tooltip,Thin,Page Load,Aggressive,No,Top,Survey,Ambiguous
+Exit Popup,Small,Page Load,Aggressive,Yes,Center,Help,Ambiguous
+Slide-in,Small,Hover,Bold,Yes,Bottom Left,Discount,Less Well-Defined
+Notification Bar,Medium,Timer,Flat,Yes,Bottom Left,Discount,Less Well-Defined
+Dialog,Large,Scroll,Soft,Yes,Center,Ad,Well-Defined
+Fullscreen,Large,Scroll,Modern,No,Full Page,Alert,Well-Defined
+Dialog,Small,Hover,Bold,No,Bottom Left,Newsletter,Less Well-Defined
+Slide-in,Medium,On Load,Bold,Yes,Top Left,Newsletter,Less Well-Defined
+Exit Popup,Small,Page Load,Intrusive,Yes,Top Right,Survey,Ambiguous
+Modal,Large,Exit Intent,Clean,Yes,Bottom Right,Alert,Well-Defined
+Slide-in,Medium,Hover,Intrusive,No,Center,Survey,Ambiguous
+Notification Bar,Small,Timer,Bold,Yes,Bottom Left,Discount,Less Well-Defined
+Fullscreen,Medium,Scroll,Clean,No,Bottom Right,Ad,Well-Defined
+Modal,Large,Exit Intent,Modern,No,Center,Ad,Well-Defined
+Exit Popup,Thin,Hover,Basic,No,Top Right,Reminder,Ambiguous
+Slide-in,Small,On Load,Clean,Yes,Top Left,Offer,Less Well-Defined
+Modal,Large,Exit Intent,Soft,Yes,Center,Ad,Well-Defined
+Exit Popup,Medium,Hover,Intrusive,No,Top,Survey,Ambiguous
+Dialog,Medium,Scroll,Modern,No,Center,Recommendation,Well-Defined
+Modal,Medium,On Load,Modern,No,Bottom Right,Offer,Well-Defined
+Dialog,Medium,On Load,Modern,Yes,Top,Offer,Well-Defined
+Slide-in,Medium,Hover,Flat,Yes,Top Left,Discount,Less Well-Defined
+Banner,Small,On Load,Bold,Yes,Bottom Left,Offer,Less Well-Defined
+Exit Popup,Thin,Page Load,Intrusive,No,Center,Survey,Ambiguous
+Slide-in,Medium,Hover,Aggressive,Yes,Top Right,Reminder,Ambiguous
+Notification Bar,Small,Timer,Bold,Yes,Top Left,Offer,Less Well-Defined
+Tooltip,Medium,Timer,Flat,No,Center,Reminder,Ambiguous
+Slide-in,Medium,On Load,Flat,Yes,Bottom Left,Discount,Less Well-Defined
+Exit Popup,Small,Timer,Basic,Yes,Center,Ad,Ambiguous
+Dialog,Medium,Scroll,Modern,Yes,Bottom Right,Recommendation,Well-Defined
+Banner,Medium,Timer,Flat,No,Top Left,Help,Less Well-Defined
+Fullscreen,Large,Click,Clean,No,Bottom Right,Ad,Well-Defined
+Slide-in,Medium,Timer,Flat,Yes,Bottom Left,Offer,Less Well-Defined
+Slide-in,Small,Timer,Flat,Yes,Top Left,Offer,Less Well-Defined
+Exit Popup,Small,Page Load,Intrusive,Yes,Top Right,Survey,Ambiguous
+Banner,Medium,Click,Modern,Yes,Full Page,Offer,Well-Defined
+Slide-in,Medium,Hover,Bold,Yes,Top Left,Newsletter,Less Well-Defined
+Dialog,Medium,On Load,Clean,No,Bottom,Discount,Well-Defined
+Modal,Large,On Load,Clean,No,Top,Offer,Less Well-Defined
+Floating Box,Medium,Timer,Intrusive,No,Top Right,Help,Ambiguous
+Banner,Large,Scroll,Soft,Yes,Top,Ad,Well-Defined
+Banner,Small,Hover,Clean,Yes,Bottom,Newsletter,Less Well-Defined
+Modal,Medium,On Load,Bold,Yes,Center,Recommendation,Well-Defined
+Dialog,Medium,Scroll,Clean,Yes,Bottom Right,Alert,Well-Defined
+Dialog,Medium,Hover,Simple,Yes,Bottom Left,Offer,Less Well-Defined
+Slide-in,Medium,On Load,Bold,No,Bottom Left,Discount,Less Well-Defined
+Modal,Large,Exit Intent,Bold,No,Full Page,Alert,Well-Defined
+Tooltip,Small,Hover,Basic,Yes,Top Right,Help,Ambiguous
+Banner,Medium,On Load,Clean,Yes,Full Page,Offer,Well-Defined
+Slide-in,Medium,Hover,Basic,No,Top,Ad,Ambiguous
+Exit Popup,Small,Hover,Aggressive,No,Top Right,Help,Ambiguous
+Exit Popup,Thin,Hover,Aggressive,Yes,Top Right,Help,Ambiguous
+Banner,Small,Timer,Simple,Yes,Top Left,Help,Less Well-Defined
+Banner,Small,On Load,Flat,Yes,Top Left,Discount,Less Well-Defined
+Banner,Small,Hover,Simple,Yes,Bottom Left,Offer,Less Well-Defined
+Dialog,Medium,On Load,Clean,Yes,Bottom Left,Newsletter,Less Well-Defined
+Dialog,Medium,Scroll,Modern,Yes,Top,Offer,Well-Defined
+Dialog,Large,Exit Intent,Soft,Yes,Center,Alert,Well-Defined
+Dialog,Medium,Scroll,Clean,Yes,Top,Offer,Well-Defined
+Exit Popup,Medium,Page Load,Flat,Yes,Top,Survey,Ambiguous
+Modal,Medium,On Load,Soft,Yes,Full Page,Offer,Well-Defined
+Notification Bar,Medium,On Load,Bold,Yes,Bottom Left,Newsletter,Less Well-Defined
+Notification Bar,Small,On Load,Simple,No,Top Left,Discount,Less Well-Defined
+Exit Popup,Small,Timer,Intrusive,No,Top Right,Survey,Ambiguous
+Tooltip,Medium,Timer,Basic,No,Top Right,Survey,Ambiguous
+Dialog,Large,Exit Intent,Soft,No,Top,Offer,Well-Defined
+Floating Box,Thin,Hover,Intrusive,No,Top,Reminder,Ambiguous
+Dialog,Medium,Click,Clean,Yes,Center,Ad,Well-Defined
+Banner,Small,On Load,Bold,No,Bottom Left,Help,Less Well-Defined
+Banner,Small,Timer,Flat,No,Top Left,Offer,Less Well-Defined
+Banner,Large,Click,Modern,Yes,Center,Recommendation,Well-Defined
+Dialog,Large,Exit Intent,Bold,Yes,Bottom Right,Alert,Well-Defined
+Notification Bar,Small,Hover,Flat,No,Top Left,Discount,Less Well-Defined
+Dialog,Small,Timer,Flat,Yes,Bottom Left,Help,Less Well-Defined
+Exit Popup,Medium,Page Load,Flat,No,Top Right,Survey,Ambiguous
+Banner,Large,Scroll,Bold,Yes,Bottom Right,Offer,Well-Defined
+Dialog,Medium,Scroll,Soft,Yes,Bottom Right,Alert,Well-Defined
+Tooltip,Small,Hover,Aggressive,Yes,Top Right,Ad,Ambiguous
+Slide-in,Thin,Hover,Flat,No,Top Right,Help,Ambiguous
+Floating Box,Small,Page Load,Basic,No,Top Right,Survey,Ambiguous
+Slide-in,Medium,On Load,Clean,Yes,Bottom,Discount,Less Well-Defined
+Dialog,Large,Exit Intent,Bold,No,Center,Offer,Well-Defined
+Slide-in,Thin,Timer,Basic,No,Center,Reminder,Ambiguous
+Tooltip,Thin,Hover,Aggressive,Yes,Top Right,Help,Ambiguous
+Tooltip,Small,Page Load,Flat,Yes,Top Right,Reminder,Ambiguous
+Modal,Medium,Click,Clean,Yes,Full Page,Ad,Well-Defined
+Dialog,Small,On Load,Clean,No,Bottom Left,Offer,Less Well-Defined
+Slide-in,Medium,On Load,Bold,Yes,Bottom Left,Offer,Less Well-Defined
+Fullscreen,Large,Scroll,Modern,Yes,Bottom Right,Offer,Well-Defined
+Dialog,Medium,On Load,Clean,No,Top Left,Newsletter,Less Well-Defined
+Banner,Small,Hover,Flat,No,Bottom Left,Offer,Less Well-Defined
+Slide-in,Small,Hover,Flat,Yes,Top Left,Help,Less Well-Defined
+Floating Box,Small,Hover,Aggressive,No,Top,Help,Ambiguous
+Slide-in,Medium,Timer,Aggressive,Yes,Top,Ad,Ambiguous
+Slide-in,Medium,Timer,Aggressive,No,Top Right,Help,Ambiguous
+Banner,Small,On Load,Simple,Yes,Top Left,Discount,Less Well-Defined
+Banner,Medium,On Load,Simple,No,Top Left,Discount,Less Well-Defined
+Dialog,Medium,On Load,Clean,Yes,Bottom Right,Recommendation,Well-Defined
+Tooltip,Medium,Page Load,Flat,No,Top,Help,Ambiguous
+Dialog,Large,Scroll,Modern,Yes,Bottom Right,Recommendation,Well-Defined
+Fullscreen,Medium,Exit Intent,Modern,No,Full Page,Ad,Well-Defined
+Banner,Medium,Click,Clean,Yes,Full Page,Alert,Well-Defined
+Dialog,Medium,Click,Clean,Yes,Bottom Right,Recommendation,Well-Defined
+Notification Bar,Small,Timer,Flat,No,Bottom Left,Newsletter,Less Well-Defined
+Tooltip,Thin,Hover,Intrusive,Yes,Top,Survey,Ambiguous
+Dialog,Small,On Load,Bold,Yes,Bottom Left,Help,Less Well-Defined
+Banner,Medium,On Load,Simple,No,Bottom Left,Offer,Ambiguous
+Banner,Medium,Scroll,Bold,No,Center,Alert,Well-Defined
+Floating Box,Small,Timer,Intrusive,No,Top,Ad,Ambiguous
+Floating Box,Thin,Timer,Basic,Yes,Top Right,Survey,Ambiguous
+Fullscreen,Large,Exit Intent,Bold,Yes,Center,Alert,Well-Defined
+Notification Bar,Small,On Load,Bold,Yes,Bottom,Offer,Less Well-Defined
+Banner,Large,Click,Soft,No,Center,Offer,Ambiguous
+Dialog,Large,Click,Modern,Yes,Full Page,Offer,Well-Defined
+Banner,Medium,Timer,Simple,No,Bottom Left,Discount,Less Well-Defined
+Floating Box,Small,Timer,Flat,No,Center,Ad,Ambiguous
+Banner,Medium,Timer,Flat,No,Top Left,Discount,Less Well-Defined
+Exit Popup,Medium,Page Load,Basic,Yes,Top Right,Reminder,Ambiguous
+Tooltip,Small,Timer,Intrusive,Yes,Top Right,Survey,Ambiguous
+Slide-in,Medium,On Load,Simple,No,Bottom Left,Offer,Less Well-Defined
+Dialog,Small,Timer,Simple,Yes,Top Left,Help,Less Well-Defined
+Notification Bar,Medium,Hover,Bold,No,Top Left,Discount,Less Well-Defined
+Dialog,Small,Timer,Simple,Yes,Bottom,Offer,Less Well-Defined
+Banner,Medium,On Load,Bold,No,Bottom Left,Newsletter,Less Well-Defined
+Notification Bar,Medium,Timer,Bold,Yes,Bottom,Discount,Less Well-Defined
+Banner,Large,Scroll,Soft,Yes,Center,Recommendation,Well-Defined
+Banner,Medium,On Load,Soft,Yes,Full Page,Ad,Well-Defined
+Tooltip,Medium,Timer,Intrusive,No,Center,Ad,Less Well-Defined
+Notification Bar,Small,Hover,Flat,No,Bottom Left,Newsletter,Less Well-Defined
+Dialog,Small,Timer,Simple,Yes,Top Left,Help,Ambiguous
+Slide-in,Thin,Timer,Flat,Yes,Top,Survey,Ambiguous
+Floating Box,Small,Hover,Aggressive,Yes,Center,Reminder,Ambiguous
+Notification Bar,Small,On Load,Flat,Yes,Bottom Left,Newsletter,Less Well-Defined
+Slide-in,Small,Timer,Simple,No,Bottom Left,Help,Less Well-Defined
+Dialog,Large,Click,Soft,No,Bottom Right,Recommendation,Well-Defined
+Exit Popup,Small,Timer,Flat,No,Top,Reminder,Well-Defined
+Floating Box,Thin,Page Load,Basic,Yes,Top Right,Reminder,Ambiguous
+Slide-in,Medium,Timer,Bold,No,Bottom Left,Newsletter,Less Well-Defined
+Floating Box,Small,Hover,Basic,No,Top,Help,Ambiguous
+Exit Popup,Thin,Hover,Intrusive,No,Top Right,Survey,Ambiguous
+Banner,Small,On Load,Simple,No,Bottom Left,Newsletter,Less Well-Defined
+Fullscreen,Medium,On Load,Soft,No,Top,Ad,Less Well-Defined
+Banner,Medium,Hover,Bold,Yes,Top Left,Help,Less Well-Defined
+Notification Bar,Small,Timer,Simple,No,Top Left,Newsletter,Less Well-Defined
+Slide-in,Thin,Timer,Basic,Yes,Center,Ad,Ambiguous
+Slide-in,Small,On Load,Flat,Yes,Top Left,Newsletter,Less Well-Defined
+Tooltip,Medium,Hover,Intrusive,No,Center,Help,Ambiguous
+Dialog,Medium,Hover,Bold,Yes,Top Left,Help,Less Well-Defined
+Banner,Medium,Timer,Clean,Yes,Bottom Left,Newsletter,Less Well-Defined
+Modal,Medium,Click,Modern,No,Top,Ad,Well-Defined
+Fullscreen,Medium,On Load,Clean,No,Top,Recommendation,Well-Defined
+Slide-in,Medium,Timer,Simple,Yes,Bottom,Help,Less Well-Defined
+Banner,Small,On Load,Clean,No,Bottom Left,Help,Less Well-Defined
+Exit Popup,Medium,Page Load,Aggressive,Yes,Top,Reminder,Ambiguous
+Modal,Large,On Load,Soft,Yes,Top,Offer,Less Well-Defined
+Banner,Small,Timer,Bold,Yes,Bottom Left,Offer,Less Well-Defined
+Banner,Small,Hover,Flat,Yes,Bottom,Offer,Less Well-Defined
+Dialog,Small,Timer,Flat,No,Bottom Left,Help,Less Well-Defined
+Slide-in,Small,On Load,Simple,Yes,Top Left,Discount,Less Well-Defined
+Banner,Medium,On Load,Simple,Yes,Bottom,Newsletter,Less Well-Defined
+Floating Box,Thin,Hover,Flat,No,Center,Help,Ambiguous
+Exit Popup,Thin,Page Load,Intrusive,No,Top Right,Reminder,Ambiguous
+Banner,Medium,On Load,Bold,Yes,Full Page,Ad,Well-Defined
+Fullscreen,Medium,On Load,Clean,Yes,Center,Ad,Well-Defined
+Modal,Medium,Click,Modern,No,Full Page,Ad,Well-Defined
+Banner,Medium,On Load,Simple,Yes,Bottom Left,Newsletter,Less Well-Defined
+Dialog,Large,Click,Clean,No,Top,Recommendation,Well-Defined
+Tooltip,Medium,Timer,Basic,Yes,Center,Help,Ambiguous
+Slide-in,Medium,Timer,Flat,Yes,Top Left,Discount,Less Well-Defined
+Fullscreen,Medium,Click,Soft,No,Bottom Right,Alert,Well-Defined
+Dialog,Large,Exit Intent,Modern,Yes,Bottom Right,Ad,Well-Defined
+Notification Bar,Small,On Load,Bold,No,Bottom,Discount,Less Well-Defined
+Slide-in,Medium,On Load,Flat,No,Bottom,Help,Less Well-Defined
+Slide-in,Medium,Page Load,Intrusive,Yes,Top Right,Help,Ambiguous
+Fullscreen,Large,Scroll,Modern,No,Bottom Right,Ad,Well-Defined
+Banner,Small,Timer,Simple,Yes,Top Left,Offer,Less Well-Defined
+Banner,Large,Exit Intent,Bold,No,Bottom Right,Offer,Well-Defined
+Dialog,Medium,Exit Intent,Clean,Yes,Bottom Right,Recommendation,Well-Defined
+Exit Popup,Small,Hover,Basic,No,Top,Reminder,Ambiguous
+Slide-in,Small,On Load,Bold,Yes,Bottom Left,Offer,Less Well-Defined
+Exit Popup,Small,Timer,Intrusive,Yes,Top Right,Ad,Ambiguous
+Slide-in,Medium,On Load,Simple,Yes,Top Left,Offer,Less Well-Defined
+Dialog,Medium,On Load,Bold,Yes,Top,Offer,Well-Defined
+Banner,Medium,Timer,Flat,No,Bottom Left,Newsletter,Less Well-Defined
+Floating Box,Thin,Page Load,Basic,No,Top,Survey,Ambiguous
+Banner,Medium,Timer,Flat,Yes,Bottom Left,Offer,Less Well-Defined
+Exit Popup,Thin,Hover,Intrusive,No,Top Right,Survey,Ambiguous
+Banner,Medium,Scroll,Soft,Yes,Center,Recommendation,Well-Defined
+Floating Box,Thin,Hover,Intrusive,Yes,Top Right,Help,Ambiguous
+Fullscreen,Large,Click,Clean,No,Bottom Right,Recommendation,Well-Defined
+Exit Popup,Medium,Timer,Flat,No,Top Right,Survey,Ambiguous
+Banner,Large,Click,Soft,No,Full Page,Ad,Well-Defined
+Banner,Small,On Load,Clean,No,Top Left,Offer,Less Well-Defined
+Modal,Medium,Exit Intent,Modern,No,Center,Offer,Well-Defined
+Tooltip,Medium,Timer,Flat,Yes,Top Right,Survey,Ambiguous
+Dialog,Medium,Click,Clean,No,Bottom Right,Recommendation,Well-Defined
+Banner,Small,On Load,Clean,Yes,Bottom Left,Help,Less Well-Defined
+Floating Box,Small,Hover,Basic,No,Top Right,Reminder,Ambiguous
+Tooltip,Thin,Timer,Aggressive,No,Top Right,Help,Ambiguous
+Dialog,Medium,Scroll,Modern,No,Center,Recommendation,Well-Defined
+Tooltip,Thin,Timer,Flat,No,Top,Ad,Ambiguous
+Dialog,Small,Timer,Flat,Yes,Bottom,Help,Ambiguous
+Fullscreen,Medium,Click,Clean,No,Full Page,Recommendation,Well-Defined
+Tooltip,Thin,Hover,Basic,No,Top Right,Reminder,Ambiguous
+Dialog,Large,On Load,Clean,Yes,Top,Recommendation,Ambiguous
+Notification Bar,Medium,Timer,Bold,Yes,Top Left,Discount,Less Well-Defined
+Banner,Medium,On Load,Bold,Yes,Bottom Left,Newsletter,Less Well-Defined
+Floating Box,Medium,Hover,Intrusive,Yes,Top Right,Survey,Ambiguous
+Dialog,Small,Hover,Flat,No,Top Left,Offer,Less Well-Defined
+Banner,Medium,Exit Intent,Clean,No,Center,Offer,Ambiguous
+Exit Popup,Thin,Hover,Intrusive,Yes,Top,Help,Ambiguous
+Tooltip,Thin,Page Load,Basic,Yes,Top Right,Survey,Ambiguous
+Slide-in,Small,Timer,Bold,No,Bottom Left,Newsletter,Less Well-Defined
+Tooltip,Thin,Hover,Basic,Yes,Top,Survey,Less Well-Defined
+Notification Bar,Medium,On Load,Simple,Yes,Bottom,Offer,Ambiguous
+Banner,Medium,Timer,Flat,No,Top Left,Newsletter,Less Well-Defined
+Floating Box,Thin,Page Load,Flat,No,Top,Help,Ambiguous
+Exit Popup,Thin,Page Load,Flat,Yes,Top Right,Help,Ambiguous
+Notification Bar,Small,Timer,Clean,Yes,Top Left,Newsletter,Less Well-Defined
+Slide-in,Small,Hover,Flat,Yes,Bottom Left,Newsletter,Less Well-Defined
+Slide-in,Thin,Page Load,Basic,Yes,Center,Reminder,Ambiguous
+Banner,Medium,Scroll,Soft,Yes,Bottom Right,Offer,Well-Defined
+Tooltip,Thin,Page Load,Aggressive,No,Top Right,Help,Ambiguous
+Exit Popup,Thin,Hover,Aggressive,No,Top Right,Help,Less Well-Defined
+Fullscreen,Medium,Scroll,Soft,No,Bottom Right,Alert,Well-Defined
+Floating Box,Small,Page Load,Intrusive,No,Top Right,Survey,Ambiguous
+Floating Box,Thin,Page Load,Intrusive,No,Top,Ad,Ambiguous
+Notification Bar,Small,Hover,Simple,No,Bottom,Newsletter,Less Well-Defined
+Banner,Medium,Exit Intent,Soft,No,Full Page,Recommendation,Well-Defined
+Banner,Medium,Hover,Clean,Yes,Bottom Left,Help,Less Well-Defined
+Slide-in,Small,Hover,Simple,Yes,Bottom Left,Offer,Less Well-Defined
+Notification Bar,Small,Timer,Clean,Yes,Bottom Left,Offer,Less Well-Defined
+Slide-in,Medium,On Load,Simple,Yes,Bottom Left,Offer,Less Well-Defined
+Slide-in,Small,Timer,Bold,No,Bottom,Offer,Less Well-Defined
+Modal,Medium,Click,Bold,No,Full Page,Alert,Well-Defined
+Banner,Small,Timer,Bold,No,Top Left,Offer,Less Well-Defined
+Banner,Small,Timer,Flat,Yes,Bottom,Help,Less Well-Defined
+Floating Box,Medium,Timer,Flat,No,Top,Survey,Ambiguous
+Tooltip,Small,Hover,Basic,No,Center,Survey,Ambiguous
+Modal,Large,Exit Intent,Soft,Yes,Center,Ad,Well-Defined
+Banner,Large,On Load,Soft,No,Center,Alert,Well-Defined
+Fullscreen,Large,Exit Intent,Soft,Yes,Center,Alert,Well-Defined
+Floating Box,Thin,Hover,Aggressive,No,Top Right,Help,Ambiguous
+Tooltip,Thin,Page Load,Basic,Yes,Top,Survey,Ambiguous
+Slide-in,Small,Timer,Bold,Yes,Bottom Left,Offer,Less Well-Defined
+Banner,Large,Click,Clean,No,Bottom Right,Ad,Well-Defined
+Slide-in,Thin,Hover,Intrusive,No,Top,Ad,Ambiguous
+Floating Box,Small,Hover,Aggressive,No,Top Right,Help,Ambiguous
+Dialog,Small,On Load,Simple,Yes,Bottom Left,Discount,Less Well-Defined
+Slide-in,Small,Timer,Flat,No,Top Left,Offer,Less Well-Defined
+Slide-in,Medium,On Load,Simple,No,Bottom,Offer,Less Well-Defined
+Notification Bar,Medium,On Load,Simple,No,Top Left,Discount,Less Well-Defined
+Slide-in,Small,Hover,Flat,Yes,Top Right,Ad,Ambiguous
+Tooltip,Small,Hover,Basic,Yes,Top,Help,Ambiguous
+Tooltip,Thin,Hover,Intrusive,No,Top,Ad,Ambiguous
+Floating Box,Small,Hover,Basic,No,Top,Reminder,Ambiguous
+Banner,Small,On Load,Bold,Yes,Bottom,Offer,Less Well-Defined
+Exit Popup,Thin,Hover,Intrusive,No,Center,Survey,Ambiguous
+Modal,Large,On Load,Clean,Yes,Center,Ad,Well-Defined
+Slide-in,Medium,Hover,Intrusive,Yes,Top,Reminder,Less Well-Defined
+Floating Box,Small,Page Load,Aggressive,No,Top Right,Reminder,Ambiguous
+Modal,Medium,On Load,Clean,Yes,Center,Alert,Well-Defined
+Slide-in,Small,Timer,Flat,Yes,Bottom,Discount,Less Well-Defined
+Banner,Medium,Click,Soft,Yes,Center,Offer,Well-Defined
+Banner,Medium,Click,Modern,No,Center,Alert,Well-Defined
+Floating Box,Thin,Page Load,Intrusive,Yes,Top Right,Survey,Ambiguous
+Modal,Large,Scroll,Soft,No,Bottom Right,Recommendation,Well-Defined
+Tooltip,Small,Hover,Intrusive,No,Top Right,Reminder,Ambiguous
+Tooltip,Medium,Timer,Basic,No,Top,Reminder,Ambiguous
+Slide-in,Medium,Timer,Bold,No,Bottom,Newsletter,Less Well-Defined
+Tooltip,Thin,Timer,Aggressive,No,Top Right,Reminder,Ambiguous
+Modal,Medium,On Load,Modern,No,Center,Ad,Well-Defined
+Modal,Medium,On Load,Clean,No,Top,Offer,Well-Defined
+Tooltip,Thin,Page Load,Intrusive,Yes,Top Right,Help,Ambiguous
+Exit Popup,Thin,Hover,Flat,Yes,Top,Reminder,Ambiguous
+Modal,Large,Click,Bold,No,Top,Alert,Well-Defined
+Dialog,Medium,Click,Clean,Yes,Center,Recommendation,Well-Defined
+Modal,Medium,On Load,Modern,Yes,Full Page,Recommendation,Well-Defined
+Modal,Large,On Load,Modern,Yes,Bottom Right,Recommendation,Less Well-Defined
+Fullscreen,Medium,Exit Intent,Clean,Yes,Center,Recommendation,Well-Defined
+Floating Box,Thin,Hover,Aggressive,No,Top,Help,Less Well-Defined
+Floating Box,Thin,Timer,Basic,Yes,Center,Survey,Ambiguous
+Slide-in,Thin,Page Load,Flat,Yes,Top Right,Reminder,Ambiguous
+Banner,Medium,Exit Intent,Bold,Yes,Full Page,Alert,Well-Defined
+Dialog,Large,Exit Intent,Bold,Yes,Bottom Right,Ad,Well-Defined
+Floating Box,Medium,Hover,Basic,Yes,Center,Help,Ambiguous
+Banner,Small,On Load,Bold,Yes,Bottom Left,Newsletter,Less Well-Defined
+Notification Bar,Medium,On Load,Flat,No,Top Left,Discount,Less Well-Defined
+Fullscreen,Medium,Click,Clean,No,Full Page,Ad,Well-Defined
+Slide-in,Small,Page Load,Aggressive,Yes,Top Right,Survey,Ambiguous
+Tooltip,Thin,Hover,Aggressive,Yes,Top Right,Reminder,Ambiguous
+Modal,Large,Click,Clean,Yes,Top,Alert,Ambiguous
+Tooltip,Thin,Page Load,Aggressive,Yes,Top,Survey,Ambiguous
+Exit Popup,Thin,Page Load,Intrusive,No,Top,Help,Ambiguous
+Notification Bar,Small,Timer,Simple,No,Top Left,Newsletter,Less Well-Defined
+Slide-in,Small,Timer,Flat,Yes,Bottom Left,Offer,Less Well-Defined
+Tooltip,Medium,Timer,Flat,No,Top Right,Ad,Ambiguous
+Tooltip,Small,Hover,Intrusive,No,Top Right,Survey,Ambiguous
+Tooltip,Medium,Timer,Basic,Yes,Center,Ad,Ambiguous
+Banner,Small,Timer,Bold,Yes,Bottom Left,Help,Less Well-Defined
+Slide-in,Thin,Timer,Flat,Yes,Center,Survey,Ambiguous
+Tooltip,Small,Hover,Intrusive,Yes,Top Right,Survey,Ambiguous
+Dialog,Large,Scroll,Soft,No,Bottom Right,Alert,Well-Defined
+Modal,Large,Scroll,Modern,No,Bottom Right,Recommendation,Well-Defined
+Dialog,Medium,Scroll,Clean,No,Full Page,Ad,Well-Defined
+Fullscreen,Medium,Exit Intent,Soft,No,Full Page,Recommendation,Well-Defined
+Banner,Medium,Timer,Simple,No,Top Left,Newsletter,Less Well-Defined
+Fullscreen,Large,Click,Soft,No,Top,Offer,Well-Defined
+Modal,Medium,Exit Intent,Clean,No,Full Page,Alert,Well-Defined
+Tooltip,Medium,Page Load,Intrusive,No,Center,Reminder,Ambiguous
+Exit Popup,Small,Hover,Intrusive,Yes,Top,Reminder,Ambiguous
+Dialog,Small,On Load,Bold,No,Top Left,Discount,Less Well-Defined
+Fullscreen,Medium,Click,Clean,No,Top,Recommendation,Well-Defined
+Tooltip,Medium,Hover,Flat,Yes,Top,Reminder,Ambiguous
+Banner,Medium,Click,Clean,No,Center,Recommendation,Well-Defined
+Banner,Medium,Timer,Flat,No,Bottom Left,Offer,Less Well-Defined
+Tooltip,Small,Page Load,Flat,No,Top Right,Survey,Ambiguous
+Fullscreen,Medium,Exit Intent,Clean,Yes,Full Page,Recommendation,Well-Defined
+Notification Bar,Medium,On Load,Simple,Yes,Bottom Left,Discount,Less Well-Defined
+Notification Bar,Medium,Timer,Bold,No,Top Left,Discount,Less Well-Defined
+Tooltip,Medium,Page Load,Aggressive,No,Top,Help,Ambiguous
+Banner,Small,On Load,Simple,Yes,Bottom Left,Offer,Less Well-Defined
+Floating Box,Medium,Page Load,Intrusive,Yes,Center,Reminder,Ambiguous
+Banner,Medium,Click,Clean,Yes,Center,Offer,Well-Defined
+Modal,Medium,Exit Intent,Soft,Yes,Bottom Right,Alert,Well-Defined
+Slide-in,Small,Hover,Intrusive,Yes,Top Right,Survey,Ambiguous
+Notification Bar,Small,Hover,Clean,Yes,Bottom,Help,Less Well-Defined
+Modal,Large,Exit Intent,Soft,Yes,Bottom Right,Ad,Well-Defined
+Exit Popup,Thin,Page Load,Aggressive,Yes,Top,Ad,Well-Defined
+Slide-in,Small,Timer,Simple,No,Bottom Left,Discount,Less Well-Defined
+Exit Popup,Small,Page Load,Intrusive,Yes,Top Right,Reminder,Ambiguous
+Exit Popup,Small,Page Load,Basic,No,Top,Help,Ambiguous
+Fullscreen,Medium,Scroll,Modern,No,Full Page,Alert,Well-Defined
+Slide-in,Small,Timer,Basic,No,Top,Ad,Ambiguous
+Exit Popup,Small,Page Load,Basic,No,Top,Help,Ambiguous
+Tooltip,Thin,Hover,Aggressive,Yes,Center,Ad,Ambiguous
+Dialog,Small,On Load,Simple,Yes,Bottom,Offer,Less Well-Defined
+Tooltip,Thin,Hover,Basic,No,Top,Help,Ambiguous
+Floating Box,Medium,Page Load,Basic,No,Center,Survey,Ambiguous
+Dialog,Medium,Scroll,Soft,No,Center,Ad,Well-Defined
+Floating Box,Small,Hover,Intrusive,No,Top,Help,Ambiguous
+Banner,Small,Hover,Flat,No,Bottom Left,Newsletter,Less Well-Defined
+Dialog,Large,On Load,Soft,Yes,Top,Offer,Well-Defined
+Slide-in,Medium,On Load,Clean,No,Top Left,Offer,Less Well-Defined
+Slide-in,Medium,Timer,Flat,Yes,Top Left,Discount,Less Well-Defined
+Floating Box,Thin,Page Load,Intrusive,Yes,Top,Help,Ambiguous
+Floating Box,Thin,Page Load,Aggressive,No,Center,Ad,Ambiguous
+Slide-in,Small,Timer,Bold,Yes,Bottom Left,Discount,Less Well-Defined
+Dialog,Large,Scroll,Clean,Yes,Center,Alert,Well-Defined
+Slide-in,Small,Hover,Basic,Yes,Top Right,Ad,Ambiguous
+Modal,Medium,Exit Intent,Modern,No,Full Page,Recommendation,Well-Defined
+Exit Popup,Small,Timer,Flat,No,Top,Help,Ambiguous
+Modal,Medium,Click,Modern,No,Center,Ad,Well-Defined
+Slide-in,Medium,On Load,Flat,Yes,Top Left,Help,Less Well-Defined
+Notification Bar,Small,On Load,Bold,No,Bottom Left,Offer,Less Well-Defined
+Banner,Medium,Click,Modern,No,Full Page,Ad,Ambiguous
+Modal,Large,Click,Bold,Yes,Full Page,Recommendation,Well-Defined
+Modal,Medium,On Load,Clean,No,Bottom Right,Ad,Well-Defined
+Floating Box,Thin,Hover,Basic,Yes,Top,Reminder,Ambiguous
+Dialog,Medium,Exit Intent,Soft,Yes,Bottom Right,Offer,Well-Defined
+Slide-in,Medium,On Load,Flat,No,Bottom,Help,Less Well-Defined
+Banner,Medium,Timer,Flat,No,Top Left,Newsletter,Less Well-Defined
+Banner,Large,Exit Intent,Modern,No,Bottom Right,Recommendation,Well-Defined
+Slide-in,Medium,Hover,Flat,No,Bottom,Discount,Less Well-Defined
+Slide-in,Small,Hover,Clean,No,Bottom Left,Discount,Less Well-Defined
+Fullscreen,Large,Click,Clean,Yes,Top,Ad,Well-Defined
+Banner,Small,Hover,Clean,Yes,Bottom Left,Discount,Less Well-Defined
+Floating Box,Medium,Hover,Basic,Yes,Center,Help,Ambiguous
+Exit Popup,Medium,Timer,Aggressive,No,Top,Ad,Ambiguous
+Fullscreen,Medium,Click,Clean,No,Full Page,Recommendation,Well-Defined
+Tooltip,Thin,Page Load,Basic,No,Top Right,Ad,Ambiguous
+Banner,Medium,Scroll,Soft,No,Bottom Right,Ad,Well-Defined
+Fullscreen,Medium,Exit Intent,Modern,No,Center,Ad,Well-Defined
+Banner,Large,Exit Intent,Modern,Yes,Full Page,Offer,Well-Defined
+Modal,Medium,Click,Soft,No,Full Page,Ad,Well-Defined
+Fullscreen,Medium,Scroll,Soft,Yes,Full Page,Recommendation,Well-Defined
+Banner,Small,Timer,Simple,Yes,Bottom Left,Help,Less Well-Defined
+Tooltip,Thin,Page Load,Basic,No,Top Right,Reminder,Ambiguous
+Floating Box,Thin,Timer,Aggressive,No,Center,Help,Ambiguous
+Fullscreen,Large,Click,Soft,Yes,Top,Offer,Well-Defined
+Modal,Large,Exit Intent,Clean,No,Center,Offer,Well-Defined
+Fullscreen,Medium,On Load,Soft,No,Full Page,Alert,Well-Defined
+Slide-in,Medium,Page Load,Flat,Yes,Top,Survey,Ambiguous
+Exit Popup,Thin,Page Load,Intrusive,No,Top Right,Help,Ambiguous
+Modal,Medium,Exit Intent,Soft,Yes,Center,Offer,Well-Defined
+Dialog,Medium,Exit Intent,Clean,No,Center,Ad,Well-Defined
+Fullscreen,Medium,Scroll,Modern,No,Center,Alert,Well-Defined
+Floating Box,Medium,Timer,Aggressive,No,Top Right,Survey,Ambiguous
+Notification Bar,Small,On Load,Simple,Yes,Top Left,Discount,Less Well-Defined
+Slide-in,Small,Timer,Flat,No,Bottom Left,Offer,Less Well-Defined
+Slide-in,Small,Timer,Bold,Yes,Bottom,Discount,Less Well-Defined
+Floating Box,Thin,Hover,Basic,Yes,Top,Help,Ambiguous
+Slide-in,Small,Timer,Flat,No,Bottom,Newsletter,Less Well-Defined
+Modal,Medium,Exit Intent,Soft,Yes,Full Page,Recommendation,Well-Defined
+Floating Box,Thin,Page Load,Basic,No,Center,Ad,Ambiguous
+Dialog,Medium,Hover,Simple,No,Top Left,Newsletter,Less Well-Defined
+Slide-in,Small,Timer,Flat,No,Top Left,Discount,Less Well-Defined
+Dialog,Small,Hover,Bold,Yes,Bottom,Offer,Less Well-Defined
+Tooltip,Small,Hover,Basic,No,Top,Help,Ambiguous
+Notification Bar,Medium,Timer,Bold,No,Top Left,Offer,Less Well-Defined
+Slide-in,Medium,Timer,Basic,Yes,Top,Survey,Ambiguous
+Modal,Large,Scroll,Bold,Yes,Top,Recommendation,Well-Defined
+Dialog,Medium,Click,Bold,No,Full Page,Recommendation,Well-Defined
+Notification Bar,Medium,On Load,Flat,No,Top Left,Newsletter,Less Well-Defined
+Banner,Medium,Timer,Flat,Yes,Bottom Left,Newsletter,Less Well-Defined
+Banner,Small,Timer,Clean,No,Bottom,Newsletter,Less Well-Defined
+Notification Bar,Medium,On Load,Bold,No,Top Left,Offer,Less Well-Defined
+Exit Popup,Small,Hover,Flat,Yes,Top,Reminder,Ambiguous
+Floating Box,Small,Hover,Basic,No,Top Right,Reminder,Ambiguous
+Notification Bar,Medium,Timer,Flat,Yes,Bottom Left,Discount,Less Well-Defined
+Banner,Medium,On Load,Flat,No,Bottom Left,Newsletter,Less Well-Defined
+Tooltip,Small,Page Load,Basic,Yes,Top,Reminder,Ambiguous
+Dialog,Small,On Load,Simple,Yes,Bottom,Offer,Less Well-Defined
+Banner,Large,Click,Bold,No,Full Page,Ad,Well-Defined
+Notification Bar,Small,Timer,Simple,Yes,Bottom Left,Discount,Less Well-Defined
+Modal,Large,Scroll,Clean,No,Bottom Right,Offer,Well-Defined
+Floating Box,Small,Page Load,Aggressive,No,Center,Reminder,Ambiguous
+Modal,Medium,Scroll,Clean,No,Bottom Right,Alert,Ambiguous
+Fullscreen,Medium,Scroll,Modern,No,Bottom Right,Alert,Well-Defined
+Dialog,Medium,Exit Intent,Soft,No,Bottom Right,Recommendation,Well-Defined
+Tooltip,Small,Page Load,Basic,No,Top,Ad,Ambiguous
+Floating Box,Medium,Timer,Aggressive,No,Center,Ad,Ambiguous
+Exit Popup,Thin,Page Load,Basic,Yes,Top Right,Reminder,Ambiguous
+Dialog,Large,On Load,Clean,No,Center,Ad,Well-Defined
+Banner,Medium,On Load,Flat,Yes,Bottom,Newsletter,Less Well-Defined
+Floating Box,Small,Timer,Flat,No,Top Right,Reminder,Ambiguous
+Fullscreen,Large,Scroll,Modern,Yes,Full Page,Ad,Well-Defined
+Modal,Large,Click,Clean,Yes,Full Page,Recommendation,Well-Defined
+Notification Bar,Medium,On Load,Flat,Yes,Top Left,Help,Well-Defined
+Banner,Small,Timer,Clean,Yes,Bottom,Help,Less Well-Defined
+Slide-in,Medium,Hover,Basic,No,Center,Survey,Ambiguous
+Dialog,Medium,Exit Intent,Modern,No,Top,Alert,Well-Defined
+Exit Popup,Thin,Page Load,Aggressive,No,Top,Reminder,Ambiguous
+Slide-in,Thin,Page Load,Intrusive,Yes,Top Right,Survey,Ambiguous
+Exit Popup,Thin,Hover,Intrusive,Yes,Top,Help,Ambiguous
+Dialog,Large,Click,Clean,No,Bottom Right,Ad,Well-Defined
+Slide-in,Small,Timer,Basic,No,Top,Ad,Ambiguous
+Slide-in,Medium,Hover,Simple,No,Bottom Left,Discount,Well-Defined
+Slide-in,Medium,Timer,Simple,No,Bottom Left,Newsletter,Less Well-Defined
+Banner,Large,Click,Clean,No,Bottom Right,Alert,Well-Defined
+Tooltip,Thin,Hover,Intrusive,No,Top,Help,Ambiguous
+Notification Bar,Small,On Load,Flat,No,Bottom Left,Offer,Less Well-Defined
+Banner,Medium,Timer,Bold,No,Bottom,Help,Less Well-Defined
+Exit Popup,Thin,Page Load,Aggressive,No,Top Right,Help,Ambiguous
+Exit Popup,Thin,Page Load,Aggressive,Yes,Top Right,Help,Ambiguous
+Slide-in,Small,On Load,Simple,No,Bottom Left,Offer,Less Well-Defined
+Floating Box,Small,Hover,Intrusive,No,Top Right,Help,Well-Defined
+Modal,Medium,Exit Intent,Modern,No,Full Page,Ad,Well-Defined
+Dialog,Medium,On Load,Simple,Yes,Bottom Left,Discount,Less Well-Defined
+Exit Popup,Small,Page Load,Basic,No,Top Right,Survey,Ambiguous
+Tooltip,Thin,Hover,Aggressive,Yes,Center,Survey,Ambiguous
+Tooltip,Medium,Timer,Intrusive,No,Center,Reminder,Ambiguous
+Dialog,Small,On Load,Simple,Yes,Bottom,Help,Less Well-Defined
+Notification Bar,Medium,On Load,Simple,No,Bottom Left,Offer,Less Well-Defined
+Modal,Medium,On Load,Soft,No,Bottom Right,Ad,Well-Defined
+Banner,Large,Exit Intent,Soft,Yes,Full Page,Ad,Well-Defined
+Slide-in,Small,Page Load,Basic,Yes,Top,Help,Ambiguous
+Banner,Medium,Timer,Simple,No,Top Left,Newsletter,Less Well-Defined
+Notification Bar,Small,Hover,Bold,No,Top Left,Offer,Less Well-Defined
+Slide-in,Medium,Timer,Flat,No,Bottom Left,Newsletter,Less Well-Defined
+Banner,Small,Timer,Simple,No,Top Left,Newsletter,Less Well-Defined
+Exit Popup,Thin,Hover,Intrusive,Yes,Top Right,Help,Ambiguous
+Tooltip,Thin,Hover,Aggressive,Yes,Top,Reminder,Ambiguous
+Dialog,Large,Exit Intent,Bold,Yes,Bottom Right,Ad,Well-Defined
+Dialog,Medium,Timer,Clean,No,Top Left,Discount,Less Well-Defined
+Slide-in,Medium,Hover,Basic,No,Top Right,Reminder,Ambiguous
+Slide-in,Small,Page Load,Flat,Yes,Top,Help,Ambiguous
+Exit Popup,Small,Hover,Aggressive,Yes,Top,Survey,Ambiguous
+Banner,Small,On Load,Flat,No,Bottom,Offer,Less Well-Defined
+Tooltip,Thin,Hover,Flat,No,Top Right,Ad,Less Well-Defined
+Tooltip,Small,Page Load,Basic,Yes,Top,Help,Ambiguous
+Floating Box,Thin,Hover,Basic,Yes,Center,Reminder,Ambiguous
+Tooltip,Thin,Page Load,Basic,Yes,Top,Reminder,Ambiguous
+Exit Popup,Medium,Page Load,Basic,No,Center,Help,Ambiguous
+Dialog,Medium,Scroll,Soft,No,Full Page,Alert,Well-Defined
+Notification Bar,Small,Timer,Clean,Yes,Bottom Left,Help,Less Well-Defined
+Notification Bar,Small,Hover,Simple,Yes,Top Left,Help,Less Well-Defined
+Banner,Medium,On Load,Bold,No,Bottom Left,Discount,Less Well-Defined
+Tooltip,Small,Timer,Flat,No,Top Right,Help,Ambiguous
+Fullscreen,Medium,Click,Bold,No,Top,Offer,Well-Defined
+Exit Popup,Medium,Timer,Aggressive,Yes,Center,Help,Ambiguous
+Slide-in,Small,On Load,Flat,Yes,Bottom Left,Newsletter,Less Well-Defined
+Notification Bar,Small,Timer,Flat,Yes,Bottom,Discount,Less Well-Defined
+Floating Box,Medium,Hover,Basic,No,Center,Survey,Ambiguous
+Slide-in,Medium,Timer,Simple,Yes,Bottom Left,Discount,Well-Defined
+Fullscreen,Large,Scroll,Soft,No,Center,Ad,Well-Defined
+Tooltip,Small,Hover,Intrusive,No,Top Right,Ad,Ambiguous
+Exit Popup,Thin,Page Load,Intrusive,No,Top Right,Survey,Ambiguous
+Slide-in,Small,Timer,Aggressive,Yes,Top Right,Survey,Ambiguous
+Banner,Medium,Scroll,Clean,No,Full Page,Alert,Well-Defined
+Dialog,Medium,Timer,Clean,Yes,Bottom,Newsletter,Less Well-Defined
+Floating Box,Small,Hover,Basic,Yes,Top Right,Survey,Ambiguous
+Dialog,Large,Exit Intent,Soft,No,Center,Alert,Well-Defined
+Slide-in,Medium,Timer,Simple,No,Top Left,Discount,Less Well-Defined
+Slide-in,Small,On Load,Flat,No,Top Left,Discount,Less Well-Defined
+Banner,Medium,Timer,Clean,Yes,Top Left,Newsletter,Less Well-Defined
+Floating Box,Small,Hover,Basic,Yes,Top,Help,Ambiguous
+Fullscreen,Medium,Click,Modern,Yes,Bottom Right,Alert,Well-Defined
+Modal,Medium,On Load,Clean,Yes,Bottom Right,Ad,Well-Defined
+Dialog,Small,Timer,Clean,No,Top Left,Discount,Less Well-Defined
+Dialog,Medium,On Load,Bold,No,Bottom Right,Recommendation,Well-Defined
+Dialog,Small,Hover,Simple,No,Bottom,Help,Less Well-Defined
+Dialog,Medium,On Load,Simple,No,Bottom Left,Newsletter,Less Well-Defined
+Slide-in,Medium,Hover,Intrusive,No,Center,Ad,Ambiguous
+Slide-in,Medium,Timer,Bold,No,Top Left,Offer,Less Well-Defined
+Floating Box,Thin,Hover,Aggressive,No,Top,Survey,Ambiguous
+Banner,Small,Timer,Flat,Yes,Top Left,Discount,Less Well-Defined
+Fullscreen,Large,Scroll,Bold,Yes,Bottom Right,Recommendation,Well-Defined
+Notification Bar,Medium,On Load,Bold,Yes,Bottom Left,Offer,Less Well-Defined
+Dialog,Large,Scroll,Modern,No,Bottom Right,Offer,Less Well-Defined
+Banner,Small,Hover,Bold,Yes,Bottom Left,Help,Less Well-Defined
+Tooltip,Thin,Hover,Basic,Yes,Top Right,Survey,Ambiguous
+Tooltip,Small,Timer,Basic,No,Top,Help,Ambiguous
+Exit Popup,Small,Page Load,Basic,No,Top,Help,Ambiguous
+Notification Bar,Small,Timer,Simple,No,Bottom Left,Discount,Less Well-Defined
+Notification Bar,Medium,Hover,Flat,Yes,Bottom Left,Discount,Less Well-Defined
+Notification Bar,Small,Timer,Flat,Yes,Bottom,Offer,Less Well-Defined
+Floating Box,Small,Hover,Aggressive,No,Top,Survey,Ambiguous
+Slide-in,Small,Timer,Bold,Yes,Top Left,Discount,Less Well-Defined
+Dialog,Large,Exit Intent,Soft,Yes,Top,Alert,Well-Defined
+Dialog,Medium,On Load,Modern,No,Full Page,Alert,Well-Defined
+Fullscreen,Large,Scroll,Modern,Yes,Top,Alert,Well-Defined
+Dialog,Large,Scroll,Modern,Yes,Bottom Right,Alert,Well-Defined
+Fullscreen,Medium,Exit Intent,Soft,Yes,Center,Alert,Well-Defined
+Modal,Large,Click,Clean,No,Center,Ad,Well-Defined
+Banner,Medium,On Load,Flat,Yes,Bottom Left,Offer,Less Well-Defined
+Banner,Medium,Hover,Simple,Yes,Top Left,Help,Less Well-Defined
+Slide-in,Small,On Load,Bold,Yes,Top Left,Discount,Less Well-Defined
+Exit Popup,Small,Page Load,Basic,No,Center,Survey,Ambiguous
+Floating Box,Small,Page Load,Intrusive,Yes,Center,Reminder,Well-Defined
+Exit Popup,Medium,Timer,Flat,No,Top,Ad,Less Well-Defined
+Floating Box,Small,Timer,Flat,Yes,Top Right,Reminder,Ambiguous
+Fullscreen,Medium,Scroll,Bold,No,Center,Recommendation,Well-Defined
+Tooltip,Small,Hover,Basic,No,Center,Ad,Ambiguous
+Tooltip,Small,Hover,Intrusive,No,Top,Reminder,Ambiguous
+Modal,Large,On Load,Clean,Yes,Bottom Right,Ad,Well-Defined
+Slide-in,Thin,Timer,Aggressive,No,Top Right,Survey,Ambiguous
+Dialog,Medium,Scroll,Soft,Yes,Center,Ad,Well-Defined
+Fullscreen,Large,Scroll,Modern,No,Center,Ad,Well-Defined
+Floating Box,Thin,Timer,Intrusive,Yes,Top,Survey,Ambiguous
+Slide-in,Thin,Page Load,Basic,Yes,Top Right,Reminder,Ambiguous
+Fullscreen,Medium,Scroll,Clean,No,Center,Offer,Well-Defined
+Slide-in,Medium,Hover,Bold,No,Bottom Left,Discount,Less Well-Defined
+Notification Bar,Medium,Timer,Clean,Yes,Top Left,Offer,Less Well-Defined
+Modal,Large,Click,Clean,No,Bottom Right,Alert,Ambiguous
+Banner,Medium,On Load,Flat,Yes,Top Left,Offer,Less Well-Defined
+Dialog,Medium,Scroll,Clean,Yes,Top,Recommendation,Well-Defined
+Modal,Medium,Exit Intent,Modern,No,Top,Recommendation,Well-Defined
+Exit Popup,Thin,Timer,Flat,No,Top Right,Help,Ambiguous
+Modal,Large,Exit Intent,Soft,Yes,Bottom Right,Alert,Well-Defined
+Tooltip,Medium,Page Load,Aggressive,Yes,Top,Help,Ambiguous
+Notification Bar,Small,Timer,Simple,Yes,Bottom,Help,Less Well-Defined
+Banner,Medium,Hover,Flat,Yes,Bottom Left,Newsletter,Less Well-Defined
+Banner,Medium,Timer,Clean,Yes,Top Left,Discount,Less Well-Defined
+Floating Box,Small,Hover,Aggressive,No,Top,Reminder,Ambiguous
+Exit Popup,Small,Hover,Basic,No,Top,Help,Ambiguous
+Slide-in,Thin,Timer,Intrusive,No,Top Right,Ad,Well-Defined
+Floating Box,Thin,Page Load,Aggressive,No,Top Right,Survey,Ambiguous
+Tooltip,Small,Page Load,Intrusive,No,Top Right,Reminder,Ambiguous
+Slide-in,Small,On Load,Bold,Yes,Bottom,Discount,Less Well-Defined
+Banner,Medium,Timer,Flat,Yes,Bottom Left,Discount,Less Well-Defined
+Slide-in,Thin,Timer,Flat,No,Center,Survey,Ambiguous
+Floating Box,Small,Hover,Basic,No,Top,Survey,Ambiguous
+Dialog,Medium,On Load,Flat,No,Bottom,Offer,Less Well-Defined
+Fullscreen,Large,Click,Soft,No,Top,Recommendation,Well-Defined
+Notification Bar,Medium,On Load,Flat,No,Bottom Left,Newsletter,Less Well-Defined
+Tooltip,Small,Hover,Aggressive,Yes,Top Right,Ad,Less Well-Defined
+Exit Popup,Thin,Hover,Basic,No,Top Right,Reminder,Ambiguous
+Slide-in,Small,Hover,Clean,Yes,Bottom,Help,Less Well-Defined
+Notification Bar,Small,Hover,Bold,Yes,Bottom,Discount,Less Well-Defined
+Slide-in,Medium,On Load,Flat,Yes,Top Left,Newsletter,Less Well-Defined
+Dialog,Large,Exit Intent,Modern,Yes,Bottom Right,Recommendation,Well-Defined
+Tooltip,Small,Hover,Intrusive,No,Top Right,Survey,Ambiguous
+Modal,Large,Scroll,Bold,No,Bottom Right,Alert,Well-Defined
+Fullscreen,Medium,Exit Intent,Clean,Yes,Full Page,Recommendation,Well-Defined
+Exit Popup,Small,Page Load,Flat,Yes,Center,Ad,Well-Defined
+Slide-in,Medium,On Load,Clean,No,Bottom,Newsletter,Less Well-Defined
+Dialog,Medium,Scroll,Soft,No,Center,Ad,Well-Defined
+Exit Popup,Small,Page Load,Aggressive,Yes,Top Right,Reminder,Ambiguous
+Modal,Medium,On Load,Bold,No,Top,Ad,Well-Defined
+Exit Popup,Small,Page Load,Aggressive,Yes,Top Right,Reminder,Ambiguous
+Fullscreen,Medium,Click,Soft,No,Top,Ad,Well-Defined
+Slide-in,Thin,Hover,Intrusive,No,Center,Reminder,Ambiguous
+Slide-in,Small,Hover,Aggressive,No,Center,Ad,Ambiguous
+Slide-in,Small,Hover,Clean,Yes,Bottom Left,Offer,Less Well-Defined
+Tooltip,Thin,Page Load,Aggressive,Yes,Top Right,Ad,Ambiguous
+Floating Box,Small,Page Load,Basic,No,Top,Survey,Ambiguous
+Exit Popup,Small,Hover,Aggressive,Yes,Top,Reminder,Ambiguous
+Banner,Small,On Load,Flat,Yes,Bottom Left,Help,Less Well-Defined
+Dialog,Medium,Click,Modern,No,Bottom Right,Alert,Well-Defined
+Exit Popup,Small,Hover,Basic,Yes,Top,Reminder,Ambiguous
+Dialog,Medium,Timer,Flat,No,Bottom,Offer,Less Well-Defined
+Slide-in,Medium,On Load,Simple,No,Bottom Left,Discount,Less Well-Defined
+Exit Popup,Thin,Hover,Basic,Yes,Top,Reminder,Ambiguous
+Exit Popup,Small,Page Load,Aggressive,No,Top Right,Help,Ambiguous
+Dialog,Large,Exit Intent,Bold,Yes,Bottom Right,Recommendation,Well-Defined
+Banner,Medium,Click,Clean,Yes,Center,Alert,Well-Defined
+Exit Popup,Thin,Hover,Aggressive,No,Top Right,Reminder,Ambiguous
+Slide-in,Medium,Hover,Aggressive,No,Center,Survey,Ambiguous
+Dialog,Medium,Exit Intent,Modern,No,Center,Ad,Well-Defined
+Notification Bar,Small,Timer,Clean,No,Top Left,Newsletter,Less Well-Defined
+Banner,Medium,Exit Intent,Bold,Yes,Full Page,Recommendation,Well-Defined
+Dialog,Medium,Timer,Simple,Yes,Top Left,Offer,Less Well-Defined
+Slide-in,Medium,Timer,Simple,Yes,Top Left,Newsletter,Less Well-Defined
+Banner,Medium,Hover,Clean,No,Top Left,Offer,Less Well-Defined
+Exit Popup,Thin,Page Load,Aggressive,Yes,Top Right,Reminder,Ambiguous
+Banner,Medium,Scroll,Soft,Yes,Center,Ad,Well-Defined
+Fullscreen,Large,Exit Intent,Modern,No,Top,Alert,Well-Defined
+Exit Popup,Thin,Page Load,Aggressive,No,Top,Reminder,Ambiguous
+Floating Box,Thin,Timer,Basic,Yes,Center,Reminder,Ambiguous
+Slide-in,Medium,Timer,Flat,No,Top Right,Help,Ambiguous
+Exit Popup,Medium,Hover,Intrusive,No,Center,Ad,Ambiguous
+Floating Box,Small,Hover,Aggressive,Yes,Top Right,Reminder,Ambiguous
+Fullscreen,Medium,Click,Bold,Yes,Full Page,Ad,Well-Defined
+Notification Bar,Small,Timer,Bold,No,Bottom Left,Discount,Less Well-Defined
+Banner,Small,Timer,Flat,No,Top Left,Discount,Less Well-Defined
+Modal,Medium,Exit Intent,Soft,Yes,Center,Alert,Well-Defined
+Notification Bar,Medium,Timer,Flat,No,Top Left,Help,Less Well-Defined
+Exit Popup,Small,Timer,Intrusive,No,Top Right,Survey,Ambiguous
+Floating Box,Small,Hover,Basic,No,Top,Survey,Ambiguous
+Dialog,Medium,Scroll,Modern,No,Center,Offer,Well-Defined
+Banner,Small,Timer,Flat,No,Bottom Left,Newsletter,Less Well-Defined
+Notification Bar,Medium,On Load,Bold,Yes,Bottom Left,Newsletter,Less Well-Defined
+Tooltip,Small,Timer,Aggressive,No,Top Right,Help,Less Well-Defined
+Dialog,Small,On Load,Simple,No,Bottom Left,Help,Less Well-Defined
+Slide-in,Small,Timer,Bold,Yes,Bottom Left,Offer,Less Well-Defined
+Dialog,Medium,Click,Clean,Yes,Bottom Right,Alert,Well-Defined
+Modal,Medium,On Load,Clean,Yes,Full Page,Offer,Well-Defined
+Banner,Small,On Load,Bold,Yes,Top Left,Discount,Less Well-Defined
+Banner,Small,Timer,Flat,No,Bottom Left,Discount,Less Well-Defined
+Dialog,Large,Scroll,Modern,Yes,Bottom Right,Recommendation,Well-Defined
+Dialog,Large,Exit Intent,Soft,Yes,Full Page,Ad,Well-Defined
+Floating Box,Small,Page Load,Aggressive,No,Top,Survey,Ambiguous
+Slide-in,Medium,Hover,Flat,No,Top,Help,Well-Defined
+Slide-in,Small,On Load,Flat,Yes,Top Left,Newsletter,Less Well-Defined
+Banner,Medium,On Load,Flat,No,Top Left,Help,Less Well-Defined
+Banner,Medium,Click,Modern,Yes,Top,Ad,Well-Defined
+Notification Bar,Small,On Load,Bold,Yes,Top Left,Newsletter,Less Well-Defined
+Notification Bar,Small,Hover,Bold,Yes,Top Left,Help,Less Well-Defined
+Fullscreen,Large,Click,Bold,Yes,Full Page,Alert,Ambiguous
+Notification Bar,Small,Timer,Simple,No,Bottom Left,Help,Less Well-Defined
+Dialog,Small,On Load,Bold,No,Bottom,Discount,Less Well-Defined
+Modal,Medium,Click,Soft,Yes,Bottom Right,Alert,Well-Defined
+Notification Bar,Medium,On Load,Simple,No,Bottom Left,Newsletter,Less Well-Defined
+Exit Popup,Thin,Page Load,Aggressive,No,Top Right,Help,Ambiguous
+Dialog,Medium,Scroll,Clean,No,Center,Ad,Well-Defined
+Slide-in,Thin,Page Load,Basic,Yes,Top Right,Survey,Ambiguous
+Exit Popup,Thin,Page Load,Intrusive,No,Top Right,Reminder,Ambiguous
+Modal,Large,On Load,Clean,Yes,Full Page,Alert,Well-Defined
+Exit Popup,Small,Hover,Basic,No,Top,Reminder,Ambiguous
+Slide-in,Medium,Page Load,Basic,Yes,Top,Help,Ambiguous
+Banner,Small,On Load,Bold,No,Bottom Left,Help,Less Well-Defined
+Slide-in,Small,Timer,Flat,No,Top Right,Survey,Ambiguous
+Dialog,Small,Hover,Bold,Yes,Bottom Left,Offer,Less Well-Defined
+Banner,Medium,Click,Soft,Yes,Bottom Right,Ad,Well-Defined
+Slide-in,Small,Hover,Bold,Yes,Top Left,Discount,Ambiguous
+Dialog,Medium,Click,Clean,Yes,Full Page,Ad,Well-Defined
+Slide-in,Medium,Hover,Flat,Yes,Top Right,Survey,Ambiguous
+Notification Bar,Small,Hover,Clean,No,Top Left,Help,Less Well-Defined
+Dialog,Medium,On Load,Modern,No,Top,Recommendation,Well-Defined
+Banner,Large,Scroll,Bold,Yes,Bottom Right,Offer,Well-Defined
+Fullscreen,Large,Click,Soft,No,Bottom Right,Ad,Well-Defined
+Slide-in,Medium,Timer,Simple,No,Bottom Left,Discount,Less Well-Defined
+Dialog,Small,Hover,Bold,No,Bottom Left,Newsletter,Less Well-Defined
+Exit Popup,Thin,Page Load,Intrusive,Yes,Top,Help,Ambiguous
+Slide-in,Medium,Timer,Simple,No,Top Left,Newsletter,Less Well-Defined
+Modal,Large,On Load,Bold,No,Center,Ad,Well-Defined
+Slide-in,Medium,On Load,Bold,Yes,Bottom Left,Offer,Less Well-Defined
+Dialog,Large,Exit Intent,Soft,Yes,Bottom Right,Recommendation,Well-Defined
+Floating Box,Thin,Hover,Aggressive,No,Top Right,Help,Less Well-Defined
+Exit Popup,Thin,Page Load,Intrusive,Yes,Top Right,Reminder,Ambiguous
+Banner,Medium,On Load,Bold,No,Bottom Left,Newsletter,Less Well-Defined
+Fullscreen,Large,Click,Modern,Yes,Center,Recommendation,Well-Defined
+Fullscreen,Large,Click,Soft,Yes,Center,Recommendation,Well-Defined
+Dialog,Medium,On Load,Bold,Yes,Bottom Left,Newsletter,Less Well-Defined
+Tooltip,Small,Timer,Basic,No,Top Right,Ad,Ambiguous
+Fullscreen,Medium,Click,Soft,No,Top,Offer,Ambiguous
+Exit Popup,Small,Hover,Basic,No,Top Right,Help,Ambiguous
+Notification Bar,Medium,On Load,Bold,No,Top Left,Offer,Ambiguous
+Slide-in,Medium,Hover,Clean,Yes,Bottom,Discount,Less Well-Defined
+Dialog,Large,Exit Intent,Soft,No,Full Page,Recommendation,Well-Defined
+Banner,Large,On Load,Soft,Yes,Center,Ad,Well-Defined
+Banner,Medium,Scroll,Modern,Yes,Top,Offer,Well-Defined
+Slide-in,Medium,Page Load,Flat,Yes,Top Right,Ad,Ambiguous
+Banner,Large,Scroll,Soft,No,Bottom Right,Offer,Well-Defined
+Floating Box,Thin,Page Load,Flat,Yes,Top Right,Ad,Ambiguous
+Slide-in,Small,Timer,Bold,No,Bottom,Newsletter,Less Well-Defined
+Floating Box,Medium,Hover,Aggressive,Yes,Center,Ad,Ambiguous
+Tooltip,Small,Hover,Intrusive,No,Top,Help,Ambiguous
+Floating Box,Medium,Page Load,Intrusive,Yes,Top Right,Ad,Ambiguous
+Exit Popup,Small,Page Load,Intrusive,No,Top,Survey,Ambiguous
+Tooltip,Small,Hover,Aggressive,Yes,Top Right,Reminder,Ambiguous
+Floating Box,Small,Page Load,Intrusive,Yes,Top,Survey,Less Well-Defined
+Slide-in,Medium,Timer,Flat,No,Bottom Left,Newsletter,Less Well-Defined
+Banner,Small,On Load,Bold,No,Bottom Left,Help,Less Well-Defined
+Dialog,Small,Hover,Clean,No,Bottom Left,Newsletter,Less Well-Defined
+Dialog,Large,Exit Intent,Clean,No,Bottom Right,Offer,Well-Defined
+Notification Bar,Small,Timer,Simple,No,Top Left,Discount,Less Well-Defined
+Notification Bar,Medium,Timer,Bold,No,Bottom,Help,Less Well-Defined
+Exit Popup,Small,Timer,Aggressive,Yes,Top,Reminder,Ambiguous
+Tooltip,Thin,Page Load,Intrusive,No,Top Right,Help,Ambiguous
+Banner,Large,On Load,Modern,No,Bottom Right,Alert,Well-Defined
+Dialog,Small,Hover,Simple,No,Top Left,Newsletter,Less Well-Defined
+Tooltip,Small,Timer,Flat,Yes,Center,Help,Ambiguous
+Notification Bar,Small,Timer,Simple,Yes,Bottom,Offer,Less Well-Defined
+Floating Box,Small,Timer,Aggressive,No,Top Right,Ad,Ambiguous
+Floating Box,Thin,Hover,Aggressive,No,Top,Survey,Ambiguous
+Modal,Large,Scroll,Soft,Yes,Full Page,Ad,Well-Defined
+Slide-in,Medium,On Load,Simple,No,Bottom Left,Newsletter,Well-Defined
+Banner,Medium,Hover,Clean,No,Top Left,Help,Less Well-Defined
+Tooltip,Small,Hover,Aggressive,Yes,Top,Reminder,Ambiguous
+Floating Box,Small,Page Load,Basic,Yes,Top Right,Help,Ambiguous
+Dialog,Medium,Timer,Clean,Yes,Bottom Left,Newsletter,Less Well-Defined
+Floating Box,Medium,Timer,Intrusive,No,Top Right,Reminder,Ambiguous
+Notification Bar,Small,On Load,Simple,Yes,Top Left,Offer,Less Well-Defined
+Slide-in,Small,Timer,Aggressive,No,Top Right,Ad,Ambiguous
+Fullscreen,Large,On Load,Bold,Yes,Top,Recommendation,Well-Defined
+Exit Popup,Small,Page Load,Flat,No,Center,Ad,Ambiguous
+Slide-in,Thin,Page Load,Intrusive,Yes,Top,Reminder,Less Well-Defined
+Exit Popup,Medium,Page Load,Flat,Yes,Top,Help,Ambiguous
+Exit Popup,Medium,Timer,Aggressive,No,Top Right,Reminder,Well-Defined
+Fullscreen,Medium,Exit Intent,Bold,No,Bottom Right,Offer,Well-Defined
+Exit Popup,Thin,Page Load,Aggressive,No,Top Right,Help,Ambiguous
+Exit Popup,Small,Page Load,Intrusive,No,Top Right,Reminder,Ambiguous
+Fullscreen,Large,Exit Intent,Soft,No,Bottom Right,Offer,Well-Defined
+Fullscreen,Large,Click,Clean,Yes,Full Page,Alert,Well-Defined
+Exit Popup,Medium,Hover,Basic,Yes,Top,Help,Ambiguous
+Floating Box,Small,Page Load,Aggressive,No,Top,Reminder,Ambiguous
+Banner,Medium,Timer,Bold,Yes,Top Left,Offer,Less Well-Defined
+Banner,Large,Click,Soft,No,Bottom Right,Alert,Well-Defined
+Dialog,Large,Click,Bold,No,Full Page,Alert,Well-Defined
+Floating Box,Small,Hover,Aggressive,Yes,Top Right,Survey,Ambiguous
+Tooltip,Small,Hover,Aggressive,No,Top Right,Survey,Ambiguous
+Dialog,Medium,Exit Intent,Clean,Yes,Bottom Right,Alert,Well-Defined
+Notification Bar,Small,Hover,Bold,No,Bottom,Discount,Less Well-Defined
+Tooltip,Thin,Page Load,Basic,Yes,Top Right,Survey,Ambiguous
+Banner,Medium,Timer,Bold,No,Bottom Left,Newsletter,Less Well-Defined
+Tooltip,Thin,Timer,Aggressive,Yes,Top,Reminder,Ambiguous
+Slide-in,Small,On Load,Bold,No,Top Left,Discount,Less Well-Defined
+Fullscreen,Medium,Exit Intent,Clean,No,Bottom Right,Ad,Well-Defined
+Dialog,Medium,Scroll,Modern,No,Bottom Right,Ad,Well-Defined
+Dialog,Large,Exit Intent,Soft,Yes,Bottom Right,Alert,Well-Defined
+Exit Popup,Thin,Timer,Flat,No,Center,Help,Ambiguous
+Banner,Large,Click,Modern,Yes,Bottom Right,Recommendation,Well-Defined
+Exit Popup,Small,Page Load,Basic,No,Top,Survey,Ambiguous
+Fullscreen,Large,Click,Clean,Yes,Center,Recommendation,Well-Defined
+Slide-in,Small,Timer,Clean,No,Bottom Left,Discount,Less Well-Defined
+Banner,Medium,Click,Modern,Yes,Center,Recommendation,Well-Defined
+Tooltip,Medium,Page Load,Basic,No,Top,Survey,Ambiguous
+Dialog,Small,Hover,Clean,No,Bottom Left,Help,Less Well-Defined
+Exit Popup,Medium,Page Load,Aggressive,Yes,Top Right,Help,Ambiguous
+Exit Popup,Small,Hover,Intrusive,Yes,Top Right,Help,Ambiguous
+Fullscreen,Large,On Load,Bold,No,Center,Recommendation,Well-Defined
+Fullscreen,Medium,Exit Intent,Soft,No,Center,Recommendation,Well-Defined
+Banner,Medium,On Load,Simple,Yes,Top Left,Discount,Less Well-Defined
+Banner,Medium,On Load,Bold,No,Bottom Right,Offer,Well-Defined
+Banner,Medium,Scroll,Soft,Yes,Bottom Right,Alert,Well-Defined
+Banner,Small,Hover,Flat,Yes,Bottom Left,Newsletter,Less Well-Defined
+Modal,Large,Exit Intent,Bold,No,Center,Recommendation,Well-Defined
+Floating Box,Small,Hover,Intrusive,No,Top,Reminder,Ambiguous
+Banner,Small,Timer,Simple,Yes,Top Left,Newsletter,Less Well-Defined
+Banner,Medium,Scroll,Bold,Yes,Center,Ad,Well-Defined
+Tooltip,Thin,Hover,Basic,No,Top Right,Reminder,Ambiguous
+Floating Box,Medium,Page Load,Flat,No,Top,Help,Ambiguous
+Notification Bar,Medium,Timer,Bold,Yes,Bottom Left,Newsletter,Less Well-Defined
+Banner,Medium,Hover,Clean,No,Bottom Left,Discount,Less Well-Defined
+Modal,Medium,Click,Modern,No,Full Page,Ad,Well-Defined
+Notification Bar,Medium,On Load,Clean,No,Bottom,Discount,Less Well-Defined
+Slide-in,Small,On Load,Simple,Yes,Bottom Left,Discount,Less Well-Defined
+Modal,Large,On Load,Soft,Yes,Bottom Right,Recommendation,Well-Defined
+Modal,Medium,Exit Intent,Bold,Yes,Bottom Right,Offer,Well-Defined
+Exit Popup,Small,Hover,Intrusive,Yes,Top Right,Ad,Ambiguous
+Modal,Medium,Scroll,Modern,Yes,Center,Recommendation,Well-Defined
+Fullscreen,Medium,On Load,Soft,No,Bottom Right,Alert,Well-Defined
+Fullscreen,Large,Click,Bold,No,Bottom Right,Alert,Well-Defined
+Fullscreen,Medium,Scroll,Clean,No,Full Page,Alert,Well-Defined
+Dialog,Medium,Timer,Flat,Yes,Bottom Left,Discount,Less Well-Defined
+Banner,Small,Timer,Simple,Yes,Top Left,Newsletter,Less Well-Defined
+Floating Box,Small,Page Load,Basic,No,Top,Reminder,Ambiguous
+Fullscreen,Large,Exit Intent,Clean,No,Full Page,Ad,Well-Defined
+Banner,Medium,On Load,Simple,Yes,Bottom Left,Newsletter,Less Well-Defined
+Floating Box,Medium,Page Load,Flat,Yes,Top,Survey,Ambiguous
+Slide-in,Small,Page Load,Basic,No,Center,Survey,Ambiguous
+Slide-in,Medium,Timer,Flat,No,Bottom,Offer,Less Well-Defined
+Floating Box,Thin,Hover,Intrusive,No,Top Right,Reminder,Ambiguous
+Dialog,Medium,Click,Clean,No,Bottom Right,Recommendation,Well-Defined
+Slide-in,Medium,Hover,Bold,No,Top Left,Discount,Ambiguous
+Dialog,Medium,Hover,Bold,Yes,Bottom,Discount,Less Well-Defined
+Dialog,Medium,Exit Intent,Soft,Yes,Full Page,Recommendation,Well-Defined
+Tooltip,Small,Hover,Flat,No,Top Right,Survey,Well-Defined
+Notification Bar,Small,On Load,Flat,No,Top Left,Offer,Less Well-Defined
+Modal,Medium,Click,Clean,Yes,Full Page,Recommendation,Well-Defined
+Exit Popup,Thin,Timer,Intrusive,Yes,Center,Reminder,Ambiguous
+Slide-in,Medium,On Load,Simple,Yes,Bottom Left,Newsletter,Less Well-Defined
+Floating Box,Thin,Page Load,Intrusive,Yes,Top,Help,Ambiguous
+Dialog,Medium,Timer,Flat,Yes,Bottom Left,Offer,Ambiguous
+Dialog,Large,Exit Intent,Bold,No,Bottom Right,Alert,Well-Defined
+Slide-in,Small,Hover,Intrusive,No,Top Right,Reminder,Ambiguous
+Banner,Small,Hover,Bold,No,Bottom Left,Newsletter,Less Well-Defined
+Exit Popup,Thin,Hover,Aggressive,No,Top Right,Reminder,Ambiguous
+Slide-in,Medium,Page Load,Aggressive,No,Top,Help,Ambiguous
+Notification Bar,Small,On Load,Simple,Yes,Bottom Left,Offer,Less Well-Defined
+Floating Box,Small,Hover,Basic,No,Center,Ad,Ambiguous
+Exit Popup,Medium,Hover,Aggressive,No,Top Right,Survey,Ambiguous
+Exit Popup,Small,Hover,Intrusive,Yes,Top Right,Reminder,Ambiguous
+Exit Popup,Small,Page Load,Basic,No,Top Right,Reminder,Ambiguous
+Fullscreen,Medium,Click,Soft,Yes,Center,Recommendation,Well-Defined
+Banner,Small,On Load,Clean,Yes,Bottom Left,Discount,Less Well-Defined
+Fullscreen,Medium,Exit Intent,Soft,Yes,Full Page,Ad,Well-Defined
+Exit Popup,Thin,Page Load,Basic,No,Top,Help,Ambiguous
+Dialog,Large,Scroll,Modern,Yes,Center,Alert,Well-Defined
+Dialog,Medium,Exit Intent,Clean,Yes,Full Page,Recommendation,Well-Defined
+Slide-in,Medium,Timer,Bold,No,Top Left,Discount,Less Well-Defined
+Fullscreen,Medium,Scroll,Soft,Yes,Full Page,Ad,Well-Defined
+Banner,Large,Scroll,Modern,No,Top,Ad,Well-Defined
+Floating Box,Thin,Timer,Flat,Yes,Top,Survey,Ambiguous
+Exit Popup,Thin,Hover,Intrusive,Yes,Top,Survey,Ambiguous
+Fullscreen,Medium,Click,Clean,No,Bottom Right,Ad,Well-Defined
+Banner,Large,Click,Bold,Yes,Top,Ad,Well-Defined
+Fullscreen,Large,Exit Intent,Soft,No,Full Page,Offer,Well-Defined
+Banner,Small,Timer,Simple,No,Top Left,Offer,Less Well-Defined
+Exit Popup,Small,Hover,Flat,Yes,Top,Reminder,Ambiguous
+Dialog,Medium,Click,Soft,Yes,Bottom Right,Ad,Well-Defined
+Tooltip,Thin,Timer,Basic,Yes,Top Right,Reminder,Less Well-Defined
+Dialog,Medium,Click,Bold,No,Bottom Right,Recommendation,Well-Defined
+Modal,Medium,Exit Intent,Soft,No,Full Page,Recommendation,Well-Defined
+Banner,Medium,Scroll,Clean,No,Center,Recommendation,Well-Defined
+Exit Popup,Small,Hover,Intrusive,No,Top,Reminder,Ambiguous
+Notification Bar,Medium,Timer,Simple,No,Bottom Left,Discount,Less Well-Defined
+Dialog,Medium,On Load,Flat,No,Bottom Left,Offer,Less Well-Defined
+Slide-in,Medium,On Load,Clean,Yes,Top Left,Newsletter,Less Well-Defined
+Exit Popup,Small,Page Load,Aggressive,Yes,Center,Ad,Ambiguous
+Exit Popup,Small,Hover,Flat,No,Top Right,Survey,Ambiguous
+Dialog,Small,Hover,Flat,Yes,Top Left,Newsletter,Less Well-Defined
+Banner,Small,Timer,Flat,No,Bottom Left,Help,Less Well-Defined
+Dialog,Medium,On Load,Bold,Yes,Bottom Right,Offer,Well-Defined
+Banner,Medium,On Load,Simple,No,Bottom Left,Offer,Less Well-Defined
+Dialog,Medium,Timer,Simple,No,Bottom Left,Newsletter,Less Well-Defined
+Floating Box,Small,Page Load,Intrusive,Yes,Top,Reminder,Ambiguous
+Modal,Medium,Exit Intent,Soft,Yes,Full Page,Recommendation,Well-Defined
+Tooltip,Medium,Hover,Basic,No,Center,Help,Ambiguous
+Slide-in,Thin,Timer,Flat,No,Top Right,Help,Less Well-Defined
+Floating Box,Thin,Timer,Flat,No,Center,Survey,Ambiguous
+Modal,Medium,Exit Intent,Clean,No,Center,Ad,Well-Defined
+Slide-in,Small,Hover,Clean,Yes,Bottom Left,Help,Less Well-Defined
+Dialog,Medium,Click,Clean,Yes,Center,Recommendation,Well-Defined
+Banner,Medium,On Load,Flat,Yes,Bottom Left,Offer,Less Well-Defined
+Modal,Medium,On Load,Modern,Yes,Bottom Right,Offer,Well-Defined
+Modal,Large,Scroll,Bold,No,Bottom Right,Alert,Well-Defined
+Notification Bar,Small,Timer,Clean,No,Bottom,Newsletter,Less Well-Defined
+Exit Popup,Medium,Hover,Flat,Yes,Top Right,Help,Ambiguous
+Banner,Small,On Load,Bold,Yes,Top Left,Discount,Less Well-Defined
+Modal,Large,Scroll,Modern,Yes,Center,Alert,Well-Defined
+Modal,Large,Scroll,Soft,Yes,Top,Offer,Well-Defined
+Banner,Small,Timer,Simple,No,Bottom Left,Offer,Less Well-Defined
+Banner,Medium,Hover,Clean,No,Top Left,Discount,Less Well-Defined
+Tooltip,Thin,Hover,Aggressive,No,Top,Reminder,Ambiguous
+Dialog,Small,Timer,Simple,Yes,Bottom Left,Discount,Less Well-Defined
+Dialog,Small,Hover,Bold,Yes,Bottom,Offer,Less Well-Defined
+Dialog,Large,Exit Intent,Clean,Yes,Full Page,Ad,Well-Defined
+Exit Popup,Thin,Hover,Basic,Yes,Top,Reminder,Ambiguous
+Exit Popup,Small,Timer,Intrusive,Yes,Top Right,Ad,Ambiguous
+Tooltip,Medium,Hover,Basic,No,Top Right,Ad,Ambiguous
+Modal,Large,Exit Intent,Modern,Yes,Center,Alert,Well-Defined
+Dialog,Large,Scroll,Modern,Yes,Bottom Right,Alert,Well-Defined
+Banner,Small,On Load,Bold,Yes,Bottom Left,Newsletter,Less Well-Defined
+Fullscreen,Medium,Scroll,Soft,Yes,Top,Ad,Well-Defined
+Slide-in,Small,On Load,Bold,Yes,Bottom Left,Help,Less Well-Defined
+Dialog,Medium,On Load,Simple,No,Bottom Left,Offer,Less Well-Defined
+Banner,Medium,On Load,Soft,Yes,Bottom Right,Recommendation,Well-Defined
+Modal,Medium,Click,Clean,Yes,Full Page,Alert,Well-Defined
+Fullscreen,Large,Click,Bold,No,Center,Offer,Less Well-Defined
+Banner,Small,On Load,Clean,Yes,Top Left,Newsletter,Less Well-Defined
+Notification Bar,Small,On Load,Flat,Yes,Bottom Left,Offer,Less Well-Defined
+Modal,Medium,Exit Intent,Bold,Yes,Bottom Right,Recommendation,Well-Defined
+Notification Bar,Medium,On Load,Simple,No,Bottom Left,Offer,Less Well-Defined
+Exit Popup,Thin,Hover,Intrusive,No,Top,Reminder,Ambiguous
+Dialog,Medium,Click,Clean,No,Center,Recommendation,Well-Defined
+Banner,Small,Timer,Bold,No,Bottom Left,Help,Less Well-Defined
+Modal,Large,Scroll,Modern,No,Full Page,Offer,Well-Defined
+Notification Bar,Medium,On Load,Clean,No,Bottom Left,Discount,Less Well-Defined
+Dialog,Medium,On Load,Simple,No,Top Left,Offer,Less Well-Defined
+Banner,Medium,Hover,Flat,Yes,Top Left,Newsletter,Less Well-Defined
+Slide-in,Small,Timer,Flat,No,Bottom Left,Discount,Less Well-Defined
+Floating Box,Small,Timer,Aggressive,Yes,Top,Help,Ambiguous
+Fullscreen,Medium,Click,Clean,Yes,Full Page,Ad,Well-Defined
+Floating Box,Medium,Page Load,Basic,No,Top Right,Reminder,Less Well-Defined
+Slide-in,Small,On Load,Bold,Yes,Bottom Left,Help,Ambiguous
+Modal,Large,Click,Bold,No,Top,Recommendation,Well-Defined
+Slide-in,Small,On Load,Flat,Yes,Top Left,Offer,Less Well-Defined
+Banner,Medium,On Load,Flat,Yes,Bottom Left,Discount,Less Well-Defined
+Floating Box,Medium,Hover,Basic,Yes,Top Right,Survey,Less Well-Defined
+Slide-in,Small,Page Load,Aggressive,No,Top,Ad,Ambiguous
+Dialog,Small,On Load,Flat,Yes,Top Left,Help,Less Well-Defined
+Modal,Medium,Exit Intent,Soft,Yes,Center,Ad,Well-Defined
+Banner,Medium,Timer,Simple,Yes,Top Left,Discount,Less Well-Defined
+Fullscreen,Medium,Click,Bold,No,Full Page,Offer,Less Well-Defined
+Banner,Medium,Timer,Flat,Yes,Top Left,Offer,Less Well-Defined
+Banner,Small,Hover,Bold,Yes,Top Left,Newsletter,Less Well-Defined
+Exit Popup,Medium,Page Load,Intrusive,No,Top Right,Ad,Ambiguous
+Modal,Medium,Exit Intent,Soft,Yes,Bottom Right,Offer,Well-Defined
+Slide-in,Thin,Hover,Aggressive,Yes,Top,Survey,Ambiguous
+Banner,Medium,On Load,Bold,Yes,Top Left,Newsletter,Less Well-Defined
+Dialog,Large,Scroll,Modern,No,Full Page,Ad,Well-Defined
+Fullscreen,Medium,Exit Intent,Modern,Yes,Center,Recommendation,Well-Defined
+Tooltip,Medium,Page Load,Basic,Yes,Center,Help,Ambiguous
+Banner,Medium,Timer,Simple,No,Top Left,Newsletter,Less Well-Defined
+Banner,Medium,Scroll,Modern,No,Top,Alert,Well-Defined
+Floating Box,Thin,Hover,Intrusive,Yes,Top,Ad,Ambiguous
+Floating Box,Small,Timer,Basic,Yes,Center,Help,Ambiguous
+Modal,Medium,Exit Intent,Clean,No,Center,Ad,Well-Defined
+Exit Popup,Small,Page Load,Basic,Yes,Top,Ad,Ambiguous
+Floating Box,Small,Timer,Flat,No,Center,Help,Ambiguous
+Exit Popup,Small,Timer,Intrusive,No,Top Right,Help,Ambiguous
+Slide-in,Thin,Timer,Intrusive,Yes,Top Right,Help,Ambiguous
+Dialog,Medium,Exit Intent,Soft,Yes,Center,Recommendation,Well-Defined
+Fullscreen,Medium,Scroll,Soft,Yes,Bottom Right,Ad,Well-Defined
+Banner,Small,Timer,Flat,No,Bottom Left,Newsletter,Less Well-Defined
+Modal,Medium,Exit Intent,Clean,No,Center,Ad,Well-Defined
+Banner,Medium,Timer,Clean,No,Top Left,Help,Less Well-Defined
+Slide-in,Small,On Load,Simple,Yes,Bottom Left,Offer,Less Well-Defined
+Banner,Small,On Load,Bold,No,Bottom Left,Offer,Less Well-Defined
+Slide-in,Medium,Hover,Simple,No,Bottom Left,Offer,Less Well-Defined
+Exit Popup,Medium,Page Load,Flat,No,Top Right,Help,Ambiguous
+Dialog,Small,Hover,Clean,Yes,Top Left,Discount,Less Well-Defined
+Tooltip,Small,Page Load,Intrusive,No,Top Right,Help,Ambiguous
+Fullscreen,Large,Exit Intent,Clean,No,Full Page,Alert,Well-Defined
+Notification Bar,Small,Timer,Simple,Yes,Bottom Left,Offer,Ambiguous
+Modal,Medium,On Load,Soft,No,Top,Recommendation,Well-Defined
+Fullscreen,Large,On Load,Soft,Yes,Top,Ad,Well-Defined
+Dialog,Small,Hover,Simple,Yes,Top Left,Newsletter,Less Well-Defined
+Banner,Medium,Scroll,Bold,No,Bottom Right,Recommendation,Well-Defined
+Modal,Large,Exit Intent,Bold,No,Center,Ad,Well-Defined
+Banner,Large,Exit Intent,Modern,Yes,Full Page,Alert,Well-Defined
+Fullscreen,Medium,Click,Soft,Yes,Bottom Right,Recommendation,Well-Defined
+Dialog,Medium,Exit Intent,Soft,No,Full Page,Ad,Well-Defined
+Notification Bar,Small,On Load,Bold,No,Top Left,Discount,Less Well-Defined
+Banner,Medium,Timer,Flat,No,Bottom Left,Newsletter,Less Well-Defined
+Modal,Medium,Scroll,Modern,No,Top,Ad,Well-Defined
+Notification Bar,Medium,Hover,Simple,Yes,Bottom,Offer,Less Well-Defined
+Dialog,Small,Timer,Bold,Yes,Bottom,Help,Less Well-Defined
+Banner,Large,On Load,Soft,Yes,Full Page,Recommendation,Ambiguous
+Slide-in,Thin,Timer,Basic,No,Top,Ad,Ambiguous
+Floating Box,Small,Hover,Aggressive,No,Top,Help,Ambiguous
+Banner,Large,On Load,Soft,Yes,Bottom Right,Ad,Ambiguous
+Fullscreen,Large,Click,Modern,No,Top,Ad,Well-Defined
+Exit Popup,Thin,Page Load,Intrusive,No,Center,Reminder,Ambiguous
+Notification Bar,Small,On Load,Flat,Yes,Bottom,Help,Less Well-Defined
+Dialog,Large,Click,Modern,No,Full Page,Recommendation,Well-Defined
+Slide-in,Medium,On Load,Bold,Yes,Bottom Left,Help,Less Well-Defined
+Tooltip,Small,Hover,Aggressive,Yes,Top Right,Ad,Ambiguous
+Slide-in,Small,Hover,Flat,Yes,Bottom,Discount,Less Well-Defined
+Slide-in,Medium,Hover,Clean,Yes,Bottom,Newsletter,Less Well-Defined
+Dialog,Medium,Click,Modern,Yes,Full Page,Alert,Well-Defined
+Tooltip,Thin,Timer,Intrusive,Yes,Top Right,Help,Ambiguous
+Slide-in,Medium,Page Load,Flat,Yes,Top Right,Help,Ambiguous
+Floating Box,Medium,Hover,Flat,Yes,Center,Ad,Ambiguous
+Slide-in,Small,Page Load,Basic,Yes,Top,Ad,Ambiguous
+Floating Box,Medium,Page Load,Intrusive,No,Top Right,Survey,Ambiguous
+Floating Box,Medium,Timer,Aggressive,Yes,Top Right,Help,Ambiguous
+Modal,Large,Click,Soft,No,Center,Alert,Well-Defined
+Dialog,Medium,On Load,Flat,No,Top Left,Discount,Less Well-Defined
+Tooltip,Medium,Hover,Aggressive,No,Top,Help,Ambiguous
+Banner,Large,Exit Intent,Bold,No,Center,Recommendation,Well-Defined
+Exit Popup,Thin,Page Load,Flat,No,Top Right,Help,Ambiguous
+Dialog,Large,Scroll,Modern,Yes,Full Page,Ad,Well-Defined
+Fullscreen,Large,Scroll,Clean,Yes,Top,Ad,Well-Defined
+Banner,Medium,Scroll,Modern,Yes,Full Page,Offer,Less Well-Defined
+Dialog,Large,Scroll,Soft,Yes,Center,Alert,Well-Defined
+Notification Bar,Medium,On Load,Simple,No,Top Left,Newsletter,Less Well-Defined
+Notification Bar,Medium,On Load,Bold,No,Bottom Left,Offer,Less Well-Defined
+Slide-in,Medium,On Load,Simple,Yes,Bottom Left,Discount,Less Well-Defined
+Tooltip,Small,Hover,Basic,No,Top Right,Help,Ambiguous
+Banner,Small,On Load,Simple,No,Bottom Left,Discount,Less Well-Defined
+Tooltip,Thin,Page Load,Intrusive,Yes,Top,Reminder,Ambiguous
+Exit Popup,Small,Hover,Basic,No,Top,Survey,Ambiguous
+Dialog,Medium,Click,Bold,No,Bottom Right,Recommendation,Well-Defined
+Notification Bar,Small,Hover,Bold,No,Top Left,Discount,Less Well-Defined
+Slide-in,Medium,Hover,Basic,Yes,Center,Help,Ambiguous
+Fullscreen,Medium,Scroll,Soft,Yes,Center,Recommendation,Well-Defined
+Banner,Medium,Timer,Simple,Yes,Top Left,Offer,Less Well-Defined
+Banner,Large,Click,Soft,Yes,Center,Ad,Ambiguous
+Slide-in,Medium,On Load,Bold,Yes,Top Left,Newsletter,Less Well-Defined
+Banner,Large,Scroll,Clean,Yes,Top,Alert,Well-Defined
+Tooltip,Medium,Hover,Flat,No,Top,Reminder,Ambiguous
+Banner,Small,On Load,Bold,No,Bottom Left,Discount,Less Well-Defined
+Banner,Medium,On Load,Bold,No,Bottom Left,Discount,Less Well-Defined
+Floating Box,Small,Hover,Intrusive,Yes,Top Right,Survey,Ambiguous
+Modal,Medium,Click,Modern,Yes,Bottom Right,Ad,Ambiguous
+Dialog,Medium,Scroll,Soft,No,Bottom Right,Alert,Well-Defined
+Tooltip,Thin,Hover,Intrusive,No,Top,Survey,Ambiguous
+Dialog,Large,Exit Intent,Clean,Yes,Center,Ad,Well-Defined
+Exit Popup,Small,Timer,Intrusive,Yes,Center,Ad,Ambiguous
+Fullscreen,Large,Click,Modern,No,Full Page,Alert,Well-Defined
+Notification Bar,Small,On Load,Flat,Yes,Bottom Left,Offer,Less Well-Defined
+Banner,Medium,Timer,Bold,No,Bottom Left,Discount,Less Well-Defined
+Dialog,Large,Click,Clean,Yes,Bottom Right,Alert,Well-Defined
+Modal,Large,Exit Intent,Modern,Yes,Top,Offer,Well-Defined
+Notification Bar,Small,Timer,Flat,No,Bottom,Offer,Less Well-Defined
+Fullscreen,Large,On Load,Bold,No,Full Page,Offer,Well-Defined
+Banner,Medium,On Load,Bold,No,Bottom Left,Discount,Less Well-Defined
+Notification Bar,Small,On Load,Flat,No,Top Left,Offer,Less Well-Defined
+Banner,Medium,Exit Intent,Soft,Yes,Top,Recommendation,Well-Defined
+Slide-in,Medium,Hover,Intrusive,No,Center,Survey,Ambiguous
+Banner,Medium,On Load,Bold,Yes,Top Left,Offer,Less Well-Defined
+Tooltip,Thin,Hover,Basic,No,Top,Survey,Ambiguous
+Notification Bar,Medium,On Load,Bold,No,Bottom Left,Offer,Less Well-Defined
+Dialog,Large,Click,Soft,Yes,Top,Offer,Well-Defined
+Slide-in,Medium,Timer,Bold,Yes,Bottom Left,Discount,Less Well-Defined
+Slide-in,Small,Timer,Bold,Yes,Bottom Left,Discount,Less Well-Defined
+Slide-in,Small,Hover,Aggressive,Yes,Top,Help,Ambiguous
+Tooltip,Thin,Hover,Basic,Yes,Top Right,Reminder,Ambiguous
+Dialog,Medium,Scroll,Modern,No,Full Page,Alert,Well-Defined
+Floating Box,Small,Hover,Aggressive,No,Center,Help,Well-Defined
+Tooltip,Medium,Hover,Aggressive,Yes,Center,Help,Ambiguous
+Modal,Medium,Exit Intent,Modern,No,Center,Alert,Well-Defined
+Tooltip,Medium,Hover,Intrusive,Yes,Top,Help,Ambiguous
+Slide-in,Medium,On Load,Bold,Yes,Top Left,Offer,Less Well-Defined
+Slide-in,Small,Page Load,Flat,No,Center,Reminder,Ambiguous
+Banner,Medium,Scroll,Soft,No,Bottom Right,Alert,Well-Defined
+Floating Box,Small,Hover,Intrusive,Yes,Top Right,Help,Ambiguous
+Banner,Large,Click,Bold,No,Full Page,Ad,Well-Defined
+Modal,Medium,Scroll,Soft,No,Full Page,Ad,Less Well-Defined
+Banner,Medium,Exit Intent,Bold,No,Center,Ad,Ambiguous
+Modal,Large,Scroll,Modern,Yes,Bottom Right,Recommendation,Well-Defined
+Dialog,Small,Hover,Flat,No,Bottom,Discount,Less Well-Defined
+Dialog,Large,Scroll,Modern,Yes,Center,Recommendation,Well-Defined
+Slide-in,Medium,Timer,Basic,Yes,Top,Survey,Ambiguous
+Exit Popup,Thin,Page Load,Aggressive,Yes,Top,Survey,Ambiguous
+Banner,Small,Timer,Simple,No,Bottom Left,Newsletter,Less Well-Defined
+Fullscreen,Medium,Click,Clean,Yes,Bottom Right,Alert,Well-Defined
+Floating Box,Thin,Timer,Basic,No,Top Right,Reminder,Ambiguous
+Notification Bar,Small,Hover,Flat,Yes,Bottom,Offer,Less Well-Defined
+Dialog,Large,Scroll,Modern,No,Full Page,Alert,Well-Defined
+Slide-in,Small,On Load,Bold,No,Bottom,Help,Less Well-Defined
+Notification Bar,Medium,Timer,Flat,No,Bottom Left,Newsletter,Less Well-Defined
+Floating Box,Small,Page Load,Basic,No,Top,Help,Ambiguous
+Fullscreen,Large,Click,Modern,No,Center,Recommendation,Ambiguous
+Dialog,Large,Exit Intent,Soft,Yes,Top,Recommendation,Well-Defined
+Exit Popup,Thin,Page Load,Basic,No,Center,Help,Ambiguous
+Notification Bar,Medium,On Load,Clean,No,Bottom Left,Newsletter,Less Well-Defined
+Modal,Large,Exit Intent,Soft,Yes,Top,Recommendation,Well-Defined
+Floating Box,Small,Page Load,Aggressive,Yes,Top,Reminder,Ambiguous
+Modal,Medium,Exit Intent,Soft,No,Top,Recommendation,Well-Defined
+Banner,Small,Timer,Clean,Yes,Bottom Left,Offer,Less Well-Defined
+Notification Bar,Small,On Load,Bold,No,Bottom Left,Newsletter,Less Well-Defined
+Fullscreen,Large,Scroll,Soft,Yes,Full Page,Ad,Well-Defined
+Fullscreen,Medium,Exit Intent,Clean,Yes,Bottom Right,Recommendation,Well-Defined
+Modal,Large,Exit Intent,Clean,Yes,Bottom Right,Recommendation,Well-Defined
+Notification Bar,Medium,Timer,Clean,No,Bottom,Discount,Less Well-Defined
+Banner,Medium,On Load,Flat,No,Bottom,Help,Less Well-Defined
+Tooltip,Small,Page Load,Intrusive,No,Top,Survey,Ambiguous
+Modal,Large,Scroll,Soft,Yes,Full Page,Alert,Well-Defined
+Modal,Medium,Exit Intent,Modern,No,Full Page,Ad,Well-Defined
+Fullscreen,Large,Click,Clean,No,Full Page,Alert,Well-Defined
+Slide-in,Thin,Timer,Aggressive,No,Top Right,Ad,Ambiguous
+Fullscreen,Large,Exit Intent,Clean,No,Center,Ad,Well-Defined
+Banner,Large,On Load,Clean,No,Center,Recommendation,Well-Defined
+Dialog,Large,Click,Soft,Yes,Bottom Right,Alert,Well-Defined
+Banner,Medium,Timer,Flat,No,Top Left,Newsletter,Less Well-Defined
+Slide-in,Small,On Load,Flat,No,Top Left,Discount,Less Well-Defined
+Fullscreen,Medium,Click,Modern,No,Bottom Right,Alert,Well-Defined
+Tooltip,Thin,Page Load,Basic,No,Top,Help,Ambiguous
+Dialog,Large,Click,Soft,Yes,Full Page,Recommendation,Well-Defined
+Floating Box,Medium,Page Load,Aggressive,No,Center,Reminder,Well-Defined
+Tooltip,Small,Timer,Basic,Yes,Top Right,Ad,Ambiguous
+Banner,Small,On Load,Clean,No,Bottom,Offer,Less Well-Defined
+Banner,Small,On Load,Bold,No,Top Left,Discount,Less Well-Defined
+Fullscreen,Large,Scroll,Soft,No,Bottom Right,Recommendation,Ambiguous
+Dialog,Medium,On Load,Modern,No,Center,Ad,Well-Defined
+Banner,Large,On Load,Soft,Yes,Full Page,Ad,Well-Defined
+Tooltip,Small,Timer,Aggressive,Yes,Top Right,Survey,Ambiguous
+Modal,Medium,Click,Bold,No,Center,Recommendation,Well-Defined
+Fullscreen,Medium,Click,Modern,No,Top,Recommendation,Well-Defined
+Banner,Medium,On Load,Modern,Yes,Bottom Right,Ad,Well-Defined
+Modal,Medium,Scroll,Soft,No,Full Page,Ad,Ambiguous
+Exit Popup,Small,Page Load,Intrusive,No,Top Right,Survey,Ambiguous
+Banner,Medium,On Load,Simple,No,Bottom Left,Newsletter,Less Well-Defined
+Fullscreen,Large,Click,Bold,Yes,Center,Alert,Well-Defined
+Slide-in,Medium,Hover,Simple,Yes,Bottom,Newsletter,Less Well-Defined
+Dialog,Small,On Load,Clean,Yes,Top Left,Discount,Well-Defined
+Dialog,Small,Hover,Clean,Yes,Bottom,Discount,Less Well-Defined
+Dialog,Large,Click,Clean,Yes,Top,Ad,Well-Defined
+Exit Popup,Medium,Hover,Aggressive,No,Top Right,Help,Ambiguous
+Tooltip,Medium,Hover,Basic,No,Center,Reminder,Ambiguous
+Slide-in,Small,Page Load,Aggressive,No,Top Right,Help,Ambiguous
+Banner,Medium,On Load,Simple,No,Top Left,Discount,Less Well-Defined
+Fullscreen,Medium,Scroll,Soft,No,Bottom Right,Ad,Well-Defined
+Dialog,Large,Exit Intent,Bold,No,Full Page,Alert,Well-Defined
+Dialog,Medium,Hover,Flat,No,Top Left,Offer,Less Well-Defined
+Modal,Large,Click,Soft,Yes,Bottom Right,Alert,Well-Defined
+Notification Bar,Medium,On Load,Bold,Yes,Bottom,Newsletter,Less Well-Defined
+Exit Popup,Thin,Page Load,Basic,Yes,Center,Reminder,Ambiguous
+Exit Popup,Thin,Page Load,Intrusive,No,Top,Reminder,Ambiguous
+Slide-in,Thin,Page Load,Aggressive,Yes,Top,Help,Ambiguous
+Banner,Large,Scroll,Soft,Yes,Center,Ad,Well-Defined
+Exit Popup,Thin,Hover,Basic,Yes,Top,Help,Ambiguous
+Banner,Medium,Scroll,Bold,Yes,Full Page,Offer,Well-Defined
+Exit Popup,Small,Hover,Flat,No,Top,Survey,Less Well-Defined
+Modal,Large,Exit Intent,Clean,Yes,Bottom Right,Alert,Well-Defined
+Banner,Medium,On Load,Simple,Yes,Bottom,Offer,Less Well-Defined
+Slide-in,Small,Timer,Bold,No,Top Left,Discount,Less Well-Defined
+Slide-in,Medium,On Load,Simple,No,Bottom Left,Offer,Less Well-Defined
+Exit Popup,Small,Hover,Intrusive,Yes,Top Right,Survey,Ambiguous
+Floating Box,Medium,Hover,Flat,Yes,Top,Reminder,Ambiguous
+Floating Box,Small,Hover,Basic,Yes,Top,Help,Ambiguous
+Banner,Small,Timer,Flat,Yes,Top Left,Offer,Less Well-Defined
+Banner,Small,On Load,Bold,No,Top Left,Discount,Less Well-Defined
+Fullscreen,Medium,On Load,Clean,No,Full Page,Alert,Well-Defined
+Dialog,Medium,Click,Bold,No,Center,Ad,Well-Defined
+Dialog,Small,Hover,Clean,Yes,Bottom,Offer,Ambiguous
+Modal,Large,Exit Intent,Bold,Yes,Bottom Right,Ad,Well-Defined
+Fullscreen,Large,Exit Intent,Bold,No,Center,Ad,Well-Defined
+Floating Box,Small,Hover,Intrusive,No,Center,Help,Well-Defined
+Dialog,Medium,Hover,Clean,Yes,Bottom,Help,Less Well-Defined
+Exit Popup,Medium,Page Load,Aggressive,Yes,Top,Survey,Less Well-Defined
+Fullscreen,Large,Click,Soft,Yes,Center,Alert,Less Well-Defined
+Exit Popup,Thin,Timer,Intrusive,Yes,Top,Reminder,Ambiguous
+Slide-in,Thin,Hover,Aggressive,Yes,Top Right,Help,Ambiguous
+Fullscreen,Medium,Scroll,Soft,No,Center,Recommendation,Well-Defined
+Banner,Small,Timer,Bold,No,Bottom Left,Offer,Less Well-Defined
+Slide-in,Medium,On Load,Bold,No,Top Left,Discount,Less Well-Defined
+Banner,Small,Timer,Simple,No,Bottom,Help,Less Well-Defined
+Floating Box,Medium,Timer,Basic,Yes,Top,Help,Ambiguous
+Dialog,Large,Scroll,Bold,Yes,Top,Ad,Well-Defined
+Modal,Large,Click,Modern,No,Top,Alert,Well-Defined
+Slide-in,Small,Timer,Bold,Yes,Top Left,Offer,Less Well-Defined
+Modal,Medium,Exit Intent,Clean,Yes,Center,Offer,Well-Defined
+Notification Bar,Medium,Hover,Clean,Yes,Bottom,Offer,Less Well-Defined
+Dialog,Small,On Load,Simple,No,Bottom,Newsletter,Less Well-Defined
+Tooltip,Thin,Page Load,Intrusive,No,Center,Help,Ambiguous
+Exit Popup,Thin,Hover,Flat,Yes,Top Right,Reminder,Less Well-Defined
+Notification Bar,Medium,Hover,Bold,No,Top Left,Help,Less Well-Defined
+Fullscreen,Medium,Exit Intent,Modern,Yes,Full Page,Ad,Well-Defined
+Banner,Medium,Exit Intent,Clean,Yes,Top,Ad,Well-Defined
+Dialog,Small,On Load,Bold,No,Bottom,Discount,Less Well-Defined
+Floating Box,Thin,Timer,Aggressive,No,Center,Survey,Ambiguous
+Dialog,Large,Exit Intent,Modern,Yes,Top,Recommendation,Well-Defined
+Floating Box,Small,Timer,Aggressive,No,Center,Ad,Ambiguous
+Banner,Small,On Load,Simple,No,Top Left,Discount,Less Well-Defined
+Banner,Medium,On Load,Simple,No,Top Left,Newsletter,Less Well-Defined
+Dialog,Medium,Exit Intent,Bold,Yes,Bottom Right,Offer,Well-Defined
+Fullscreen,Large,Click,Modern,Yes,Center,Ad,Well-Defined
+Banner,Medium,Exit Intent,Bold,Yes,Full Page,Offer,Well-Defined
+Exit Popup,Thin,Page Load,Intrusive,Yes,Top Right,Reminder,Ambiguous
+Modal,Large,Exit Intent,Clean,Yes,Top,Ad,Well-Defined
+Banner,Medium,On Load,Modern,No,Full Page,Alert,Well-Defined
+Modal,Large,Exit Intent,Modern,Yes,Center,Ad,Well-Defined
+Fullscreen,Large,Exit Intent,Soft,No,Center,Recommendation,Well-Defined
+Slide-in,Small,On Load,Clean,Yes,Bottom Left,Help,Less Well-Defined
+Slide-in,Small,Hover,Simple,Yes,Top Left,Newsletter,Less Well-Defined
+Banner,Small,Hover,Clean,No,Bottom Left,Offer,Less Well-Defined
+Dialog,Medium,Exit Intent,Soft,Yes,Top,Recommendation,Well-Defined
+Slide-in,Small,Page Load,Aggressive,Yes,Top,Help,Ambiguous
+Slide-in,Small,Page Load,Flat,Yes,Center,Survey,Ambiguous
+Modal,Large,Exit Intent,Clean,Yes,Bottom Right,Alert,Well-Defined
+Dialog,Medium,Exit Intent,Soft,No,Full Page,Offer,Ambiguous
+Fullscreen,Large,Exit Intent,Bold,Yes,Top,Alert,Well-Defined
+Modal,Medium,Exit Intent,Bold,No,Full Page,Ad,Well-Defined
+Slide-in,Medium,Timer,Bold,Yes,Top Left,Offer,Less Well-Defined
+Exit Popup,Thin,Hover,Basic,Yes,Top Right,Reminder,Ambiguous
+Slide-in,Small,Timer,Bold,No,Top Left,Offer,Less Well-Defined
+Dialog,Large,On Load,Clean,Yes,Bottom Right,Alert,Well-Defined
+Floating Box,Small,Hover,Aggressive,No,Center,Reminder,Ambiguous
+Banner,Small,On Load,Simple,No,Top Left,Help,Less Well-Defined
+Slide-in,Small,Hover,Clean,Yes,Bottom,Discount,Well-Defined
+Banner,Medium,On Load,Flat,Yes,Top Left,Help,Less Well-Defined
+Exit Popup,Small,Timer,Intrusive,Yes,Center,Survey,Ambiguous
+Exit Popup,Small,Page Load,Aggressive,No,Top Right,Survey,Ambiguous
+Fullscreen,Medium,Scroll,Bold,No,Top,Alert,Well-Defined
+Dialog,Medium,Scroll,Modern,No,Full Page,Offer,Well-Defined
+Exit Popup,Small,Page Load,Basic,Yes,Top,Reminder,Ambiguous
+Exit Popup,Thin,Hover,Intrusive,No,Top,Help,Ambiguous
+Dialog,Medium,Scroll,Clean,Yes,Top,Alert,Well-Defined
+Exit Popup,Thin,Hover,Intrusive,No,Top Right,Reminder,Ambiguous
+Exit Popup,Small,Hover,Aggressive,No,Top,Survey,Ambiguous
+Slide-in,Small,On Load,Clean,Yes,Bottom,Help,Less Well-Defined
+Banner,Medium,Hover,Bold,Yes,Top Left,Discount,Less Well-Defined
+Exit Popup,Thin,Page Load,Intrusive,Yes,Top Right,Help,Ambiguous
+Modal,Large,Click,Modern,Yes,Center,Ad,Well-Defined
+Notification Bar,Small,On Load,Flat,No,Top Left,Discount,Less Well-Defined
+Banner,Medium,Click,Soft,No,Bottom Right,Ad,Well-Defined
+Dialog,Small,On Load,Simple,Yes,Top Left,Discount,Less Well-Defined
+Modal,Medium,Exit Intent,Modern,No,Bottom Right,Recommendation,Well-Defined
+Notification Bar,Medium,On Load,Clean,Yes,Top Left,Offer,Less Well-Defined
+Fullscreen,Large,Exit Intent,Clean,Yes,Bottom Right,Recommendation,Well-Defined
+Notification Bar,Small,Timer,Simple,No,Bottom Left,Discount,Less Well-Defined
+Fullscreen,Medium,Scroll,Soft,No,Full Page,Ad,Well-Defined
+Notification Bar,Medium,Hover,Bold,Yes,Bottom,Offer,Less Well-Defined
+Notification Bar,Medium,Timer,Simple,Yes,Top Left,Discount,Less Well-Defined
+Banner,Medium,On Load,Simple,Yes,Top Left,Offer,Less Well-Defined
+Modal,Medium,Scroll,Bold,Yes,Top,Alert,Well-Defined
+Floating Box,Small,Hover,Basic,No,Top,Ad,Ambiguous
+Banner,Small,Timer,Bold,No,Top Left,Offer,Less Well-Defined
+Fullscreen,Large,On Load,Clean,No,Center,Alert,Well-Defined
+Exit Popup,Small,Timer,Aggressive,No,Top,Help,Ambiguous
+Exit Popup,Thin,Timer,Basic,Yes,Top,Survey,Well-Defined
+Notification Bar,Small,On Load,Flat,No,Bottom Left,Discount,Less Well-Defined
+Exit Popup,Medium,Page Load,Basic,No,Top,Ad,Ambiguous
+Slide-in,Small,Hover,Flat,Yes,Top,Help,Ambiguous
+Banner,Medium,On Load,Bold,Yes,Bottom,Help,Less Well-Defined
+Tooltip,Medium,Timer,Basic,Yes,Top Right,Reminder,Ambiguous
+Exit Popup,Small,Page Load,Basic,No,Top Right,Help,Ambiguous
+Tooltip,Small,Page Load,Basic,Yes,Center,Ad,Ambiguous
+Fullscreen,Medium,Exit Intent,Soft,No,Bottom Right,Ad,Well-Defined
+Slide-in,Thin,Timer,Flat,Yes,Top,Survey,Ambiguous
+Floating Box,Thin,Page Load,Basic,No,Top,Reminder,Ambiguous
+Notification Bar,Medium,Timer,Flat,No,Top Left,Offer,Less Well-Defined
+Tooltip,Small,Page Load,Intrusive,Yes,Top,Reminder,Ambiguous
+Dialog,Medium,On Load,Modern,Yes,Bottom Right,Ad,Less Well-Defined
+Dialog,Medium,Scroll,Modern,No,Full Page,Alert,Well-Defined
+Exit Popup,Medium,Hover,Aggressive,Yes,Center,Help,Ambiguous
+Banner,Small,On Load,Clean,No,Top Left,Newsletter,Less Well-Defined
+Dialog,Large,Scroll,Modern,Yes,Full Page,Alert,Well-Defined
+Banner,Medium,Timer,Bold,Yes,Bottom Left,Discount,Less Well-Defined
+Slide-in,Medium,Hover,Bold,Yes,Bottom,Help,Less Well-Defined
+Dialog,Large,Click,Clean,Yes,Center,Ad,Well-Defined
+Tooltip,Small,Hover,Intrusive,Yes,Top,Help,Ambiguous
+Banner,Small,On Load,Flat,Yes,Bottom Left,Offer,Less Well-Defined
+Slide-in,Medium,On Load,Simple,No,Top Left,Help,Less Well-Defined
+Slide-in,Medium,Page Load,Intrusive,Yes,Center,Help,Ambiguous
+Banner,Medium,On Load,Modern,No,Bottom Right,Ad,Well-Defined
+Modal,Medium,Exit Intent,Soft,Yes,Bottom Right,Recommendation,Well-Defined
+Tooltip,Thin,Page Load,Aggressive,Yes,Top,Reminder,Ambiguous
+Banner,Small,Hover,Simple,Yes,Bottom,Discount,Less Well-Defined
+Slide-in,Medium,Timer,Clean,No,Bottom,Discount,Less Well-Defined
+Notification Bar,Medium,Timer,Flat,No,Bottom Left,Newsletter,Less Well-Defined
+Modal,Large,Scroll,Modern,Yes,Full Page,Recommendation,Well-Defined
+Dialog,Small,On Load,Simple,No,Bottom,Offer,Less Well-Defined
+Tooltip,Medium,Timer,Aggressive,No,Top,Reminder,Ambiguous
+Tooltip,Thin,Hover,Intrusive,No,Top,Reminder,Ambiguous
+Modal,Large,Click,Clean,Yes,Bottom Right,Alert,Well-Defined
+Slide-in,Small,Timer,Basic,No,Top,Survey,Ambiguous
+Tooltip,Thin,Hover,Flat,Yes,Top Right,Survey,Ambiguous
+Fullscreen,Large,Exit Intent,Clean,Yes,Center,Offer,Less Well-Defined
+Exit Popup,Small,Page Load,Intrusive,Yes,Center,Survey,Ambiguous
+Exit Popup,Small,Hover,Intrusive,Yes,Top,Reminder,Ambiguous
+Banner,Large,Click,Modern,Yes,Top,Recommendation,Well-Defined
+Floating Box,Medium,Hover,Intrusive,No,Top Right,Reminder,Well-Defined
+Notification Bar,Small,On Load,Flat,No,Top Left,Newsletter,Less Well-Defined
+Floating Box,Small,Page Load,Basic,No,Top,Reminder,Ambiguous
+Slide-in,Small,Page Load,Flat,No,Top Right,Help,Well-Defined
+Slide-in,Medium,Hover,Basic,No,Center,Help,Ambiguous
+Modal,Medium,On Load,Modern,Yes,Bottom Right,Recommendation,Well-Defined
+Floating Box,Medium,Page Load,Intrusive,Yes,Top Right,Ad,Ambiguous
+Dialog,Small,Hover,Bold,No,Bottom,Discount,Well-Defined
+Tooltip,Thin,Hover,Flat,No,Center,Ad,Ambiguous
+Banner,Small,On Load,Simple,Yes,Bottom Left,Discount,Less Well-Defined
+Exit Popup,Small,Timer,Flat,No,Top,Survey,Ambiguous
+Dialog,Medium,Scroll,Clean,No,Full Page,Recommendation,Well-Defined
+Tooltip,Thin,Hover,Flat,No,Top Right,Survey,Ambiguous
+Fullscreen,Large,Scroll,Bold,No,Top,Recommendation,Well-Defined
+Exit Popup,Small,Page Load,Aggressive,No,Top Right,Reminder,Ambiguous
+Banner,Medium,On Load,Simple,No,Bottom Left,Offer,Less Well-Defined
+Exit Popup,Thin,Page Load,Basic,Yes,Top Right,Help,Ambiguous
+Fullscreen,Medium,Scroll,Bold,Yes,Full Page,Recommendation,Well-Defined
+Dialog,Large,Exit Intent,Modern,Yes,Bottom Right,Ad,Well-Defined
+Slide-in,Small,On Load,Simple,Yes,Bottom Left,Offer,Less Well-Defined
+Fullscreen,Medium,Click,Clean,Yes,Center,Alert,Well-Defined
+Fullscreen,Medium,On Load,Soft,No,Top,Recommendation,Well-Defined
+Dialog,Small,Timer,Clean,Yes,Bottom Left,Newsletter,Less Well-Defined
+Dialog,Large,Scroll,Modern,No,Center,Alert,Well-Defined
+Floating Box,Thin,Timer,Aggressive,No,Center,Help,Ambiguous
+Modal,Medium,Click,Soft,No,Full Page,Ad,Well-Defined
+Floating Box,Medium,Hover,Basic,Yes,Top Right,Ad,Less Well-Defined
+Dialog,Large,Exit Intent,Modern,No,Top,Alert,Well-Defined
+Dialog,Medium,Exit Intent,Soft,No,Bottom Right,Ad,Well-Defined
+Fullscreen,Large,On Load,Modern,Yes,Top,Recommendation,Well-Defined
+Exit Popup,Small,Hover,Intrusive,No,Top,Reminder,Ambiguous
+Notification Bar,Small,Timer,Simple,No,Top Left,Offer,Less Well-Defined
+Exit Popup,Thin,Page Load,Basic,Yes,Top,Survey,Ambiguous
+Banner,Small,Timer,Simple,No,Top Left,Offer,Less Well-Defined
+Exit Popup,Small,Hover,Basic,No,Top Right,Reminder,Ambiguous
+Floating Box,Thin,Hover,Intrusive,No,Top,Reminder,Ambiguous
+Exit Popup,Small,Hover,Intrusive,No,Top,Help,Ambiguous
+Slide-in,Medium,Timer,Bold,Yes,Bottom Left,Newsletter,Less Well-Defined
+Dialog,Large,Exit Intent,Clean,Yes,Bottom Right,Ad,Well-Defined
+Modal,Large,Click,Modern,Yes,Full Page,Recommendation,Well-Defined
+Floating Box,Medium,Hover,Intrusive,No,Top Right,Help,Ambiguous
+Modal,Medium,Click,Soft,Yes,Center,Recommendation,Well-Defined
+Floating Box,Small,Page Load,Aggressive,Yes,Top Right,Help,Ambiguous
+Floating Box,Small,Hover,Flat,No,Top,Reminder,Well-Defined
+Floating Box,Medium,Timer,Intrusive,Yes,Center,Survey,Ambiguous
+Banner,Medium,Click,Bold,No,Top,Recommendation,Well-Defined
+Modal,Medium,On Load,Modern,No,Full Page,Recommendation,Well-Defined
+Exit Popup,Small,Page Load,Flat,Yes,Top Right,Reminder,Ambiguous
+Banner,Medium,On Load,Clean,Yes,Center,Offer,Well-Defined
+Dialog,Large,Exit Intent,Soft,Yes,Full Page,Alert,Well-Defined
+Exit Popup,Small,Timer,Flat,Yes,Top Right,Survey,Ambiguous
+Fullscreen,Medium,On Load,Clean,Yes,Top,Offer,Well-Defined
+Banner,Small,Timer,Clean,No,Top Left,Newsletter,Less Well-Defined
+Dialog,Medium,On Load,Soft,No,Full Page,Recommendation,Well-Defined
+Floating Box,Thin,Timer,Flat,Yes,Top Right,Help,Ambiguous
+Slide-in,Small,Hover,Flat,No,Top,Reminder,Ambiguous
+Exit Popup,Thin,Page Load,Intrusive,No,Top Right,Survey,Ambiguous
+Slide-in,Medium,Timer,Flat,Yes,Bottom,Help,Well-Defined
+Floating Box,Thin,Timer,Basic,No,Center,Ad,Ambiguous
+Tooltip,Medium,Timer,Aggressive,Yes,Top,Ad,Ambiguous
+Slide-in,Small,Timer,Flat,No,Center,Survey,Ambiguous
+Exit Popup,Thin,Hover,Basic,No,Top,Reminder,Ambiguous
+Banner,Medium,Click,Soft,Yes,Full Page,Alert,Well-Defined
+Slide-in,Small,On Load,Simple,Yes,Bottom Left,Discount,Less Well-Defined
+Notification Bar,Small,Hover,Bold,Yes,Top Left,Help,Less Well-Defined
+Modal,Medium,Click,Bold,No,Bottom Right,Recommendation,Well-Defined
+Modal,Medium,Scroll,Modern,No,Bottom Right,Alert,Well-Defined
+Fullscreen,Medium,Scroll,Clean,No,Bottom Right,Recommendation,Well-Defined
+Banner,Medium,Scroll,Modern,No,Center,Alert,Well-Defined
+Dialog,Large,Scroll,Bold,No,Bottom Right,Offer,Well-Defined
+Dialog,Large,Scroll,Clean,No,Full Page,Ad,Well-Defined
+Slide-in,Small,Timer,Intrusive,No,Top,Help,Ambiguous
+Slide-in,Medium,Hover,Bold,No,Bottom Left,Help,Less Well-Defined
+Slide-in,Medium,Timer,Flat,No,Bottom Left,Help,Well-Defined
+Floating Box,Small,Page Load,Intrusive,No,Top Right,Reminder,Ambiguous
+Slide-in,Medium,Timer,Simple,No,Top Left,Discount,Less Well-Defined
+Notification Bar,Medium,Timer,Flat,Yes,Top Left,Offer,Less Well-Defined
+Banner,Medium,On Load,Soft,Yes,Full Page,Ad,Well-Defined
+Slide-in,Small,Hover,Clean,No,Bottom,Offer,Less Well-Defined
+Modal,Medium,Exit Intent,Modern,Yes,Bottom Right,Ad,Well-Defined
+Slide-in,Medium,Timer,Flat,Yes,Top Left,Discount,Less Well-Defined
+Banner,Small,Hover,Bold,Yes,Top Left,Newsletter,Less Well-Defined
+Modal,Large,Click,Clean,No,Bottom Right,Alert,Well-Defined
+Slide-in,Medium,Timer,Flat,No,Bottom Left,Offer,Ambiguous
+Tooltip,Small,Page Load,Aggressive,No,Top,Ad,Ambiguous
+Tooltip,Medium,Page Load,Aggressive,Yes,Top,Survey,Ambiguous
+Floating Box,Medium,Timer,Intrusive,No,Top Right,Ad,Ambiguous
+Modal,Medium,Scroll,Soft,Yes,Center,Alert,Well-Defined
+Banner,Small,Hover,Bold,No,Top Left,Help,Less Well-Defined
+Banner,Small,Timer,Simple,Yes,Bottom,Help,Less Well-Defined
+Dialog,Medium,Scroll,Soft,No,Center,Recommendation,Well-Defined
+Banner,Large,On Load,Clean,No,Top,Recommendation,Well-Defined
+Dialog,Large,Exit Intent,Modern,Yes,Bottom Right,Alert,Well-Defined
+Tooltip,Thin,Page Load,Aggressive,No,Top Right,Reminder,Ambiguous
+Banner,Small,Timer,Clean,No,Bottom Left,Help,Less Well-Defined
+Exit Popup,Medium,Hover,Flat,Yes,Top,Help,Less Well-Defined
+Exit Popup,Thin,Timer,Flat,Yes,Top,Reminder,Ambiguous
+Modal,Medium,Exit Intent,Modern,Yes,Center,Ad,Well-Defined
+Fullscreen,Medium,Click,Clean,Yes,Full Page,Recommendation,Well-Defined
+Modal,Large,Scroll,Clean,No,Full Page,Recommendation,Well-Defined
+Banner,Medium,Timer,Flat,No,Bottom Left,Discount,Less Well-Defined
+Floating Box,Small,Timer,Basic,Yes,Top Right,Ad,Ambiguous
+Slide-in,Small,On Load,Flat,Yes,Top Left,Help,Less Well-Defined
+Dialog,Small,Timer,Flat,No,Top Left,Newsletter,Less Well-Defined
+Slide-in,Medium,On Load,Bold,Yes,Bottom Left,Discount,Less Well-Defined
+Banner,Medium,Exit Intent,Soft,Yes,Top,Ad,Well-Defined
+Dialog,Medium,Click,Clean,No,Center,Recommendation,Well-Defined
+Dialog,Medium,Scroll,Modern,No,Top,Recommendation,Well-Defined
+Dialog,Large,Click,Clean,No,Bottom Right,Ad,Well-Defined
+Exit Popup,Small,Hover,Basic,Yes,Top Right,Survey,Ambiguous
+Modal,Medium,Click,Clean,No,Full Page,Recommendation,Well-Defined
+Fullscreen,Medium,Scroll,Soft,No,Top,Recommendation,Well-Defined
+Fullscreen,Large,Scroll,Clean,No,Center,Recommendation,Well-Defined
+Floating Box,Thin,Hover,Intrusive,Yes,Top,Reminder,Ambiguous
+Exit Popup,Medium,Page Load,Intrusive,Yes,Top,Reminder,Ambiguous
+Floating Box,Medium,Page Load,Intrusive,Yes,Center,Survey,Ambiguous
+Slide-in,Small,Timer,Simple,No,Top Left,Discount,Less Well-Defined
+Dialog,Large,Click,Soft,Yes,Center,Recommendation,Well-Defined
+Notification Bar,Small,Hover,Simple,Yes,Top Left,Discount,Less Well-Defined
+Slide-in,Small,Timer,Basic,No,Top,Help,Ambiguous
+Slide-in,Medium,Timer,Simple,No,Bottom,Offer,Less Well-Defined
+Notification Bar,Medium,On Load,Bold,No,Bottom Left,Newsletter,Less Well-Defined
+Exit Popup,Thin,Page Load,Intrusive,No,Top Right,Survey,Ambiguous
+Notification Bar,Medium,Hover,Bold,No,Top Left,Newsletter,Less Well-Defined
+Notification Bar,Medium,Timer,Clean,Yes,Bottom Left,Discount,Less Well-Defined
+Notification Bar,Medium,Hover,Clean,No,Top Left,Newsletter,Less Well-Defined
+Tooltip,Medium,Timer,Basic,Yes,Top Right,Reminder,Ambiguous
+Fullscreen,Large,Exit Intent,Clean,No,Full Page,Recommendation,Well-Defined
+Exit Popup,Thin,Timer,Basic,No,Top Right,Survey,Ambiguous
+Exit Popup,Thin,Page Load,Intrusive,Yes,Top,Reminder,Ambiguous
+Exit Popup,Small,Timer,Basic,No,Top,Reminder,Ambiguous
+Slide-in,Medium,On Load,Clean,Yes,Bottom,Discount,Less Well-Defined
+Dialog,Medium,Timer,Clean,No,Top Left,Newsletter,Less Well-Defined
+Modal,Large,Click,Clean,No,Bottom Right,Ad,Well-Defined
+Banner,Medium,On Load,Flat,Yes,Top Left,Discount,Less Well-Defined
+Modal,Medium,On Load,Modern,Yes,Bottom Right,Offer,Well-Defined
+Slide-in,Small,Hover,Intrusive,Yes,Top,Reminder,Ambiguous
+Exit Popup,Small,Page Load,Aggressive,Yes,Top,Reminder,Ambiguous
+Dialog,Large,Scroll,Clean,Yes,Full Page,Alert,Well-Defined
+Tooltip,Small,Page Load,Basic,Yes,Top,Survey,Ambiguous
+Exit Popup,Small,Hover,Basic,No,Top Right,Survey,Ambiguous
+Slide-in,Medium,Page Load,Flat,Yes,Top,Survey,Ambiguous
+Slide-in,Small,On Load,Bold,No,Bottom Left,Help,Less Well-Defined
+Fullscreen,Large,Click,Bold,No,Center,Ad,Well-Defined
+Exit Popup,Thin,Page Load,Basic,No,Top Right,Reminder,Ambiguous
+Fullscreen,Medium,Scroll,Clean,Yes,Top,Recommendation,Well-Defined
+Notification Bar,Small,Hover,Clean,No,Top Left,Offer,Well-Defined
+Slide-in,Small,On Load,Clean,Yes,Bottom,Offer,Less Well-Defined
+Banner,Small,On Load,Simple,Yes,Bottom Left,Newsletter,Less Well-Defined
+Banner,Large,On Load,Modern,No,Top,Alert,Well-Defined
+Floating Box,Thin,Page Load,Intrusive,No,Top,Help,Ambiguous
+Banner,Medium,Exit Intent,Soft,No,Full Page,Recommendation,Less Well-Defined
+Banner,Small,Hover,Clean,Yes,Top Left,Offer,Less Well-Defined
+Dialog,Medium,Hover,Simple,Yes,Bottom Left,Newsletter,Less Well-Defined
+Exit Popup,Medium,Timer,Flat,Yes,Center,Help,Ambiguous
+Dialog,Large,Click,Clean,No,Bottom Right,Recommendation,Well-Defined
+Slide-in,Medium,On Load,Flat,Yes,Bottom,Discount,Less Well-Defined
+Fullscreen,Large,Click,Soft,No,Center,Ad,Well-Defined
+Dialog,Small,Hover,Bold,Yes,Top Left,Help,Less Well-Defined
+Tooltip,Thin,Timer,Intrusive,No,Top Right,Survey,Ambiguous
+Modal,Large,Click,Clean,No,Full Page,Alert,Well-Defined
+Slide-in,Medium,Timer,Bold,Yes,Bottom,Discount,Less Well-Defined
+Floating Box,Small,Page Load,Intrusive,No,Top,Survey,Ambiguous
+Dialog,Large,On Load,Modern,Yes,Center,Recommendation,Well-Defined
+Slide-in,Small,Page Load,Aggressive,No,Top Right,Reminder,Ambiguous
+Dialog,Medium,Click,Soft,No,Full Page,Alert,Well-Defined
+Slide-in,Medium,On Load,Simple,Yes,Bottom Left,Newsletter,Ambiguous
+Slide-in,Medium,Hover,Flat,No,Bottom,Discount,Less Well-Defined
+Notification Bar,Medium,Timer,Simple,No,Bottom,Help,Less Well-Defined
+Floating Box,Small,Hover,Intrusive,Yes,Top Right,Reminder,Ambiguous
+Modal,Large,Exit Intent,Soft,No,Center,Recommendation,Well-Defined
+Notification Bar,Small,Timer,Bold,No,Bottom,Help,Ambiguous
+Modal,Large,Exit Intent,Modern,No,Center,Ad,Well-Defined
+Notification Bar,Small,Timer,Bold,Yes,Top Left,Discount,Less Well-Defined
+Tooltip,Thin,Timer,Aggressive,No,Top Right,Survey,Well-Defined
+Slide-in,Small,Hover,Bold,Yes,Top Left,Newsletter,Well-Defined
+Exit Popup,Thin,Hover,Intrusive,Yes,Top Right,Survey,Ambiguous
+Exit Popup,Medium,Hover,Aggressive,No,Center,Reminder,Less Well-Defined
+Dialog,Small,On Load,Bold,No,Bottom,Discount,Less Well-Defined
+Notification Bar,Medium,Hover,Flat,Yes,Bottom,Newsletter,Less Well-Defined
+Slide-in,Small,On Load,Bold,Yes,Top Left,Newsletter,Less Well-Defined
+Fullscreen,Large,Scroll,Soft,No,Full Page,Alert,Well-Defined
+Notification Bar,Small,Hover,Clean,Yes,Bottom,Offer,Less Well-Defined
+Exit Popup,Small,Hover,Aggressive,No,Top Right,Reminder,Ambiguous
+Notification Bar,Small,Hover,Flat,Yes,Bottom,Newsletter,Less Well-Defined
+Slide-in,Medium,Timer,Simple,Yes,Bottom Left,Newsletter,Less Well-Defined
+Modal,Large,Exit Intent,Modern,Yes,Center,Recommendation,Well-Defined
+Dialog,Medium,Scroll,Clean,No,Bottom Right,Ad,Well-Defined
+Dialog,Medium,On Load,Modern,Yes,Full Page,Alert,Well-Defined
+Exit Popup,Small,Hover,Flat,No,Top,Ad,Ambiguous
+Banner,Medium,Scroll,Soft,Yes,Center,Ad,Well-Defined
+Notification Bar,Medium,Timer,Bold,No,Bottom Left,Discount,Less Well-Defined
+Dialog,Large,Click,Modern,Yes,Center,Ad,Well-Defined
+Floating Box,Thin,Hover,Flat,No,Center,Ad,Ambiguous
+Tooltip,Small,Timer,Flat,Yes,Center,Survey,Ambiguous
+Floating Box,Small,Timer,Aggressive,No,Center,Reminder,Ambiguous
+Floating Box,Small,Page Load,Basic,Yes,Top Right,Reminder,Ambiguous
+Dialog,Large,Exit Intent,Clean,Yes,Top,Offer,Well-Defined
+Floating Box,Medium,Hover,Aggressive,No,Center,Ad,Ambiguous
+Floating Box,Small,Page Load,Aggressive,Yes,Top Right,Reminder,Ambiguous
+Notification Bar,Medium,Hover,Flat,Yes,Top Left,Newsletter,Less Well-Defined
+Dialog,Medium,Scroll,Modern,Yes,Bottom Right,Ad,Well-Defined
+Exit Popup,Small,Page Load,Aggressive,No,Top,Help,Ambiguous
+Slide-in,Medium,On Load,Simple,Yes,Bottom,Newsletter,Ambiguous
+Floating Box,Medium,Page Load,Basic,Yes,Top Right,Ad,Ambiguous
+Modal,Large,On Load,Modern,No,Center,Offer,Well-Defined
+Dialog,Medium,Timer,Clean,Yes,Top Left,Newsletter,Less Well-Defined
+Floating Box,Small,Page Load,Intrusive,No,Center,Survey,Ambiguous
+Slide-in,Thin,Page Load,Intrusive,Yes,Top,Reminder,Ambiguous
+Slide-in,Medium,Timer,Flat,Yes,Top,Ad,Ambiguous
+Slide-in,Medium,Timer,Basic,Yes,Top Right,Ad,Ambiguous
+Notification Bar,Medium,Timer,Bold,No,Bottom Left,Help,Less Well-Defined
+Dialog,Small,Timer,Flat,Yes,Bottom,Newsletter,Less Well-Defined
+Slide-in,Small,Hover,Bold,Yes,Bottom,Discount,Less Well-Defined
+Exit Popup,Small,Timer,Intrusive,No,Top,Reminder,Ambiguous
+Banner,Medium,Hover,Simple,Yes,Bottom,Newsletter,Less Well-Defined
+Fullscreen,Large,Exit Intent,Soft,No,Center,Ad,Well-Defined
+Slide-in,Medium,Hover,Simple,No,Top Left,Offer,Less Well-Defined
+Tooltip,Small,Page Load,Basic,No,Center,Ad,Ambiguous
+Exit Popup,Small,Page Load,Intrusive,Yes,Top Right,Help,Ambiguous
+Banner,Large,On Load,Bold,Yes,Top,Alert,Well-Defined
+Exit Popup,Medium,Timer,Basic,Yes,Center,Survey,Ambiguous
+Fullscreen,Large,Scroll,Soft,No,Center,Alert,Well-Defined
+Notification Bar,Small,On Load,Simple,No,Top Left,Newsletter,Less Well-Defined
+Banner,Small,Timer,Flat,Yes,Bottom Left,Offer,Less Well-Defined
+Slide-in,Small,Timer,Flat,Yes,Top,Reminder,Ambiguous
+Modal,Medium,Click,Modern,Yes,Bottom Right,Alert,Well-Defined
+Slide-in,Small,Timer,Flat,Yes,Bottom Left,Newsletter,Less Well-Defined
+Dialog,Medium,Timer,Clean,No,Bottom Left,Help,Less Well-Defined
+Notification Bar,Medium,Hover,Bold,No,Bottom Left,Discount,Less Well-Defined
+Floating Box,Small,Page Load,Basic,No,Center,Ad,Ambiguous
+Fullscreen,Large,Click,Soft,Yes,Bottom Right,Ad,Well-Defined
+Tooltip,Medium,Timer,Aggressive,Yes,Top,Reminder,Ambiguous
+Exit Popup,Medium,Timer,Aggressive,Yes,Top,Help,Ambiguous
+Modal,Medium,Exit Intent,Bold,No,Full Page,Offer,Ambiguous
+Slide-in,Small,On Load,Flat,Yes,Bottom Left,Newsletter,Less Well-Defined
+Slide-in,Medium,On Load,Simple,Yes,Bottom Left,Offer,Less Well-Defined
+Modal,Large,Click,Bold,No,Top,Offer,Well-Defined
+Fullscreen,Medium,Scroll,Modern,No,Bottom Right,Recommendation,Well-Defined
+Floating Box,Thin,Hover,Intrusive,Yes,Center,Ad,Ambiguous
+Exit Popup,Thin,Hover,Basic,Yes,Top Right,Help,Ambiguous
+Banner,Large,Scroll,Soft,Yes,Bottom Right,Offer,Well-Defined
+Floating Box,Small,Hover,Basic,No,Top,Survey,Ambiguous
+Slide-in,Small,On Load,Simple,No,Top Left,Newsletter,Less Well-Defined
+Slide-in,Thin,Page Load,Intrusive,Yes,Top,Survey,Ambiguous
+Modal,Large,Scroll,Soft,Yes,Bottom Right,Alert,Well-Defined
+Tooltip,Thin,Page Load,Intrusive,No,Top Right,Reminder,Ambiguous
+Slide-in,Small,Hover,Clean,Yes,Top Left,Discount,Less Well-Defined
+Exit Popup,Small,Hover,Intrusive,Yes,Top Right,Survey,Ambiguous
+Banner,Medium,Hover,Clean,No,Top Left,Offer,Less Well-Defined
+Banner,Medium,Click,Soft,No,Bottom Right,Alert,Well-Defined
+Tooltip,Small,Hover,Aggressive,No,Top Right,Reminder,Ambiguous
+Modal,Medium,Exit Intent,Bold,Yes,Top,Ad,Well-Defined
+Floating Box,Small,Page Load,Intrusive,Yes,Top,Survey,Ambiguous
+Floating Box,Small,Page Load,Aggressive,No,Top Right,Survey,Ambiguous
+Dialog,Medium,Hover,Simple,Yes,Bottom Left,Offer,Less Well-Defined
+Modal,Medium,Click,Modern,No,Top,Alert,Well-Defined
+Slide-in,Thin,Page Load,Flat,Yes,Top,Help,Ambiguous
+Banner,Medium,Scroll,Clean,No,Bottom Right,Offer,Well-Defined
+Banner,Medium,Scroll,Modern,Yes,Top,Offer,Well-Defined
+Modal,Large,On Load,Modern,Yes,Full Page,Ad,Well-Defined
+Dialog,Medium,Scroll,Clean,Yes,Bottom Right,Ad,Well-Defined
+Exit Popup,Small,Page Load,Flat,Yes,Center,Help,Ambiguous
+Fullscreen,Large,Scroll,Bold,Yes,Bottom Right,Alert,Well-Defined
+Slide-in,Small,On Load,Simple,Yes,Top Left,Discount,Less Well-Defined
+Dialog,Small,On Load,Bold,No,Bottom Left,Offer,Less Well-Defined
+Floating Box,Small,Hover,Basic,No,Top,Survey,Ambiguous
+Notification Bar,Medium,Timer,Bold,No,Bottom Left,Offer,Less Well-Defined
+Banner,Large,Exit Intent,Clean,No,Full Page,Ad,Well-Defined
+Floating Box,Small,Page Load,Intrusive,No,Top Right,Reminder,Ambiguous
+Dialog,Medium,Hover,Simple,No,Bottom,Discount,Less Well-Defined
+Slide-in,Small,Timer,Clean,Yes,Top Left,Help,Less Well-Defined
+Modal,Large,Scroll,Bold,No,Center,Alert,Well-Defined
+Slide-in,Medium,Hover,Bold,No,Top Left,Help,Less Well-Defined
+Banner,Small,Hover,Clean,No,Bottom Left,Newsletter,Less Well-Defined
+Dialog,Small,Hover,Bold,Yes,Top Left,Newsletter,Less Well-Defined
+Modal,Medium,Scroll,Bold,Yes,Bottom Right,Ad,Ambiguous
+Floating Box,Medium,Page Load,Flat,Yes,Center,Ad,Ambiguous
+Dialog,Large,Click,Soft,No,Full Page,Alert,Well-Defined
+Exit Popup,Thin,Hover,Intrusive,Yes,Top,Reminder,Ambiguous
+Exit Popup,Small,Hover,Aggressive,Yes,Top Right,Survey,Ambiguous
+Banner,Small,On Load,Bold,Yes,Top Left,Offer,Less Well-Defined
+Tooltip,Thin,Hover,Aggressive,No,Top Right,Ad,Ambiguous
+Slide-in,Medium,Timer,Clean,Yes,Top Left,Newsletter,Ambiguous
+Exit Popup,Thin,Timer,Intrusive,No,Top Right,Reminder,Ambiguous
+Slide-in,Medium,Timer,Basic,No,Top Right,Reminder,Ambiguous
+Slide-in,Medium,Timer,Aggressive,Yes,Top Right,Ad,Ambiguous
+Banner,Medium,On Load,Bold,No,Bottom Left,Offer,Less Well-Defined
+Notification Bar,Small,Timer,Simple,Yes,Top Left,Help,Less Well-Defined
+Floating Box,Thin,Hover,Basic,No,Center,Survey,Ambiguous
+Banner,Small,Hover,Flat,Yes,Bottom Left,Discount,Ambiguous
+Slide-in,Small,Hover,Flat,No,Center,Reminder,Ambiguous
+Dialog,Large,Exit Intent,Modern,Yes,Full Page,Recommendation,Well-Defined
+Floating Box,Thin,Hover,Intrusive,No,Top Right,Reminder,Ambiguous
+Exit Popup,Small,Page Load,Basic,Yes,Top,Survey,Ambiguous
+Slide-in,Thin,Timer,Intrusive,Yes,Top,Survey,Ambiguous
+Notification Bar,Small,Timer,Simple,Yes,Bottom Left,Discount,Less Well-Defined
+Dialog,Small,Hover,Simple,Yes,Bottom,Discount,Less Well-Defined
+Slide-in,Medium,Timer,Flat,No,Bottom,Help,Less Well-Defined
+Tooltip,Small,Page Load,Basic,Yes,Top,Help,Ambiguous
+Exit Popup,Thin,Timer,Basic,No,Top Right,Reminder,Ambiguous
+Slide-in,Thin,Hover,Intrusive,No,Center,Survey,Ambiguous
+Dialog,Medium,Timer,Flat,Yes,Bottom,Help,Less Well-Defined
+Banner,Small,Timer,Bold,Yes,Top Left,Newsletter,Well-Defined
+Slide-in,Small,Timer,Intrusive,No,Top Right,Ad,Ambiguous
+Modal,Medium,On Load,Clean,Yes,Bottom Right,Offer,Well-Defined
+Fullscreen,Medium,Scroll,Soft,Yes,Bottom Right,Recommendation,Well-Defined
+Dialog,Medium,Click,Modern,Yes,Center,Offer,Well-Defined
+Modal,Large,Scroll,Soft,Yes,Full Page,Recommendation,Well-Defined
+Tooltip,Medium,Hover,Aggressive,Yes,Top,Reminder,Ambiguous
+Fullscreen,Large,On Load,Bold,Yes,Center,Ad,Well-Defined
+Fullscreen,Large,Click,Bold,Yes,Full Page,Ad,Well-Defined
+Exit Popup,Small,Hover,Intrusive,Yes,Top Right,Survey,Ambiguous
+Slide-in,Small,Hover,Clean,No,Bottom Left,Newsletter,Less Well-Defined
+Modal,Large,Exit Intent,Clean,Yes,Top,Ad,Well-Defined
+Tooltip,Medium,Page Load,Aggressive,Yes,Center,Reminder,Ambiguous
+Banner,Large,On Load,Clean,Yes,Center,Offer,Ambiguous
+Fullscreen,Large,On Load,Soft,Yes,Full Page,Ad,Well-Defined
+Dialog,Large,Exit Intent,Clean,Yes,Center,Alert,Well-Defined
+Tooltip,Medium,Timer,Flat,Yes,Top,Ad,Well-Defined
+Tooltip,Small,Timer,Intrusive,No,Top Right,Reminder,Ambiguous
+Fullscreen,Medium,Exit Intent,Bold,No,Top,Offer,Well-Defined
+Slide-in,Small,On Load,Clean,No,Bottom,Newsletter,Less Well-Defined
+Banner,Medium,Exit Intent,Soft,Yes,Center,Alert,Well-Defined
+Exit Popup,Thin,Hover,Aggressive,No,Top Right,Survey,Ambiguous
+Notification Bar,Medium,Hover,Bold,No,Top Left,Newsletter,Less Well-Defined
+Exit Popup,Thin,Page Load,Aggressive,No,Center,Reminder,Less Well-Defined
+Exit Popup,Thin,Hover,Intrusive,Yes,Top Right,Survey,Ambiguous
+Fullscreen,Medium,Exit Intent,Clean,No,Full Page,Alert,Well-Defined
+Banner,Large,Scroll,Clean,No,Top,Alert,Well-Defined
+Dialog,Large,Click,Clean,Yes,Bottom Right,Ad,Well-Defined
+Fullscreen,Medium,Exit Intent,Clean,Yes,Bottom Right,Ad,Well-Defined
+Fullscreen,Medium,Exit Intent,Clean,No,Bottom Right,Recommendation,Well-Defined
+Exit Popup,Small,Hover,Intrusive,No,Center,Reminder,Ambiguous
+Fullscreen,Large,Exit Intent,Soft,Yes,Full Page,Alert,Well-Defined
+Exit Popup,Thin,Hover,Aggressive,Yes,Top Right,Reminder,Ambiguous
+Modal,Large,On Load,Bold,No,Center,Ad,Well-Defined
+Exit Popup,Thin,Page Load,Aggressive,No,Top Right,Ad,Ambiguous
+Banner,Medium,On Load,Flat,Yes,Top Left,Offer,Less Well-Defined
+Fullscreen,Large,Scroll,Modern,Yes,Center,Recommendation,Well-Defined
+Slide-in,Medium,On Load,Bold,No,Bottom Left,Discount,Less Well-Defined
+Exit Popup,Small,Page Load,Basic,No,Top,Reminder,Ambiguous
+Modal,Medium,Exit Intent,Soft,Yes,Center,Ad,Well-Defined
+Banner,Small,Hover,Bold,Yes,Bottom,Help,Less Well-Defined
+Fullscreen,Large,Scroll,Modern,No,Full Page,Alert,Ambiguous
+Floating Box,Small,Hover,Basic,Yes,Top Right,Survey,Ambiguous
+Fullscreen,Medium,Exit Intent,Soft,Yes,Top,Recommendation,Well-Defined
+Exit Popup,Small,Page Load,Basic,Yes,Center,Help,Ambiguous
+Floating Box,Medium,Hover,Intrusive,No,Top,Ad,Ambiguous
+Banner,Medium,Timer,Bold,No,Bottom Left,Offer,Less Well-Defined
+Fullscreen,Large,Exit Intent,Clean,No,Center,Recommendation,Well-Defined
+Dialog,Large,Scroll,Modern,Yes,Bottom Right,Ad,Well-Defined
+Tooltip,Thin,Page Load,Intrusive,Yes,Top,Help,Ambiguous
+Banner,Medium,Exit Intent,Clean,No,Center,Offer,Well-Defined
+Tooltip,Small,Page Load,Aggressive,No,Center,Ad,Less Well-Defined
+Fullscreen,Medium,Click,Soft,Yes,Bottom Right,Ad,Well-Defined
+Exit Popup,Small,Hover,Aggressive,Yes,Top,Survey,Ambiguous
+Banner,Small,On Load,Flat,No,Bottom,Discount,Less Well-Defined
+Dialog,Large,Click,Clean,Yes,Center,Ad,Well-Defined
+Slide-in,Medium,Timer,Bold,No,Top Left,Offer,Less Well-Defined
+Dialog,Medium,Timer,Bold,No,Top Left,Offer,Less Well-Defined
+Banner,Medium,On Load,Flat,Yes,Bottom Left,Discount,Less Well-Defined
+Slide-in,Medium,Timer,Bold,No,Bottom Left,Offer,Less Well-Defined
+Modal,Medium,Click,Bold,No,Center,Offer,Well-Defined
+Fullscreen,Medium,Scroll,Clean,Yes,Full Page,Alert,Well-Defined
+Slide-in,Small,Timer,Flat,Yes,Bottom Left,Newsletter,Less Well-Defined
+Dialog,Medium,On Load,Clean,No,Bottom Left,Help,Less Well-Defined
+Banner,Medium,On Load,Simple,No,Top Left,Newsletter,Less Well-Defined
+Slide-in,Small,Page Load,Basic,No,Center,Reminder,Less Well-Defined
+Fullscreen,Large,Exit Intent,Bold,No,Center,Ad,Well-Defined
+Banner,Large,Scroll,Modern,Yes,Top,Offer,Well-Defined
+Floating Box,Medium,Timer,Basic,No,Top Right,Ad,Ambiguous
+Notification Bar,Small,On Load,Simple,Yes,Top Left,Offer,Less Well-Defined
+Banner,Small,Hover,Bold,No,Bottom,Discount,Less Well-Defined
+Dialog,Large,Scroll,Clean,No,Full Page,Ad,Well-Defined
+Dialog,Medium,On Load,Flat,No,Bottom,Discount,Less Well-Defined
+Notification Bar,Medium,On Load,Clean,No,Top Left,Newsletter,Well-Defined
+Dialog,Medium,Click,Soft,No,Top,Recommendation,Well-Defined
+Banner,Medium,On Load,Bold,No,Bottom Left,Offer,Less Well-Defined
+Slide-in,Thin,Page Load,Aggressive,No,Top,Survey,Ambiguous
+Notification Bar,Small,Hover,Clean,No,Bottom Left,Offer,Less Well-Defined
+Dialog,Medium,Hover,Clean,Yes,Bottom Left,Newsletter,Less Well-Defined
+Fullscreen,Large,Click,Modern,No,Full Page,Alert,Well-Defined
+Slide-in,Medium,Timer,Flat,Yes,Top Left,Help,Less Well-Defined
+Fullscreen,Large,On Load,Bold,Yes,Top,Alert,Well-Defined
+Exit Popup,Thin,Page Load,Aggressive,Yes,Top,Help,Ambiguous
+Exit Popup,Medium,Timer,Flat,No,Top,Help,Ambiguous
+Slide-in,Small,On Load,Flat,No,Top Left,Offer,Ambiguous
+Banner,Medium,On Load,Bold,Yes,Top,Ad,Well-Defined
+Modal,Medium,Click,Soft,Yes,Full Page,Recommendation,Well-Defined
+Notification Bar,Medium,Timer,Flat,No,Top Left,Newsletter,Less Well-Defined
+Notification Bar,Small,Hover,Simple,No,Bottom Left,Newsletter,Less Well-Defined
+Slide-in,Thin,Hover,Flat,Yes,Center,Help,Ambiguous
+Modal,Medium,Scroll,Modern,No,Bottom Right,Offer,Well-Defined
+Modal,Large,Exit Intent,Soft,Yes,Full Page,Alert,Well-Defined
+Floating Box,Thin,Hover,Intrusive,No,Top Right,Survey,Ambiguous
+Modal,Large,Scroll,Bold,No,Full Page,Recommendation,Well-Defined
+Notification Bar,Small,Hover,Bold,No,Bottom Left,Newsletter,Less Well-Defined
+Fullscreen,Medium,Exit Intent,Modern,Yes,Top,Ad,Well-Defined
+Fullscreen,Medium,On Load,Clean,Yes,Bottom Right,Offer,Well-Defined
+Notification Bar,Medium,Timer,Bold,No,Bottom Left,Help,Less Well-Defined
+Notification Bar,Medium,On Load,Flat,No,Top Left,Newsletter,Less Well-Defined
+Tooltip,Small,Timer,Intrusive,No,Top,Ad,Ambiguous
+Dialog,Medium,Scroll,Soft,Yes,Center,Ad,Well-Defined
+Slide-in,Thin,Hover,Aggressive,Yes,Center,Reminder,Ambiguous
+Notification Bar,Small,On Load,Clean,Yes,Top Left,Help,Less Well-Defined
+Slide-in,Medium,On Load,Simple,Yes,Bottom,Newsletter,Less Well-Defined
+Banner,Medium,On Load,Soft,Yes,Center,Recommendation,Well-Defined
+Tooltip,Small,Page Load,Basic,No,Top Right,Survey,Ambiguous
+Modal,Medium,Click,Soft,No,Bottom Right,Alert,Well-Defined
+Banner,Medium,Exit Intent,Modern,Yes,Full Page,Recommendation,Well-Defined
+Floating Box,Small,Page Load,Aggressive,No,Top Right,Reminder,Ambiguous
+Slide-in,Medium,Hover,Aggressive,No,Top,Ad,Ambiguous
+Dialog,Large,Exit Intent,Soft,Yes,Center,Recommendation,Well-Defined
+Dialog,Medium,On Load,Clean,No,Top Left,Help,Less Well-Defined
+Fullscreen,Large,Exit Intent,Clean,No,Bottom Right,Alert,Well-Defined
+Floating Box,Small,Hover,Basic,Yes,Top Right,Help,Ambiguous
+Tooltip,Medium,Hover,Aggressive,No,Center,Survey,Ambiguous
+Dialog,Medium,Scroll,Modern,Yes,Center,Recommendation,Well-Defined
+Exit Popup,Small,Page Load,Basic,Yes,Top,Help,Ambiguous
+Exit Popup,Small,Page Load,Intrusive,No,Top Right,Reminder,Ambiguous
+Dialog,Medium,Exit Intent,Soft,Yes,Bottom Right,Alert,Well-Defined
+Fullscreen,Medium,Scroll,Modern,No,Full Page,Alert,Well-Defined
+Floating Box,Thin,Hover,Aggressive,Yes,Top Right,Survey,Ambiguous
+Notification Bar,Small,On Load,Simple,Yes,Top Left,Newsletter,Less Well-Defined
+Notification Bar,Small,Timer,Bold,Yes,Bottom Left,Offer,Less Well-Defined
+Floating Box,Medium,Page Load,Intrusive,No,Top Right,Ad,Ambiguous
+Modal,Medium,Exit Intent,Bold,Yes,Center,Recommendation,Well-Defined
+Notification Bar,Small,On Load,Bold,No,Bottom Left,Newsletter,Less Well-Defined
+Tooltip,Medium,Timer,Aggressive,No,Top,Ad,Ambiguous
+Dialog,Medium,Exit Intent,Clean,No,Full Page,Alert,Well-Defined
+Modal,Large,Exit Intent,Soft,Yes,Top,Alert,Ambiguous
+Tooltip,Small,Page Load,Aggressive,No,Top,Help,Ambiguous
+Exit Popup,Thin,Page Load,Intrusive,Yes,Top Right,Reminder,Ambiguous
+Tooltip,Thin,Hover,Basic,Yes,Top,Survey,Ambiguous
+Slide-in,Small,Timer,Flat,No,Top,Reminder,Less Well-Defined
+Modal,Large,On Load,Soft,No,Center,Offer,Well-Defined
+Slide-in,Small,Hover,Clean,No,Top Left,Newsletter,Less Well-Defined
+Dialog,Medium,Click,Bold,No,Full Page,Alert,Well-Defined
+Dialog,Medium,Scroll,Soft,No,Center,Ad,Well-Defined
+Dialog,Medium,On Load,Soft,Yes,Full Page,Offer,Well-Defined
+Floating Box,Thin,Timer,Flat,No,Top,Ad,Ambiguous
+Banner,Small,Timer,Flat,Yes,Bottom Left,Offer,Less Well-Defined
+Dialog,Small,Hover,Flat,Yes,Top Left,Help,Less Well-Defined
+Tooltip,Small,Timer,Aggressive,No,Top,Survey,Ambiguous
+Notification Bar,Small,On Load,Simple,No,Bottom Left,Offer,Less Well-Defined
+Slide-in,Small,Timer,Simple,Yes,Bottom Left,Newsletter,Well-Defined
+Slide-in,Medium,Timer,Flat,No,Top Right,Ad,Ambiguous
+Modal,Large,Scroll,Clean,No,Bottom Right,Alert,Well-Defined
+Dialog,Medium,Click,Clean,No,Full Page,Offer,Well-Defined
+Tooltip,Thin,Hover,Intrusive,Yes,Top Right,Help,Ambiguous
+Floating Box,Thin,Hover,Basic,Yes,Top Right,Help,Ambiguous
+Fullscreen,Medium,Scroll,Clean,Yes,Full Page,Ad,Well-Defined
+Floating Box,Small,Timer,Flat,Yes,Top Right,Ad,Ambiguous
+Slide-in,Small,Timer,Flat,Yes,Bottom Left,Newsletter,Less Well-Defined
+Dialog,Medium,On Load,Clean,Yes,Bottom Left,Newsletter,Ambiguous
+Notification Bar,Medium,Timer,Flat,Yes,Top Left,Offer,Less Well-Defined
+Exit Popup,Small,Page Load,Intrusive,Yes,Top Right,Help,Ambiguous
+Slide-in,Small,Timer,Bold,No,Bottom Left,Offer,Less Well-Defined
+Dialog,Small,Hover,Bold,No,Bottom,Newsletter,Less Well-Defined
+Slide-in,Small,On Load,Clean,No,Bottom,Offer,Less Well-Defined
+Floating Box,Thin,Page Load,Intrusive,No,Top Right,Help,Ambiguous
+Dialog,Small,On Load,Clean,Yes,Bottom,Newsletter,Less Well-Defined
+Slide-in,Medium,Timer,Simple,No,Top Left,Offer,Less Well-Defined
+Tooltip,Small,Page Load,Intrusive,Yes,Top Right,Reminder,Ambiguous
+Dialog,Medium,On Load,Bold,Yes,Bottom,Help,Less Well-Defined
+Notification Bar,Small,On Load,Bold,No,Top Left,Newsletter,Less Well-Defined
+Dialog,Medium,Hover,Clean,Yes,Bottom,Discount,Less Well-Defined
+Banner,Medium,Hover,Simple,No,Bottom,Offer,Less Well-Defined
+Fullscreen,Large,Exit Intent,Clean,Yes,Bottom Right,Alert,Well-Defined
+Slide-in,Medium,Timer,Clean,No,Top Left,Discount,Less Well-Defined
+Dialog,Medium,Click,Soft,No,Full Page,Ad,Well-Defined
+Dialog,Medium,Click,Modern,Yes,Center,Ad,Well-Defined
+Modal,Large,Click,Clean,No,Bottom Right,Recommendation,Well-Defined
+Exit Popup,Thin,Hover,Basic,Yes,Top,Reminder,Ambiguous
+Tooltip,Thin,Timer,Basic,Yes,Top,Ad,Ambiguous
+Modal,Medium,Scroll,Bold,Yes,Full Page,Ad,Well-Defined
+Slide-in,Medium,On Load,Simple,Yes,Top Left,Offer,Less Well-Defined
+Dialog,Medium,Exit Intent,Clean,Yes,Full Page,Ad,Well-Defined
+Banner,Medium,Scroll,Soft,No,Full Page,Recommendation,Ambiguous
+Banner,Medium,Timer,Simple,Yes,Bottom Left,Discount,Less Well-Defined
+Tooltip,Small,Hover,Intrusive,Yes,Top,Reminder,Ambiguous
+Notification Bar,Small,On Load,Bold,Yes,Top Left,Newsletter,Less Well-Defined
+Dialog,Medium,Timer,Simple,No,Top Left,Discount,Less Well-Defined
+Tooltip,Thin,Timer,Flat,Yes,Center,Ad,Ambiguous
+Notification Bar,Small,On Load,Simple,Yes,Top Left,Offer,Less Well-Defined
+Banner,Large,Click,Clean,No,Full Page,Recommendation,Well-Defined
+Dialog,Large,Click,Modern,No,Bottom Right,Offer,Well-Defined
+Fullscreen,Large,Scroll,Bold,No,Center,Alert,Ambiguous
+Tooltip,Thin,Timer,Intrusive,Yes,Top Right,Reminder,Less Well-Defined
+Slide-in,Thin,Hover,Basic,Yes,Top Right,Reminder,Ambiguous
+Modal,Large,Exit Intent,Soft,Yes,Full Page,Alert,Well-Defined
+Floating Box,Medium,Hover,Basic,Yes,Center,Reminder,Ambiguous
+Banner,Medium,On Load,Bold,Yes,Bottom Left,Offer,Less Well-Defined
+Banner,Medium,Hover,Clean,No,Top Left,Discount,Less Well-Defined
+Slide-in,Small,Hover,Flat,No,Top Left,Help,Less Well-Defined
+Notification Bar,Medium,Timer,Simple,No,Bottom Left,Offer,Less Well-Defined
+Floating Box,Thin,Page Load,Basic,No,Top Right,Survey,Ambiguous
+Fullscreen,Large,Scroll,Clean,Yes,Full Page,Ad,Well-Defined
+Dialog,Medium,Click,Clean,No,Center,Ad,Well-Defined
+Slide-in,Small,Page Load,Intrusive,Yes,Center,Survey,Ambiguous
+Exit Popup,Small,Timer,Aggressive,Yes,Top,Reminder,Ambiguous
+Slide-in,Medium,On Load,Flat,No,Top Left,Offer,Less Well-Defined
+Tooltip,Thin,Page Load,Intrusive,No,Top Right,Help,Ambiguous
+Modal,Large,Click,Bold,No,Bottom Right,Ad,Well-Defined
+Exit Popup,Small,Page Load,Intrusive,No,Top,Help,Ambiguous
+Modal,Large,Exit Intent,Clean,Yes,Bottom Right,Ad,Well-Defined
+Slide-in,Small,On Load,Flat,No,Top Left,Discount,Less Well-Defined
+Modal,Medium,Exit Intent,Clean,Yes,Center,Recommendation,Well-Defined
+Tooltip,Small,Hover,Flat,No,Center,Help,Ambiguous
+Dialog,Medium,Exit Intent,Bold,Yes,Top,Ad,Well-Defined
+Exit Popup,Medium,Page Load,Flat,Yes,Center,Ad,Ambiguous
+Banner,Small,On Load,Bold,Yes,Bottom,Offer,Less Well-Defined
+Notification Bar,Medium,Timer,Flat,No,Bottom Left,Help,Less Well-Defined
+Fullscreen,Medium,Exit Intent,Modern,Yes,Full Page,Ad,Well-Defined
+Banner,Small,Timer,Simple,Yes,Bottom Left,Newsletter,Less Well-Defined
+Slide-in,Medium,Hover,Simple,Yes,Bottom Left,Offer,Well-Defined
+Tooltip,Thin,Page Load,Basic,No,Top,Help,Ambiguous
+Exit Popup,Thin,Hover,Intrusive,Yes,Top,Ad,Ambiguous
+Banner,Large,Click,Bold,Yes,Center,Offer,Well-Defined
+Exit Popup,Medium,Page Load,Basic,Yes,Center,Help,Ambiguous
+Slide-in,Medium,On Load,Clean,No,Top Left,Offer,Less Well-Defined
+Banner,Small,Hover,Clean,Yes,Top Left,Discount,Less Well-Defined
+Dialog,Medium,Scroll,Clean,No,Full Page,Alert,Well-Defined
+Banner,Small,Timer,Flat,Yes,Top Left,Discount,Less Well-Defined
+Dialog,Medium,Click,Bold,No,Full Page,Recommendation,Well-Defined
+Dialog,Medium,On Load,Clean,Yes,Bottom Left,Discount,Less Well-Defined
+Notification Bar,Small,Timer,Flat,No,Top Left,Help,Less Well-Defined
+Slide-in,Small,Timer,Simple,Yes,Bottom,Help,Less Well-Defined
+Exit Popup,Thin,Page Load,Intrusive,No,Top,Survey,Ambiguous
+Tooltip,Small,Hover,Aggressive,Yes,Top Right,Survey,Ambiguous
+Tooltip,Small,Page Load,Aggressive,Yes,Top Right,Reminder,Ambiguous
+Tooltip,Small,Page Load,Basic,No,Top,Reminder,Ambiguous
+Banner,Small,On Load,Bold,No,Top Left,Discount,Less Well-Defined
+Fullscreen,Medium,Click,Clean,No,Full Page,Recommendation,Well-Defined
+Dialog,Medium,Timer,Flat,Yes,Bottom Left,Help,Less Well-Defined
+Fullscreen,Medium,Click,Clean,No,Full Page,Alert,Well-Defined
+Dialog,Medium,Scroll,Clean,No,Bottom Right,Recommendation,Well-Defined
+Banner,Large,Click,Clean,No,Full Page,Ad,Well-Defined
+Exit Popup,Small,Page Load,Intrusive,Yes,Top,Survey,Ambiguous
+Fullscreen,Large,Exit Intent,Soft,No,Full Page,Recommendation,Well-Defined
+Dialog,Large,Click,Clean,Yes,Bottom Right,Recommendation,Well-Defined
+Dialog,Medium,Scroll,Modern,Yes,Top,Alert,Well-Defined
+Exit Popup,Small,Hover,Intrusive,Yes,Center,Reminder,Ambiguous
+Floating Box,Thin,Page Load,Intrusive,Yes,Top Right,Reminder,Ambiguous
+Banner,Medium,Hover,Simple,Yes,Top Left,Newsletter,Less Well-Defined
+Floating Box,Thin,Page Load,Basic,Yes,Top,Survey,Ambiguous
+Dialog,Medium,Scroll,Clean,No,Top,Ad,Well-Defined
+Slide-in,Small,Page Load,Basic,No,Center,Reminder,Ambiguous
+Tooltip,Small,Hover,Flat,No,Top Right,Survey,Ambiguous
+Slide-in,Small,Hover,Clean,Yes,Bottom Left,Discount,Less Well-Defined
+Tooltip,Thin,Timer,Flat,Yes,Top,Help,Ambiguous
+Exit Popup,Thin,Hover,Intrusive,Yes,Top,Reminder,Ambiguous
+Slide-in,Small,Timer,Clean,Yes,Bottom,Offer,Less Well-Defined
+Modal,Large,On Load,Clean,Yes,Top,Offer,Well-Defined
+Tooltip,Small,Hover,Intrusive,No,Top,Survey,Ambiguous
+Modal,Large,Click,Soft,Yes,Center,Alert,Well-Defined
+Floating Box,Thin,Page Load,Aggressive,Yes,Top,Help,Ambiguous
+Fullscreen,Large,Scroll,Modern,Yes,Center,Ad,Well-Defined
+Slide-in,Thin,Timer,Flat,Yes,Top,Ad,Ambiguous
+Notification Bar,Medium,On Load,Simple,Yes,Top Left,Offer,Less Well-Defined
+Slide-in,Thin,Page Load,Intrusive,Yes,Center,Help,Ambiguous
+Dialog,Large,On Load,Bold,Yes,Bottom Right,Alert,Well-Defined
+Dialog,Medium,Timer,Bold,No,Top Left,Offer,Less Well-Defined
+Banner,Small,Hover,Flat,No,Bottom,Help,Less Well-Defined
+Exit Popup,Small,Page Load,Intrusive,No,Top,Reminder,Ambiguous
+Floating Box,Thin,Hover,Aggressive,Yes,Top Right,Survey,Ambiguous
+Banner,Small,Timer,Flat,No,Top Left,Offer,Less Well-Defined
+Modal,Medium,Exit Intent,Soft,No,Full Page,Ad,Well-Defined
+Fullscreen,Large,Scroll,Bold,No,Top,Offer,Ambiguous
+Slide-in,Small,Hover,Bold,No,Bottom Left,Help,Less Well-Defined
+Slide-in,Medium,Timer,Aggressive,No,Center,Reminder,Ambiguous
+Dialog,Medium,Exit Intent,Modern,Yes,Bottom Right,Ad,Well-Defined
+Dialog,Large,Scroll,Clean,No,Center,Ad,Well-Defined
+Notification Bar,Medium,Timer,Bold,Yes,Top Left,Offer,Less Well-Defined
+Fullscreen,Large,Click,Soft,Yes,Center,Recommendation,Well-Defined
+Dialog,Large,Exit Intent,Modern,Yes,Center,Recommendation,Well-Defined
+Exit Popup,Medium,Hover,Basic,Yes,Top,Ad,Ambiguous
+Modal,Large,Scroll,Clean,No,Bottom Right,Alert,Well-Defined
+Tooltip,Thin,Page Load,Aggressive,No,Top Right,Reminder,Ambiguous
+Dialog,Medium,Hover,Bold,Yes,Bottom,Newsletter,Less Well-Defined
+Floating Box,Medium,Page Load,Flat,Yes,Center,Ad,Well-Defined
+Dialog,Medium,On Load,Flat,No,Bottom,Help,Well-Defined
+Banner,Medium,On Load,Clean,Yes,Bottom,Offer,Less Well-Defined
+Exit Popup,Medium,Page Load,Aggressive,Yes,Top,Ad,Ambiguous
+Banner,Small,On Load,Flat,No,Bottom Left,Newsletter,Less Well-Defined
+Dialog,Small,Timer,Clean,Yes,Bottom,Help,Less Well-Defined
+Banner,Medium,On Load,Bold,No,Bottom,Offer,Less Well-Defined
+Dialog,Medium,Scroll,Bold,Yes,Top,Recommendation,Less Well-Defined
+Fullscreen,Large,Exit Intent,Soft,No,Top,Recommendation,Well-Defined
+Slide-in,Thin,Hover,Intrusive,Yes,Center,Survey,Well-Defined
+Floating Box,Small,Hover,Aggressive,No,Top Right,Survey,Ambiguous
+Dialog,Small,On Load,Flat,No,Bottom Left,Discount,Less Well-Defined
+Exit Popup,Thin,Page Load,Intrusive,No,Top,Survey,Ambiguous
+Banner,Large,Exit Intent,Soft,Yes,Full Page,Alert,Well-Defined
+Floating Box,Small,Timer,Flat,Yes,Center,Survey,Ambiguous
+Banner,Small,Timer,Bold,No,Bottom Left,Newsletter,Less Well-Defined
+Slide-in,Small,Hover,Flat,Yes,Top Right,Reminder,Ambiguous
+Dialog,Large,Click,Modern,No,Full Page,Ad,Well-Defined
+Slide-in,Thin,Page Load,Intrusive,Yes,Top Right,Help,Ambiguous
+Modal,Medium,Exit Intent,Clean,No,Full Page,Alert,Well-Defined
+Exit Popup,Thin,Hover,Aggressive,No,Top,Survey,Ambiguous
+Notification Bar,Small,On Load,Simple,No,Top Left,Offer,Less Well-Defined
+Modal,Large,Exit Intent,Soft,Yes,Full Page,Alert,Well-Defined
+Fullscreen,Medium,Exit Intent,Clean,No,Top,Offer,Well-Defined
+Exit Popup,Small,Hover,Basic,No,Top,Reminder,Ambiguous
+Tooltip,Small,Page Load,Basic,No,Top,Ad,Ambiguous
+Exit Popup,Medium,Page Load,Aggressive,Yes,Center,Help,Ambiguous
+Slide-in,Small,Hover,Basic,No,Top,Reminder,Ambiguous
+Exit Popup,Small,Hover,Basic,No,Top,Help,Ambiguous
+Slide-in,Thin,Hover,Aggressive,No,Top Right,Reminder,Ambiguous
+Dialog,Medium,Click,Modern,Yes,Full Page,Alert,Well-Defined
+Tooltip,Thin,Page Load,Basic,Yes,Top Right,Reminder,Ambiguous
+Banner,Large,On Load,Modern,No,Bottom Right,Recommendation,Well-Defined
+Tooltip,Small,Timer,Intrusive,Yes,Top Right,Survey,Ambiguous
+Tooltip,Thin,Page Load,Flat,No,Top,Survey,Ambiguous
+Floating Box,Thin,Timer,Intrusive,Yes,Center,Survey,Ambiguous
+Notification Bar,Medium,On Load,Simple,Yes,Top Left,Discount,Less Well-Defined
+Banner,Medium,On Load,Flat,No,Bottom Left,Discount,Less Well-Defined
+Floating Box,Small,Hover,Basic,Yes,Top,Survey,Ambiguous
+Notification Bar,Small,Timer,Simple,Yes,Top Left,Offer,Less Well-Defined
+Slide-in,Small,Timer,Intrusive,Yes,Center,Help,Less Well-Defined
+Dialog,Large,Click,Modern,No,Center,Recommendation,Well-Defined
+Slide-in,Medium,Timer,Simple,No,Bottom Left,Newsletter,Less Well-Defined
+Banner,Large,Scroll,Bold,No,Center,Alert,Well-Defined
+Dialog,Medium,On Load,Clean,No,Bottom,Newsletter,Less Well-Defined
+Slide-in,Medium,Page Load,Aggressive,No,Center,Ad,Ambiguous
+Exit Popup,Thin,Hover,Flat,No,Center,Help,Ambiguous
+Slide-in,Thin,Hover,Aggressive,Yes,Center,Reminder,Ambiguous
+Banner,Large,Scroll,Bold,Yes,Center,Recommendation,Well-Defined
+Exit Popup,Small,Hover,Basic,Yes,Top Right,Help,Ambiguous
+Notification Bar,Small,On Load,Bold,No,Top Left,Discount,Less Well-Defined
+Dialog,Small,On Load,Flat,Yes,Bottom Left,Newsletter,Less Well-Defined
+Dialog,Large,Click,Modern,No,Center,Ad,Well-Defined
+Slide-in,Medium,Timer,Clean,No,Bottom,Discount,Less Well-Defined
+Floating Box,Thin,Timer,Intrusive,No,Top Right,Help,Ambiguous
+Exit Popup,Small,Timer,Flat,Yes,Top,Survey,Ambiguous
+Exit Popup,Thin,Timer,Flat,No,Top Right,Ad,Well-Defined
+Dialog,Large,Exit Intent,Soft,No,Full Page,Offer,Well-Defined
+Floating Box,Thin,Page Load,Aggressive,No,Top Right,Survey,Ambiguous
+Dialog,Medium,Exit Intent,Modern,Yes,Bottom Right,Alert,Well-Defined
+Notification Bar,Medium,On Load,Flat,No,Top Left,Offer,Less Well-Defined
+Dialog,Large,Scroll,Bold,Yes,Full Page,Ad,Well-Defined
+Slide-in,Medium,Timer,Aggressive,No,Top,Help,Ambiguous
+Notification Bar,Medium,Hover,Clean,No,Top Left,Help,Less Well-Defined
+Slide-in,Small,Hover,Flat,No,Top,Ad,Ambiguous
+Tooltip,Medium,Timer,Intrusive,No,Top Right,Ad,Ambiguous
+Notification Bar,Medium,Hover,Flat,Yes,Bottom,Newsletter,Less Well-Defined
+Fullscreen,Large,Exit Intent,Clean,Yes,Top,Ad,Well-Defined
+Tooltip,Small,Page Load,Aggressive,Yes,Top,Help,Ambiguous
+Tooltip,Small,Hover,Intrusive,Yes,Top Right,Survey,Ambiguous
+Fullscreen,Medium,Scroll,Soft,Yes,Bottom Right,Alert,Well-Defined
+Floating Box,Thin,Page Load,Aggressive,Yes,Top,Survey,Ambiguous
+Fullscreen,Medium,Scroll,Soft,Yes,Top,Offer,Well-Defined
+Dialog,Medium,Timer,Clean,No,Bottom Left,Offer,Less Well-Defined
+Floating Box,Medium,Hover,Basic,Yes,Center,Reminder,Ambiguous
+Modal,Medium,Exit Intent,Soft,Yes,Top,Offer,Well-Defined
+Notification Bar,Medium,Hover,Bold,Yes,Top Left,Help,Ambiguous
+Dialog,Medium,Click,Bold,Yes,Top,Offer,Well-Defined
+Dialog,Medium,Scroll,Clean,Yes,Bottom Right,Ad,Well-Defined
+Dialog,Large,Click,Soft,Yes,Top,Alert,Well-Defined
+Banner,Small,Hover,Bold,Yes,Top Left,Help,Less Well-Defined
+Notification Bar,Small,On Load,Clean,No,Bottom Left,Newsletter,Less Well-Defined
+Floating Box,Thin,Page Load,Intrusive,No,Center,Ad,Ambiguous
+Dialog,Medium,Scroll,Modern,No,Center,Recommendation,Well-Defined
+Dialog,Medium,Exit Intent,Soft,No,Full Page,Alert,Well-Defined
+Banner,Medium,Click,Clean,No,Bottom Right,Offer,Well-Defined
+Floating Box,Thin,Hover,Aggressive,Yes,Top Right,Help,Ambiguous
+Notification Bar,Small,On Load,Bold,No,Top Left,Newsletter,Less Well-Defined
+Banner,Large,Scroll,Bold,Yes,Full Page,Recommendation,Well-Defined
+Floating Box,Thin,Page Load,Aggressive,No,Top,Help,Ambiguous
+Tooltip,Small,Page Load,Basic,No,Top Right,Survey,Ambiguous
+Slide-in,Medium,On Load,Simple,No,Bottom Left,Offer,Less Well-Defined
+Banner,Medium,On Load,Clean,No,Bottom,Discount,Less Well-Defined
+Notification Bar,Small,Hover,Bold,No,Bottom,Offer,Less Well-Defined
+Banner,Medium,Exit Intent,Clean,Yes,Top,Offer,Well-Defined
+Notification Bar,Medium,On Load,Simple,No,Top Left,Newsletter,Less Well-Defined
+Notification Bar,Medium,On Load,Clean,Yes,Top Left,Help,Less Well-Defined
+Notification Bar,Medium,Timer,Simple,Yes,Top Left,Offer,Ambiguous
+Dialog,Large,Click,Bold,No,Bottom Right,Recommendation,Well-Defined
+Dialog,Large,Scroll,Soft,Yes,Full Page,Recommendation,Well-Defined
+Banner,Large,Exit Intent,Bold,Yes,Top,Offer,Less Well-Defined
+Slide-in,Medium,Hover,Flat,Yes,Center,Ad,Ambiguous
+Floating Box,Small,Hover,Flat,Yes,Top Right,Ad,Ambiguous
+Slide-in,Small,Timer,Bold,No,Bottom Left,Offer,Less Well-Defined
+Notification Bar,Small,On Load,Simple,Yes,Top Left,Help,Less Well-Defined
+Banner,Medium,Exit Intent,Clean,No,Full Page,Offer,Well-Defined
+Slide-in,Small,Page Load,Intrusive,Yes,Center,Ad,Ambiguous
+Modal,Large,Exit Intent,Clean,Yes,Bottom Right,Ad,Well-Defined
+Banner,Large,On Load,Modern,Yes,Bottom Right,Ad,Well-Defined
+Dialog,Medium,Timer,Bold,Yes,Bottom Left,Help,Less Well-Defined
+Fullscreen,Medium,Click,Clean,Yes,Top,Alert,Well-Defined
+Fullscreen,Large,Scroll,Modern,No,Center,Ad,Well-Defined
+Dialog,Medium,Scroll,Bold,Yes,Center,Alert,Well-Defined
+Banner,Large,Scroll,Clean,No,Full Page,Alert,Well-Defined
+Exit Popup,Medium,Page Load,Flat,No,Center,Help,Less Well-Defined
+Notification Bar,Small,Hover,Clean,No,Bottom Left,Help,Less Well-Defined
+Fullscreen,Medium,Exit Intent,Soft,No,Full Page,Alert,Well-Defined
+Notification Bar,Small,On Load,Flat,Yes,Top Left,Newsletter,Less Well-Defined
+Slide-in,Medium,On Load,Flat,No,Top Left,Discount,Less Well-Defined
+Exit Popup,Small,Hover,Aggressive,No,Center,Reminder,Ambiguous
+Dialog,Medium,On Load,Clean,Yes,Bottom Left,Help,Ambiguous
+Floating Box,Small,Page Load,Basic,No,Top Right,Help,Ambiguous
+Notification Bar,Medium,On Load,Simple,Yes,Top Left,Newsletter,Less Well-Defined
+Dialog,Large,Scroll,Soft,Yes,Bottom Right,Ad,Well-Defined
+Notification Bar,Small,On Load,Bold,Yes,Bottom Left,Discount,Less Well-Defined
+Dialog,Large,Click,Clean,No,Top,Ad,Well-Defined
+Floating Box,Small,Hover,Flat,Yes,Top,Survey,Ambiguous
+Slide-in,Medium,Timer,Simple,No,Bottom Left,Newsletter,Less Well-Defined
+Banner,Medium,On Load,Bold,No,Full Page,Recommendation,Well-Defined
+Exit Popup,Small,Hover,Basic,Yes,Top,Help,Ambiguous
+Dialog,Medium,Hover,Bold,Yes,Bottom Left,Newsletter,Less Well-Defined
+Slide-in,Medium,Timer,Flat,No,Top Left,Offer,Less Well-Defined
+Fullscreen,Medium,Click,Clean,No,Top,Alert,Well-Defined
+Floating Box,Small,Hover,Intrusive,Yes,Top Right,Survey,Ambiguous
+Floating Box,Thin,Page Load,Intrusive,No,Center,Reminder,Ambiguous
+Fullscreen,Large,Click,Modern,Yes,Center,Offer,Well-Defined
+Fullscreen,Medium,Exit Intent,Clean,No,Full Page,Offer,Well-Defined
+Notification Bar,Medium,Hover,Clean,Yes,Bottom,Discount,Less Well-Defined
+Banner,Medium,On Load,Flat,No,Bottom Left,Newsletter,Ambiguous
+Banner,Medium,Click,Bold,Yes,Center,Recommendation,Less Well-Defined
+Notification Bar,Small,Hover,Bold,Yes,Top Left,Discount,Less Well-Defined
+Dialog,Large,Exit Intent,Modern,No,Top,Offer,Well-Defined
+Slide-in,Medium,Timer,Simple,Yes,Bottom,Newsletter,Less Well-Defined
+Notification Bar,Small,On Load,Bold,No,Top Left,Help,Less Well-Defined
+Tooltip,Thin,Hover,Intrusive,Yes,Top,Reminder,Ambiguous
+Slide-in,Medium,Hover,Flat,Yes,Bottom,Help,Less Well-Defined
+Tooltip,Small,Hover,Intrusive,Yes,Top,Survey,Ambiguous
+Tooltip,Thin,Page Load,Intrusive,No,Top Right,Reminder,Ambiguous
+Exit Popup,Medium,Timer,Intrusive,Yes,Top Right,Help,Ambiguous
+Banner,Medium,Hover,Simple,No,Bottom Left,Newsletter,Less Well-Defined
+Floating Box,Small,Hover,Basic,No,Top Right,Survey,Ambiguous
+Fullscreen,Medium,Exit Intent,Modern,Yes,Center,Recommendation,Well-Defined
+Notification Bar,Medium,Timer,Simple,No,Top Left,Offer,Less Well-Defined
+Banner,Medium,Timer,Flat,No,Top Left,Offer,Less Well-Defined
+Banner,Medium,Timer,Clean,Yes,Bottom,Discount,Less Well-Defined
+Dialog,Medium,Timer,Bold,Yes,Top Left,Offer,Less Well-Defined
+Banner,Small,Hover,Clean,Yes,Top Left,Offer,Less Well-Defined
+Dialog,Large,Exit Intent,Bold,Yes,Bottom Right,Alert,Well-Defined
+Banner,Medium,Timer,Flat,Yes,Bottom,Offer,Less Well-Defined
+Fullscreen,Large,Click,Clean,No,Full Page,Alert,Well-Defined
+Tooltip,Thin,Hover,Intrusive,No,Top Right,Survey,Ambiguous
+Notification Bar,Medium,Timer,Clean,No,Bottom,Discount,Less Well-Defined
+Floating Box,Thin,Hover,Aggressive,Yes,Center,Reminder,Ambiguous
+Slide-in,Small,Timer,Flat,Yes,Top Left,Discount,Less Well-Defined
+Slide-in,Medium,Timer,Bold,No,Bottom Left,Discount,Less Well-Defined
+Dialog,Medium,On Load,Clean,No,Top Left,Newsletter,Well-Defined
+Slide-in,Thin,Page Load,Basic,No,Top Right,Reminder,Ambiguous
+Modal,Medium,Exit Intent,Bold,Yes,Full Page,Recommendation,Well-Defined
+Dialog,Large,On Load,Modern,No,Full Page,Ad,Well-Defined
+Banner,Medium,Click,Clean,No,Top,Recommendation,Less Well-Defined
+Banner,Medium,Timer,Bold,Yes,Bottom Left,Offer,Less Well-Defined
+Dialog,Small,Hover,Flat,No,Bottom Left,Newsletter,Less Well-Defined
+Tooltip,Medium,Timer,Intrusive,No,Top,Reminder,Ambiguous
+Dialog,Medium,Click,Bold,Yes,Center,Recommendation,Well-Defined
+Notification Bar,Medium,Hover,Flat,No,Top Left,Offer,Less Well-Defined
+Fullscreen,Large,Click,Modern,No,Full Page,Offer,Well-Defined
+Exit Popup,Thin,Page Load,Basic,Yes,Top,Survey,Ambiguous
+Dialog,Medium,On Load,Modern,No,Full Page,Alert,Less Well-Defined
+Exit Popup,Small,Page Load,Intrusive,Yes,Top,Help,Ambiguous
+Banner,Medium,Hover,Bold,No,Bottom Left,Offer,Less Well-Defined
+Fullscreen,Large,Exit Intent,Clean,Yes,Full Page,Alert,Well-Defined
+Dialog,Large,On Load,Bold,No,Center,Recommendation,Well-Defined
+Tooltip,Small,Page Load,Intrusive,Yes,Top Right,Help,Ambiguous
+Slide-in,Small,On Load,Flat,Yes,Top Left,Discount,Less Well-Defined
+Banner,Medium,Timer,Flat,Yes,Top Left,Discount,Less Well-Defined
+Slide-in,Medium,Timer,Simple,No,Top Left,Discount,Less Well-Defined
+Modal,Large,Scroll,Soft,Yes,Bottom Right,Recommendation,Well-Defined
+Exit Popup,Small,Timer,Flat,Yes,Center,Ad,Ambiguous
+Banner,Medium,Click,Clean,Yes,Full Page,Recommendation,Ambiguous
+Dialog,Medium,Click,Modern,No,Full Page,Ad,Well-Defined
+Banner,Medium,On Load,Simple,No,Top Left,Discount,Less Well-Defined
+Dialog,Small,Timer,Clean,Yes,Bottom Left,Discount,Less Well-Defined
+Slide-in,Thin,Hover,Basic,Yes,Top,Ad,Ambiguous
+Fullscreen,Large,Scroll,Soft,Yes,Full Page,Ad,Well-Defined
+Slide-in,Medium,On Load,Simple,Yes,Bottom Left,Newsletter,Less Well-Defined
+Fullscreen,Large,Scroll,Modern,Yes,Bottom Right,Ad,Well-Defined
+Dialog,Medium,Exit Intent,Bold,Yes,Bottom Right,Offer,Well-Defined
+Banner,Medium,Timer,Simple,No,Bottom Left,Newsletter,Less Well-Defined
+Tooltip,Small,Page Load,Aggressive,No,Top Right,Reminder,Ambiguous
+Fullscreen,Large,Click,Soft,No,Center,Offer,Well-Defined
+Banner,Small,On Load,Bold,No,Bottom Left,Discount,Less Well-Defined
+Dialog,Medium,Exit Intent,Modern,Yes,Center,Ad,Well-Defined
+Modal,Large,Exit Intent,Bold,Yes,Top,Offer,Well-Defined
+Tooltip,Thin,Page Load,Aggressive,Yes,Top,Help,Ambiguous
+Dialog,Medium,Scroll,Modern,No,Center,Recommendation,Well-Defined
+Exit Popup,Small,Hover,Aggressive,No,Top,Help,Ambiguous
+Modal,Medium,Scroll,Soft,No,Full Page,Ad,Well-Defined
+Dialog,Medium,Hover,Bold,No,Top Left,Discount,Less Well-Defined
+Notification Bar,Medium,On Load,Flat,No,Bottom Left,Help,Less Well-Defined
+Dialog,Large,Scroll,Clean,Yes,Bottom Right,Recommendation,Well-Defined
+Notification Bar,Small,Timer,Flat,No,Top Left,Newsletter,Less Well-Defined
+Notification Bar,Small,Timer,Simple,Yes,Top Left,Discount,Less Well-Defined
+Fullscreen,Medium,Click,Soft,No,Bottom Right,Ad,Well-Defined
+Fullscreen,Medium,Scroll,Clean,Yes,Full Page,Ad,Well-Defined
+Floating Box,Small,Page Load,Basic,No,Top,Survey,Ambiguous
+Notification Bar,Medium,On Load,Flat,No,Bottom Left,Newsletter,Less Well-Defined
+Fullscreen,Medium,Click,Modern,No,Center,Recommendation,Ambiguous
+Floating Box,Thin,Hover,Intrusive,No,Top Right,Help,Ambiguous
+Floating Box,Thin,Page Load,Aggressive,No,Top,Help,Ambiguous
+Floating Box,Medium,Hover,Intrusive,Yes,Top Right,Help,Ambiguous
+Slide-in,Small,Timer,Basic,No,Top,Survey,Ambiguous
+Dialog,Large,Exit Intent,Clean,Yes,Full Page,Recommendation,Well-Defined
+Banner,Medium,Timer,Simple,No,Bottom Left,Newsletter,Less Well-Defined
+Slide-in,Small,On Load,Flat,No,Top Left,Discount,Less Well-Defined
+Floating Box,Thin,Hover,Intrusive,Yes,Top,Survey,Ambiguous
+Modal,Large,Click,Soft,Yes,Bottom Right,Alert,Well-Defined
+Floating Box,Medium,Page Load,Flat,Yes,Top Right,Survey,Ambiguous
+Dialog,Large,Exit Intent,Soft,Yes,Full Page,Ad,Well-Defined
+Dialog,Small,On Load,Clean,Yes,Top Left,Offer,Less Well-Defined
+Dialog,Small,Hover,Flat,Yes,Bottom,Newsletter,Less Well-Defined
+Tooltip,Thin,Hover,Aggressive,Yes,Top,Survey,Ambiguous
+Slide-in,Medium,Timer,Flat,No,Bottom Left,Newsletter,Less Well-Defined
+Dialog,Large,Scroll,Soft,No,Center,Alert,Well-Defined
+Slide-in,Medium,Hover,Flat,Yes,Top Right,Survey,Ambiguous
+Dialog,Medium,Timer,Bold,Yes,Bottom,Offer,Less Well-Defined
+Fullscreen,Medium,Scroll,Soft,Yes,Center,Recommendation,Well-Defined
+Slide-in,Small,Timer,Bold,Yes,Bottom,Help,Less Well-Defined
+Floating Box,Small,Timer,Basic,No,Top Right,Ad,Ambiguous
+Tooltip,Medium,Hover,Flat,No,Top,Help,Ambiguous
+Notification Bar,Small,Hover,Clean,Yes,Bottom,Help,Less Well-Defined
+Slide-in,Medium,Timer,Bold,Yes,Top Left,Newsletter,Less Well-Defined
+Floating Box,Small,Page Load,Aggressive,Yes,Top Right,Survey,Ambiguous
+Slide-in,Medium,On Load,Simple,No,Bottom Left,Help,Well-Defined
+Banner,Medium,Hover,Bold,No,Bottom,Help,Less Well-Defined
+Modal,Medium,Scroll,Modern,Yes,Center,Recommendation,Well-Defined
+Modal,Large,Exit Intent,Soft,No,Center,Recommendation,Well-Defined
+Tooltip,Thin,Hover,Aggressive,No,Top,Survey,Ambiguous
+Banner,Medium,Click,Soft,No,Top,Offer,Well-Defined
+Exit Popup,Thin,Page Load,Aggressive,No,Top,Help,Ambiguous
+Dialog,Medium,Exit Intent,Clean,Yes,Full Page,Alert,Well-Defined
+Modal,Large,Exit Intent,Modern,Yes,Bottom Right,Ad,Well-Defined
+Notification Bar,Small,On Load,Simple,No,Bottom,Offer,Less Well-Defined
+Slide-in,Small,On Load,Simple,Yes,Bottom,Discount,Less Well-Defined
+Exit Popup,Thin,Page Load,Intrusive,No,Top Right,Help,Ambiguous
+Banner,Small,On Load,Simple,Yes,Bottom Left,Offer,Less Well-Defined
+Slide-in,Medium,Hover,Flat,No,Bottom Left,Newsletter,Less Well-Defined
+Notification Bar,Small,Timer,Bold,No,Top Left,Discount,Less Well-Defined
+Dialog,Medium,Scroll,Soft,Yes,Center,Ad,Well-Defined
+Dialog,Small,Hover,Bold,Yes,Bottom,Discount,Well-Defined
+Notification Bar,Small,Timer,Clean,Yes,Bottom,Newsletter,Less Well-Defined
+Fullscreen,Medium,Click,Soft,No,Full Page,Ad,Well-Defined
+Slide-in,Small,Hover,Aggressive,No,Center,Reminder,Ambiguous
+Modal,Medium,Scroll,Soft,Yes,Center,Ad,Well-Defined
+Notification Bar,Medium,Timer,Clean,No,Bottom,Discount,Less Well-Defined
+Banner,Medium,Scroll,Soft,Yes,Full Page,Alert,Well-Defined
+Dialog,Large,Exit Intent,Modern,Yes,Bottom Right,Recommendation,Well-Defined
+Notification Bar,Medium,Hover,Bold,Yes,Bottom,Discount,Less Well-Defined
+Dialog,Large,On Load,Modern,Yes,Center,Ad,Well-Defined
+Floating Box,Medium,Hover,Basic,No,Center,Help,Ambiguous
+Tooltip,Medium,Page Load,Intrusive,No,Top,Help,Ambiguous
+Dialog,Medium,Click,Soft,No,Center,Recommendation,Well-Defined
+Slide-in,Medium,Timer,Bold,No,Top Left,Offer,Less Well-Defined
+Floating Box,Small,Page Load,Intrusive,Yes,Top Right,Reminder,Ambiguous
+Banner,Small,On Load,Simple,No,Bottom Left,Offer,Less Well-Defined
+Slide-in,Medium,Hover,Simple,Yes,Bottom,Discount,Less Well-Defined
+Floating Box,Thin,Hover,Basic,No,Top,Help,Ambiguous
+Banner,Small,Timer,Flat,No,Bottom,Newsletter,Ambiguous
+Tooltip,Thin,Page Load,Intrusive,Yes,Top,Survey,Ambiguous
+Floating Box,Thin,Page Load,Aggressive,Yes,Top,Reminder,Ambiguous
+Modal,Medium,Click,Modern,Yes,Center,Alert,Well-Defined
+Modal,Medium,Scroll,Soft,No,Center,Alert,Well-Defined
+Slide-in,Medium,Timer,Bold,No,Bottom Left,Offer,Less Well-Defined
+Fullscreen,Large,Click,Soft,No,Bottom Right,Ad,Well-Defined
+Banner,Medium,Timer,Simple,No,Bottom Left,Help,Less Well-Defined
+Floating Box,Small,Timer,Basic,No,Top,Help,Ambiguous
+Notification Bar,Medium,Timer,Bold,Yes,Bottom Left,Offer,Less Well-Defined
+Fullscreen,Medium,On Load,Bold,No,Full Page,Offer,Well-Defined
+Floating Box,Thin,Hover,Basic,Yes,Top Right,Survey,Ambiguous
+Fullscreen,Medium,Exit Intent,Clean,Yes,Full Page,Recommendation,Less Well-Defined
+Exit Popup,Small,Timer,Basic,Yes,Top,Help,Ambiguous
+Banner,Small,Timer,Simple,No,Bottom,Offer,Less Well-Defined
+Exit Popup,Small,Hover,Basic,Yes,Center,Reminder,Ambiguous
+Floating Box,Thin,Page Load,Intrusive,No,Top,Survey,Ambiguous
+Modal,Large,Exit Intent,Clean,No,Center,Alert,Less Well-Defined
+Slide-in,Medium,On Load,Bold,Yes,Bottom Left,Newsletter,Less Well-Defined
+Exit Popup,Thin,Hover,Aggressive,No,Top Right,Reminder,Ambiguous
+Slide-in,Small,Hover,Flat,No,Top Left,Help,Less Well-Defined
+Dialog,Medium,Click,Clean,Yes,Full Page,Alert,Well-Defined
+Floating Box,Medium,Page Load,Aggressive,No,Center,Help,Ambiguous
+Notification Bar,Medium,Timer,Simple,Yes,Bottom Left,Discount,Less Well-Defined
+Floating Box,Thin,Page Load,Aggressive,Yes,Top,Survey,Ambiguous
+Slide-in,Small,Timer,Bold,Yes,Top Left,Newsletter,Less Well-Defined
+Banner,Medium,Timer,Bold,Yes,Top Left,Newsletter,Less Well-Defined
+Floating Box,Thin,Page Load,Intrusive,No,Center,Help,Ambiguous
+Tooltip,Thin,Timer,Aggressive,Yes,Top,Survey,Well-Defined
+Modal,Medium,On Load,Soft,Yes,Top,Offer,Well-Defined
+Tooltip,Small,Timer,Flat,No,Top,Reminder,Ambiguous
+Floating Box,Thin,Hover,Intrusive,No,Top Right,Help,Ambiguous
+Dialog,Medium,Hover,Clean,No,Bottom,Offer,Less Well-Defined
+Floating Box,Small,Hover,Aggressive,Yes,Top,Ad,Ambiguous
+Dialog,Small,Hover,Clean,Yes,Bottom Left,Help,Less Well-Defined
+Fullscreen,Large,Exit Intent,Soft,No,Center,Alert,Well-Defined
+Floating Box,Small,Page Load,Basic,No,Top,Survey,Ambiguous
+Banner,Medium,On Load,Flat,Yes,Bottom,Offer,Less Well-Defined
+Banner,Medium,Timer,Flat,No,Top Left,Newsletter,Less Well-Defined
+Dialog,Medium,On Load,Bold,Yes,Bottom Right,Ad,Well-Defined
+Slide-in,Medium,On Load,Flat,Yes,Bottom,Discount,Less Well-Defined
+Banner,Large,Click,Soft,Yes,Top,Offer,Well-Defined
+Modal,Medium,Scroll,Soft,No,Bottom Right,Offer,Well-Defined
+Banner,Medium,Scroll,Clean,Yes,Top,Recommendation,Well-Defined
+Banner,Medium,On Load,Simple,Yes,Bottom,Discount,Less Well-Defined
+Dialog,Large,Click,Clean,No,Center,Ad,Well-Defined
+Fullscreen,Large,Click,Soft,Yes,Bottom Right,Alert,Well-Defined
+Slide-in,Small,Timer,Flat,Yes,Top Left,Newsletter,Less Well-Defined
+Slide-in,Thin,Hover,Intrusive,Yes,Center,Ad,Ambiguous
+Exit Popup,Small,Hover,Basic,Yes,Top Right,Survey,Ambiguous
+Slide-in,Medium,Timer,Aggressive,Yes,Top Right,Help,Ambiguous
+Tooltip,Small,Hover,Intrusive,No,Top Right,Survey,Ambiguous
+Dialog,Large,Click,Clean,No,Bottom Right,Ad,Well-Defined
+Fullscreen,Large,Scroll,Clean,Yes,Center,Recommendation,Well-Defined
+Floating Box,Medium,Page Load,Intrusive,Yes,Center,Help,Less Well-Defined
+Fullscreen,Large,Scroll,Soft,Yes,Bottom Right,Offer,Well-Defined
+Notification Bar,Small,Timer,Bold,No,Bottom Left,Offer,Less Well-Defined
+Slide-in,Small,Timer,Flat,No,Bottom Left,Discount,Less Well-Defined
+Modal,Medium,Scroll,Soft,No,Full Page,Alert,Well-Defined
+Notification Bar,Medium,On Load,Flat,No,Bottom Left,Help,Less Well-Defined
+Notification Bar,Small,Timer,Bold,No,Bottom Left,Discount,Less Well-Defined
+Tooltip,Thin,Page Load,Intrusive,Yes,Top Right,Survey,Ambiguous
+Banner,Medium,On Load,Bold,No,Full Page,Recommendation,Well-Defined
+Dialog,Small,Timer,Flat,Yes,Top Left,Discount,Less Well-Defined
+Fullscreen,Medium,Scroll,Clean,Yes,Top,Offer,Well-Defined
+Exit Popup,Small,Page Load,Aggressive,No,Top,Survey,Ambiguous
+Floating Box,Small,Hover,Intrusive,Yes,Top Right,Help,Ambiguous
+Tooltip,Thin,Timer,Basic,No,Center,Ad,Ambiguous
+Slide-in,Thin,Page Load,Flat,Yes,Top,Ad,Ambiguous
+Dialog,Medium,On Load,Flat,No,Top Left,Discount,Well-Defined
+Exit Popup,Thin,Hover,Basic,Yes,Top,Help,Ambiguous
+Slide-in,Small,Timer,Clean,No,Top Left,Offer,Less Well-Defined
+Exit Popup,Thin,Page Load,Basic,Yes,Center,Survey,Ambiguous
+Modal,Large,Exit Intent,Modern,No,Top,Recommendation,Well-Defined
+Fullscreen,Medium,Click,Soft,Yes,Full Page,Alert,Well-Defined
+Fullscreen,Large,Click,Bold,Yes,Full Page,Alert,Well-Defined
+Modal,Large,Click,Clean,Yes,Center,Alert,Well-Defined
+Fullscreen,Large,Click,Bold,Yes,Top,Ad,Well-Defined
+Floating Box,Thin,Timer,Aggressive,Yes,Top,Survey,Ambiguous
+Slide-in,Medium,Hover,Basic,Yes,Top,Reminder,Less Well-Defined
+Banner,Medium,On Load,Simple,Yes,Bottom Left,Newsletter,Less Well-Defined
+Banner,Medium,Click,Clean,No,Bottom Right,Alert,Well-Defined
+Dialog,Medium,Exit Intent,Soft,No,Full Page,Alert,Well-Defined
+Floating Box,Small,Hover,Intrusive,Yes,Top Right,Help,Ambiguous
+Tooltip,Medium,Page Load,Intrusive,Yes,Top Right,Ad,Ambiguous
+Floating Box,Small,Hover,Intrusive,No,Center,Help,Ambiguous
+Fullscreen,Large,Click,Soft,No,Full Page,Recommendation,Well-Defined
+Slide-in,Small,Hover,Clean,No,Top Left,Help,Less Well-Defined
+Dialog,Medium,Hover,Flat,Yes,Bottom,Offer,Less Well-Defined
+Tooltip,Medium,Page Load,Intrusive,Yes,Top Right,Reminder,Ambiguous
+Banner,Large,Click,Bold,No,Center,Alert,Less Well-Defined
+Dialog,Medium,On Load,Flat,No,Bottom Left,Newsletter,Less Well-Defined
+Banner,Medium,On Load,Simple,Yes,Bottom Left,Offer,Less Well-Defined
+Dialog,Large,Exit Intent,Soft,No,Bottom Right,Ad,Well-Defined
+Modal,Large,Scroll,Modern,No,Full Page,Alert,Well-Defined
+Fullscreen,Large,Exit Intent,Clean,Yes,Top,Alert,Well-Defined
+Tooltip,Small,Hover,Aggressive,No,Top Right,Ad,Less Well-Defined
+Dialog,Large,Exit Intent,Modern,No,Top,Alert,Less Well-Defined
+Tooltip,Small,Hover,Basic,No,Top,Help,Ambiguous
+Dialog,Medium,Hover,Bold,Yes,Bottom Left,Help,Less Well-Defined
+Modal,Medium,Scroll,Modern,Yes,Bottom Right,Offer,Well-Defined
+Notification Bar,Medium,On Load,Bold,Yes,Top Left,Newsletter,Less Well-Defined
+Modal,Large,On Load,Bold,No,Full Page,Alert,Well-Defined
+Floating Box,Medium,Page Load,Aggressive,No,Top Right,Help,Ambiguous
+Modal,Medium,Scroll,Bold,Yes,Top,Ad,Ambiguous
+Banner,Medium,Click,Bold,No,Bottom Right,Ad,Well-Defined
+Fullscreen,Large,On Load,Modern,Yes,Bottom Right,Alert,Well-Defined
+Modal,Large,Scroll,Clean,Yes,Bottom Right,Ad,Well-Defined
+Tooltip,Thin,Page Load,Flat,No,Center,Ad,Ambiguous
+Floating Box,Thin,Timer,Basic,No,Top Right,Help,Ambiguous
+Dialog,Medium,Click,Soft,Yes,Center,Recommendation,Well-Defined
+Floating Box,Thin,Hover,Basic,No,Center,Help,Ambiguous
+Notification Bar,Medium,On Load,Flat,No,Bottom Left,Offer,Less Well-Defined
+Modal,Medium,On Load,Soft,Yes,Center,Offer,Well-Defined
+Slide-in,Small,Hover,Basic,Yes,Top Right,Ad,Ambiguous
+Dialog,Medium,Scroll,Modern,Yes,Full Page,Alert,Well-Defined
+Dialog,Medium,Hover,Bold,Yes,Bottom Left,Offer,Less Well-Defined
+Notification Bar,Small,On Load,Simple,Yes,Top Left,Newsletter,Less Well-Defined
+Floating Box,Small,Hover,Aggressive,No,Top,Survey,Ambiguous
+Slide-in,Small,Timer,Bold,Yes,Bottom Left,Discount,Less Well-Defined
+Tooltip,Small,Page Load,Basic,Yes,Top Right,Survey,Ambiguous
+Fullscreen,Large,Scroll,Clean,No,Center,Alert,Well-Defined
+Banner,Medium,On Load,Bold,Yes,Bottom Left,Offer,Less Well-Defined
+Modal,Large,On Load,Bold,No,Full Page,Ad,Well-Defined
+Fullscreen,Large,On Load,Soft,No,Top,Recommendation,Ambiguous
+Banner,Large,On Load,Soft,Yes,Center,Offer,Well-Defined
+Modal,Large,Click,Soft,Yes,Full Page,Recommendation,Well-Defined
+Tooltip,Thin,Hover,Aggressive,Yes,Center,Ad,Ambiguous
+Floating Box,Medium,Timer,Basic,Yes,Top Right,Survey,Ambiguous
+Fullscreen,Medium,Click,Soft,No,Top,Offer,Well-Defined
+Floating Box,Small,Page Load,Basic,No,Top Right,Help,Ambiguous
+Dialog,Medium,Timer,Simple,No,Bottom,Newsletter,Less Well-Defined
+Floating Box,Small,Page Load,Intrusive,No,Center,Help,Ambiguous
+Fullscreen,Medium,On Load,Bold,No,Top,Offer,Less Well-Defined
+Modal,Large,Scroll,Clean,Yes,Bottom Right,Ad,Well-Defined
+Dialog,Large,On Load,Clean,Yes,Bottom Right,Alert,Ambiguous
+Slide-in,Thin,Hover,Basic,No,Center,Survey,Ambiguous
+Fullscreen,Medium,Scroll,Clean,Yes,Full Page,Ad,Well-Defined
+Floating Box,Small,Page Load,Basic,Yes,Top Right,Help,Ambiguous
+Floating Box,Small,Hover,Aggressive,Yes,Top Right,Reminder,Ambiguous
+Dialog,Medium,Scroll,Clean,No,Center,Ad,Well-Defined
+Tooltip,Small,Page Load,Flat,No,Top Right,Survey,Ambiguous
+Slide-in,Medium,Timer,Flat,No,Top,Reminder,Ambiguous
+Exit Popup,Medium,Timer,Intrusive,Yes,Top,Survey,Ambiguous
+Dialog,Large,Scroll,Bold,Yes,Center,Offer,Less Well-Defined
+Tooltip,Medium,Timer,Basic,No,Top Right,Help,Ambiguous
+Banner,Medium,On Load,Flat,Yes,Top Left,Offer,Less Well-Defined
+Slide-in,Medium,Page Load,Aggressive,No,Top,Survey,Ambiguous
+Banner,Large,Scroll,Clean,No,Center,Alert,Well-Defined
+Floating Box,Thin,Page Load,Flat,No,Center,Ad,Ambiguous
+Banner,Small,Hover,Clean,No,Top Left,Discount,Less Well-Defined
+Dialog,Large,Click,Soft,No,Full Page,Recommendation,Well-Defined
+Floating Box,Small,Page Load,Intrusive,Yes,Top Right,Reminder,Ambiguous
+Dialog,Medium,On Load,Clean,Yes,Center,Ad,Well-Defined
+Tooltip,Small,Hover,Aggressive,Yes,Top,Help,Ambiguous
+Tooltip,Thin,Hover,Intrusive,Yes,Top,Reminder,Ambiguous
+Slide-in,Small,On Load,Bold,Yes,Bottom,Discount,Less Well-Defined
+Slide-in,Thin,Hover,Aggressive,Yes,Top,Ad,Well-Defined
+Floating Box,Thin,Page Load,Basic,Yes,Top,Help,Ambiguous
+Dialog,Medium,On Load,Bold,Yes,Top,Recommendation,Well-Defined
+Modal,Medium,On Load,Clean,Yes,Full Page,Alert,Well-Defined
+Exit Popup,Small,Page Load,Intrusive,Yes,Top Right,Survey,Ambiguous
+Exit Popup,Small,Timer,Basic,Yes,Center,Ad,Ambiguous
+Slide-in,Medium,Page Load,Intrusive,Yes,Top Right,Ad,Ambiguous
+Dialog,Medium,On Load,Modern,No,Center,Offer,Well-Defined
+Floating Box,Thin,Page Load,Aggressive,Yes,Center,Survey,Ambiguous
+Modal,Large,Click,Clean,No,Full Page,Alert,Well-Defined
+Dialog,Medium,Timer,Flat,No,Bottom,Help,Less Well-Defined
+Dialog,Small,Timer,Clean,No,Bottom Left,Offer,Less Well-Defined
+Tooltip,Medium,Page Load,Flat,Yes,Center,Survey,Ambiguous
+Tooltip,Thin,Hover,Basic,Yes,Top,Ad,Less Well-Defined
+Exit Popup,Thin,Timer,Intrusive,Yes,Top,Help,Ambiguous
+Exit Popup,Medium,Timer,Basic,Yes,Top,Reminder,Ambiguous
+Slide-in,Medium,On Load,Clean,No,Bottom Left,Help,Less Well-Defined
+Tooltip,Thin,Hover,Aggressive,No,Top Right,Reminder,Ambiguous
+Slide-in,Medium,Timer,Intrusive,Yes,Top,Survey,Ambiguous
+Exit Popup,Medium,Page Load,Flat,No,Top Right,Ad,Ambiguous
+Tooltip,Thin,Hover,Intrusive,No,Top,Reminder,Ambiguous
+Fullscreen,Large,Scroll,Modern,No,Center,Offer,Well-Defined
+Banner,Small,Hover,Clean,Yes,Bottom Left,Newsletter,Less Well-Defined
+Banner,Medium,On Load,Bold,Yes,Bottom Left,Offer,Less Well-Defined
+Dialog,Medium,On Load,Simple,No,Bottom Left,Help,Well-Defined
+Floating Box,Thin,Page Load,Basic,Yes,Center,Ad,Ambiguous
+Modal,Medium,Scroll,Soft,No,Bottom Right,Alert,Ambiguous
+Floating Box,Thin,Page Load,Aggressive,Yes,Center,Survey,Ambiguous
+Banner,Medium,Click,Modern,No,Bottom Right,Alert,Well-Defined
+Floating Box,Medium,Page Load,Flat,Yes,Top,Help,Ambiguous
+Slide-in,Small,Timer,Bold,No,Bottom,Offer,Well-Defined
+Fullscreen,Medium,Click,Soft,No,Full Page,Recommendation,Well-Defined
+Dialog,Medium,Scroll,Clean,Yes,Center,Alert,Well-Defined
+Banner,Medium,Exit Intent,Modern,Yes,Bottom Right,Ad,Well-Defined
+Modal,Medium,Exit Intent,Soft,Yes,Center,Ad,Well-Defined
+Modal,Large,Exit Intent,Modern,No,Full Page,Ad,Well-Defined
+Floating Box,Thin,Page Load,Basic,No,Top Right,Ad,Ambiguous
+Dialog,Medium,On Load,Clean,Yes,Top Left,Newsletter,Less Well-Defined
+Dialog,Medium,Scroll,Soft,No,Bottom Right,Ad,Well-Defined
+Slide-in,Small,Hover,Simple,No,Top Left,Offer,Less Well-Defined
+Fullscreen,Medium,Scroll,Modern,No,Center,Ad,Well-Defined
+Floating Box,Small,Timer,Basic,Yes,Top,Ad,Ambiguous
+Slide-in,Small,On Load,Simple,Yes,Bottom Left,Discount,Less Well-Defined
+Dialog,Small,Hover,Simple,Yes,Bottom Left,Offer,Less Well-Defined
+Slide-in,Medium,Timer,Flat,Yes,Bottom,Discount,Less Well-Defined
+Floating Box,Small,Hover,Aggressive,Yes,Center,Ad,Ambiguous
+Fullscreen,Medium,Click,Modern,Yes,Center,Alert,Well-Defined
+Slide-in,Small,Timer,Simple,No,Bottom Left,Newsletter,Less Well-Defined
+Banner,Medium,Timer,Bold,No,Top Left,Discount,Less Well-Defined
+Modal,Large,Scroll,Clean,No,Full Page,Recommendation,Well-Defined
+Floating Box,Small,Page Load,Intrusive,Yes,Top Right,Reminder,Ambiguous
+Exit Popup,Thin,Timer,Flat,No,Top,Survey,Ambiguous
+Exit Popup,Small,Page Load,Basic,No,Top,Ad,Ambiguous
+Dialog,Medium,Timer,Flat,No,Top Left,Discount,Less Well-Defined
+Banner,Small,On Load,Clean,Yes,Bottom Left,Offer,Less Well-Defined
+Modal,Medium,Exit Intent,Bold,Yes,Full Page,Ad,Well-Defined
+Exit Popup,Thin,Hover,Basic,No,Top Right,Help,Ambiguous
+Banner,Small,Timer,Flat,No,Bottom Left,Discount,Less Well-Defined
+Floating Box,Small,Timer,Basic,Yes,Top Right,Ad,Ambiguous
+Slide-in,Thin,Page Load,Flat,No,Top,Help,Ambiguous
+Banner,Medium,Scroll,Soft,Yes,Full Page,Recommendation,Well-Defined
+Exit Popup,Thin,Page Load,Basic,Yes,Center,Help,Ambiguous
+Tooltip,Small,Hover,Basic,Yes,Top,Survey,Ambiguous
+Dialog,Medium,Exit Intent,Modern,No,Center,Ad,Well-Defined
+Exit Popup,Small,Hover,Flat,Yes,Top Right,Ad,Ambiguous
+Slide-in,Medium,On Load,Simple,Yes,Bottom Left,Offer,Less Well-Defined
+Tooltip,Thin,Hover,Intrusive,No,Top,Survey,Ambiguous
+Notification Bar,Medium,Timer,Simple,No,Bottom Left,Discount,Less Well-Defined
+Slide-in,Small,Hover,Simple,Yes,Bottom,Help,Less Well-Defined
+Tooltip,Thin,Hover,Aggressive,Yes,Top Right,Survey,Ambiguous
+Notification Bar,Small,Timer,Flat,No,Top Left,Offer,Less Well-Defined
+Banner,Small,Timer,Bold,No,Bottom Left,Newsletter,Less Well-Defined
+Fullscreen,Large,Exit Intent,Clean,Yes,Center,Alert,Well-Defined
+Slide-in,Medium,On Load,Bold,Yes,Bottom Left,Discount,Less Well-Defined
+Dialog,Large,Exit Intent,Modern,Yes,Bottom Right,Ad,Well-Defined
+Slide-in,Medium,Hover,Flat,No,Top Right,Help,Ambiguous
+Fullscreen,Medium,Scroll,Soft,Yes,Center,Recommendation,Well-Defined
+Modal,Medium,Click,Clean,Yes,Center,Offer,Well-Defined
+Fullscreen,Large,Exit Intent,Clean,No,Bottom Right,Recommendation,Well-Defined
+Tooltip,Small,Timer,Intrusive,Yes,Top Right,Survey,Ambiguous
+Slide-in,Small,On Load,Clean,Yes,Bottom Left,Offer,Less Well-Defined
+Modal,Medium,On Load,Clean,No,Bottom Right,Offer,Well-Defined
+Banner,Small,Hover,Simple,No,Bottom Left,Discount,Less Well-Defined
+Exit Popup,Thin,Hover,Intrusive,No,Top Right,Help,Ambiguous
+Exit Popup,Medium,Hover,Basic,No,Center,Survey,Ambiguous
+Notification Bar,Medium,On Load,Flat,No,Bottom,Discount,Less Well-Defined
+Modal,Medium,On Load,Soft,No,Center,Ad,Well-Defined
+Modal,Medium,Click,Clean,Yes,Full Page,Ad,Well-Defined
+Floating Box,Small,Hover,Basic,Yes,Top Right,Reminder,Ambiguous
+Fullscreen,Large,Exit Intent,Clean,Yes,Full Page,Alert,Well-Defined
+Dialog,Large,Click,Modern,Yes,Full Page,Recommendation,Well-Defined
+Slide-in,Small,Timer,Simple,No,Bottom Left,Newsletter,Less Well-Defined
+Fullscreen,Medium,Exit Intent,Clean,No,Center,Ad,Well-Defined
+Dialog,Large,Scroll,Soft,No,Center,Ad,Well-Defined
+Slide-in,Small,Timer,Flat,Yes,Top Left,Offer,Less Well-Defined
+Dialog,Medium,Exit Intent,Modern,No,Center,Offer,Well-Defined
+Floating Box,Small,Page Load,Basic,No,Top Right,Survey,Ambiguous
+Notification Bar,Medium,On Load,Flat,No,Bottom,Discount,Less Well-Defined
+Dialog,Medium,Click,Clean,Yes,Center,Ad,Well-Defined
+Slide-in,Medium,On Load,Simple,Yes,Bottom Left,Discount,Less Well-Defined
+Exit Popup,Thin,Hover,Aggressive,No,Top,Help,Ambiguous
+Tooltip,Medium,Page Load,Flat,No,Center,Reminder,Ambiguous
+Exit Popup,Thin,Timer,Basic,Yes,Center,Help,Ambiguous
+Slide-in,Thin,Timer,Basic,Yes,Top,Reminder,Ambiguous
+Floating Box,Thin,Hover,Aggressive,Yes,Top Right,Survey,Ambiguous
+Exit Popup,Small,Page Load,Aggressive,Yes,Top Right,Reminder,Ambiguous
+Banner,Medium,Click,Clean,No,Bottom Right,Ad,Well-Defined
+Modal,Medium,Exit Intent,Clean,No,Full Page,Recommendation,Well-Defined
+Banner,Small,Timer,Clean,No,Bottom Left,Discount,Less Well-Defined
+Fullscreen,Large,Scroll,Clean,No,Bottom Right,Recommendation,Well-Defined
+Banner,Small,Timer,Bold,Yes,Top Left,Offer,Less Well-Defined
+Dialog,Medium,On Load,Flat,Yes,Top Left,Discount,Well-Defined
+Banner,Small,Hover,Flat,No,Bottom Left,Offer,Less Well-Defined
+Floating Box,Medium,Hover,Basic,No,Top Right,Help,Well-Defined
+Notification Bar,Small,On Load,Flat,No,Top Left,Offer,Less Well-Defined
+Tooltip,Small,Hover,Basic,No,Top,Reminder,Ambiguous
+Floating Box,Medium,Page Load,Flat,No,Center,Ad,Well-Defined
+Fullscreen,Large,Exit Intent,Bold,Yes,Full Page,Ad,Well-Defined
+Banner,Medium,Click,Bold,No,Top,Ad,Well-Defined
+Dialog,Medium,Scroll,Clean,Yes,Center,Offer,Well-Defined
+Tooltip,Small,Timer,Basic,No,Center,Reminder,Ambiguous
+Banner,Medium,On Load,Bold,No,Bottom Left,Help,Less Well-Defined
+Notification Bar,Medium,On Load,Bold,No,Bottom Left,Offer,Less Well-Defined
+Exit Popup,Small,Hover,Basic,Yes,Top Right,Reminder,Ambiguous
+Slide-in,Medium,Timer,Clean,No,Bottom,Discount,Less Well-Defined
+Slide-in,Thin,Page Load,Flat,Yes,Center,Ad,Ambiguous
+Notification Bar,Small,Hover,Bold,Yes,Bottom,Discount,Less Well-Defined
+Slide-in,Small,On Load,Simple,No,Bottom,Newsletter,Ambiguous
+Floating Box,Medium,Hover,Basic,Yes,Center,Survey,Ambiguous
+Dialog,Large,On Load,Clean,Yes,Full Page,Ad,Well-Defined
+Modal,Medium,Scroll,Modern,Yes,Center,Recommendation,Well-Defined
+Modal,Large,Exit Intent,Modern,No,Center,Offer,Well-Defined
+Dialog,Large,Click,Soft,No,Bottom Right,Alert,Well-Defined
+Floating Box,Small,Page Load,Flat,No,Top,Reminder,Ambiguous
+Exit Popup,Medium,Page Load,Intrusive,No,Top Right,Reminder,Ambiguous
+Modal,Medium,Exit Intent,Modern,No,Full Page,Recommendation,Well-Defined
+Tooltip,Thin,Hover,Flat,Yes,Top,Reminder,Ambiguous
+Modal,Large,Click,Bold,No,Center,Ad,Well-Defined
+Dialog,Medium,On Load,Soft,Yes,Full Page,Recommendation,Well-Defined
+Exit Popup,Medium,Timer,Intrusive,Yes,Top,Ad,Ambiguous
+Slide-in,Medium,Page Load,Basic,Yes,Top,Help,Ambiguous
+Tooltip,Small,Hover,Intrusive,Yes,Top,Reminder,Ambiguous
+Banner,Medium,Click,Bold,Yes,Center,Ad,Well-Defined
+Tooltip,Medium,Hover,Intrusive,No,Top Right,Help,Less Well-Defined
+Banner,Medium,Hover,Flat,No,Bottom Left,Discount,Less Well-Defined
+Banner,Medium,On Load,Bold,No,Top Left,Newsletter,Well-Defined
+Exit Popup,Thin,Hover,Basic,Yes,Top,Reminder,Ambiguous
+Exit Popup,Small,Hover,Intrusive,Yes,Top Right,Survey,Ambiguous
+Tooltip,Thin,Hover,Aggressive,No,Top Right,Help,Ambiguous
+Banner,Small,Timer,Flat,Yes,Top Left,Newsletter,Less Well-Defined
+Notification Bar,Small,On Load,Bold,Yes,Top Left,Discount,Less Well-Defined
+Fullscreen,Large,Scroll,Modern,No,Center,Recommendation,Well-Defined
+Slide-in,Thin,Page Load,Flat,No,Top Right,Ad,Ambiguous
+Tooltip,Medium,Timer,Intrusive,No,Center,Ad,Ambiguous
+Dialog,Medium,On Load,Clean,No,Center,Alert,Well-Defined
+Exit Popup,Thin,Page Load,Basic,Yes,Top,Reminder,Ambiguous
+Exit Popup,Medium,Hover,Basic,Yes,Top,Reminder,Ambiguous
+Exit Popup,Thin,Hover,Intrusive,Yes,Top Right,Survey,Ambiguous
+Dialog,Medium,On Load,Soft,Yes,Bottom Right,Offer,Well-Defined
+Banner,Medium,Timer,Bold,No,Bottom Left,Discount,Less Well-Defined
+Fullscreen,Large,Click,Modern,Yes,Center,Recommendation,Well-Defined
+Dialog,Large,Click,Modern,No,Top,Ad,Well-Defined
+Dialog,Small,On Load,Flat,Yes,Bottom Left,Offer,Less Well-Defined
+Notification Bar,Medium,Timer,Bold,Yes,Top Left,Discount,Less Well-Defined
+Slide-in,Medium,Hover,Flat,No,Bottom,Newsletter,Less Well-Defined
+Banner,Large,Exit Intent,Bold,Yes,Center,Recommendation,Well-Defined
+Slide-in,Small,On Load,Bold,Yes,Bottom,Newsletter,Less Well-Defined
+Floating Box,Medium,Hover,Aggressive,Yes,Top,Help,Ambiguous
+Notification Bar,Medium,Timer,Clean,Yes,Top Left,Help,Less Well-Defined
+Exit Popup,Thin,Page Load,Aggressive,Yes,Top,Help,Ambiguous
+Slide-in,Medium,On Load,Simple,No,Top Left,Newsletter,Less Well-Defined
+Slide-in,Small,On Load,Bold,Yes,Top Left,Discount,Less Well-Defined
+Modal,Medium,Exit Intent,Modern,No,Bottom Right,Alert,Less Well-Defined
+Slide-in,Small,Hover,Basic,Yes,Top,Help,Ambiguous
+Banner,Medium,On Load,Soft,No,Bottom Right,Offer,Well-Defined
+Modal,Medium,Exit Intent,Clean,Yes,Center,Ad,Well-Defined
+Slide-in,Medium,Timer,Bold,Yes,Bottom,Newsletter,Less Well-Defined
+Floating Box,Small,Hover,Basic,No,Top,Survey,Ambiguous
+Floating Box,Medium,Hover,Intrusive,No,Center,Ad,Well-Defined
+Slide-in,Small,Page Load,Aggressive,No,Top Right,Ad,Ambiguous
+Banner,Large,Click,Soft,Yes,Center,Ad,Well-Defined
+Slide-in,Small,Hover,Flat,No,Center,Reminder,Ambiguous
+Exit Popup,Medium,Page Load,Aggressive,Yes,Top,Help,Ambiguous
+Fullscreen,Large,Scroll,Modern,No,Bottom Right,Ad,Well-Defined
